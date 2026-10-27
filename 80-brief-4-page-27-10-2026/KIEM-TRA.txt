@@ -1,0 +1,8 @@
+KIỂM TRA GÓI / 27-10-2026
+80 ID duy nhất; 20/page; 80 tiêu đề riêng trong lô.
+80/80 có đủ nhân vật, xung đột, vật chứng, nguồn tiếp cận, sự thật, kết, logic và cảnh hình.
+80/80 có 5 nhịp, L1 kết bằng ..., câu hỏi L2 riêng và L3 có kết cụ thể.
+Mã nguồn trong dữ liệu có mục tương ứng ở báo cáo.
+Đã quét cấu trúc 61 file txt cũ; đọc được 154 tiêu đề (có thể gồm bản sao).
+Trùng chính xác tiêu đề mới với tiêu đề corpus cũ: 0.
+Đây là kiểm tra cấu trúc và rà soát biên tập; không phải duyệt bản ngữ hoặc tư vấn pháp lý chuyên môn.

@@ -1,0 +1,430 @@
+DERNIÈRES VOLONTÉS — 20 BRIEF MỚI / 27-10-2026
+Thị trường: Pháp | Ngôn ngữ xuất bản: fr
+Định vị: Di nguyện và việc còn dang dở: ai được quyết định, món nào thật thuộc di sản, chi phí nào đã trả. Có kết hòa giải và mất mát, không luôn giàu lên sau đám tang.
+Bản địa hóa: Metropolitan France; €, notaire, contrat obsèques, PACS. Tách lời mong muốn, di chúc, sở hữu sẵn có và nghĩa vụ thật.
+
+ĐÂY LÀ BRIEF GIAO CLAUDE, CHƯA PHẢI FILE IMPORT VIDEO.
+Các câu chuyện là hư cấu. Hook và câu dừng đã có bản nháp bản địa; khung, động cơ và kết viết bằng tiếng Việt để bạn kiểm soát. Không gắn “chuyện có thật”, không hứa viral. Chưa thu thập bảng lượt xem hiện tại cho page này. Ưu tiên dưới đây là lựa chọn biên tập để thử nghiệm.
+
+PROMPT DÙNG NGAY:
+Bạn là người viết drama bản địa Pháp, viết cho page Dernières Volontés. Đọc cả lô để tránh lặp. Bắt đầu 5 ID: DV-01, DV-04, DV-07, DV-15, DV-20; sau đó viết các ID còn lại theo yêu cầu. Giữ tên page và Locale: fr. Mỗi ID là một truyện độc lập. Dùng đúng người kể, nguồn chứng cứ, sự thật và kết đã khóa, không đổi sang tỷ phú bí mật/giấy sở hữu xuất hiện từ hư không.
+
+Mỗi ID xuất thành một gói gồm:
+1. Bible tiếng Việt ngắn: nhân vật, quan hệ, quyền đối với tài sản, timeline, nguồn chứng cứ và kết thật. Chốt tên đầy đủ cho nhân vật phụ trước khi viết.
+2. Ba cách mở hook bằng ngôn ngữ xuất bản, chọn một. Thẻ Reel ngôi thứ nhất, đúng 5 dòng, mỗi dòng 14–20 từ: sự việc → yêu sách/lời nói cụ thể → cái giá người kể đã trả → hành động kiểm chứng → câu dừng L1. L1 dưới đây là nháp, được sửa cho vừa dòng nhưng không đổi vật chứng hoặc hứa cú lật không có trong kết. Dòng cuối kết bằng ...
+3. Highlights: ba cụm xuất hiện nguyên văn trên thẻ, mỗi cụm ngắn, không tô gần hết thẻ. CTA: “Continuer la lecture dans les commentaires” nếu phần tiếp thực sự có trong bình luận.
+4. Caption dưới 150 ký tự tính cả hashtag: #dernieresvolontes + một hashtag chủ đề + #fiction. Không ép bình luận từ khóa để nhận phần tiếp.
+5. Comment 1 mở “PARTIE 2:”, 380–500 từ, 10–14 đoạn ngắn. Trả lời câu hỏi L1, phát triển bằng chứng và phản ứng có động cơ, dừng ở L2 cụ thể. Không bịa thêm bí mật để kéo dài.
+6. Kết L3 hoàn chỉnh 180–250 từ bằng ngôn ngữ xuất bản, khớp kết đã khóa: sự thật, trách nhiệm, tiền/quyền đi đâu, hậu quả sau vài tuần/tháng. Đây là bản nội bộ chuẩn bị phần tiếp/web, không tự coi đã đăng.
+7. Một prompt hình 9:16 từ cảnh brief: người đang làm gì, vật chứng, ánh sáng, bối cảnh bản địa; không lộ kết, không dữ liệu cá nhân hay logo ngân hàng thật. Với trẻ em, ưu tiên không thấy mặt.
+8. Tự kiểm tiếng Việt: tính nhất quán, ngôi kể/giới, nguồn chứng cứ hợp pháp, số tiền, timeline và giọng bản địa. Không tuyên bố được người bản ngữ duyệt nếu chưa có.
+
+CHỐT BIÊN TẬP:
+- Giữ câu chuyện gần đời sống. Một chi tiết sống có giá trị hơn năm tên điều luật. Không mở 20 câu bằng cùng một cấu trúc.
+- Mỗi truyện có một phản ứng hoặc câu nói trực tiếp phù hợp tính cách, không phải 20 lời sỉ nhục cùng công thức. Có thể người kể giận, hỏi lại hoặc đi kiểm tra; không bắt ai cũng im lặng rồi cười.
+- Không tự nhận quyền truy cập tài khoản/email/hồ sơ bệnh của người khác. Chỉ dùng vật chứng theo nguồn brief; muốn thêm phải giải thích được ai cung cấp và vì sao.
+- Hệ quả pháp lý cần thủ tục và thời gian. Không cảnh sát trả nhà ngay, ngân hàng khóa hết tiền theo yêu cầu người kể, mất quyền thừa kế vì một bữa ăn, hoặc luật sư đến cứu mọi truyện.
+- Điểm cần tra bổ sung trong từng brief là việc người viết phải kiểm chứng trước khi biến thành phát biểu cụ thể; nếu không xác minh được, bỏ chi tiết pháp lý và giữ kết bằng thỏa thuận minh bạch đã nêu.
+- Giữ {WEB_URL} đến khi có URL bài thật; không dẫn trang chủ như thể có sẵn kết. Gói này không đăng, không gửi Claude và không nhập tool tự động.
+- Nguồn mã UK/FR/PL xem BAO-CAO-NGHIEN-CUU.md. Nguồn xác nhận bối cảnh/quy tắc, không chứng minh truyện hư cấu này đã xảy ra hay đạt view cao.
+
+
+==========================================================================
+DV-01 — La cérémonie qu'elle avait choisie
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: FR-02
+NHÂN VẬT & ĐỘNG CƠ: Geneviève Armand, 64, ancienne secrétaire, Nantes; chị Odile, 68.
+HOOK BẢN ĐỊA NHÁP: Ma sœur avait réservé une grande cérémonie pour maman. Maman avait demandé tout autre chose.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Odile gọi em bất hiếu vì không góp cho tang lễ xa hoa.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Geneviève Armand, 64, ancienne secrétaire, Nantes; chị Odile, 68.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Văn bản mẹ để lại và hợp đồng obsèques được đơn vị phụ trách xác nhận.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: L'entreprise funéraire a retrouvé le document signé par maman. La cérémonie réservée ne correspondait pas à son choix...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Văn bản mẹ để lại và hợp đồng obsèques được đơn vị phụ trách xác nhận.
+L1 — CÂU DỪNG THẺ: L'entreprise funéraire a retrouvé le document signé par maman. La cérémonie réservée ne correspondait pas à son choix...
+SỰ THẬT PHẢI GIỮ: Odile đã biết mong muốn mẹ nhưng muốn mời đối tác để giữ thể diện.
+L2 — HƯỚNG DỪNG COMMENT: Odile đã biết nguyện vọng mẹ từ lúc nào, và phần dịch vụ nào còn điều chỉnh được?
+L3 — KẾT THẬT ĐÃ KHÓA: Gia đình đổi phần dịch vụ còn điều chỉnh được, chịu khoản phát sinh đã ràng buộc, tổ chức đúng mong muốn có thể thực hiện; không ai thắng bằng tiền.
+RÀNG BUỘC LOGIC / QUỐC GIA: FR-02: tôn trọng volontés; không hủy hợp đồng miễn phí vô điều kiện.
+HÌNH CHỦ ĐẠO 9:16: Một nhành hoa nhỏ cạnh catalogue vòng hoa lớn.
+
+==========================================================================
+DV-02 — Les loyers après papa
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Françoise Morel, 58, conductrice de tram, Montpellier; anh Denis, 62.
+HOOK BẢN ĐỊA NHÁP: Mon frère me disait que la maison de papa ne rapportait rien. Les locataires continuaient à payer.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Françoise ứng phí chung sau tang lễ, anh quản nhà bảo đang trống.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Françoise Morel, 58, conductrice de tram, Montpellier; anh Denis, 62.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Người thuê liên hệ về sửa nước và biên lai được họ tự cung cấp.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: La locataire m'a demandé qui réparerait la fuite. Mon frère m'avait juré que personne n'habitait plus là...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Người thuê liên hệ về sửa nước và biên lai được họ tự cung cấp.
+L1 — CÂU DỪNG THẺ: La locataire m'a demandé qui réparerait la fuite. Mon frère m'avait juré que personne n'habitait plus là...
+SỰ THẬT PHẢI GIỮ: Denis thu tiền ngoài sổ trong thời gian di sản chưa chia, vẫn tính toàn chi phí cho hai người.
+L2 — HƯỚNG DỪNG COMMENT: Tiền thuê đã được giữ ở đâu, khoản chi nào hợp lệ, ai chịu trách nhiệm đối soát?
+L3 — KẾT THẬT ĐÃ KHÓA: Notaire và người có thẩm quyền đối soát, ghi nhận thu chi khi thanh toán di sản; bảo vệ chỗ ở người thuê.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không buộc người thuê trả lại lần hai hoặc dùng đuổi nhà làm kết.
+HÌNH CHỦ ĐẠO 9:16: Thư xin sửa nước đặt cạnh bảng nhà trống.
+
+==========================================================================
+DV-03 — Le chien et les promesses
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Lucie Garnier, 34, auxiliaire vétérinaire, Brest; chú Bernard, 61.
+HOOK BẢN ĐỊA NHÁP: Mon oncle promettait de garder le chien de mamie. Le lendemain, il demandait déjà qui viendrait le chercher.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Gia đình tin chú nhận chăm chó nên giao ông quản đồ của bà.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Lucie Garnier, 34, auxiliaire vétérinaire, Brest; chú Bernard, 61.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Email bà trao đổi với cơ sở chăm thú và ngân sách đã được sắp xếp.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le refuge avait conservé les échanges avec mamie. Elle avait prévu une solution dont mon oncle ne parlait pas...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Email bà trao đổi với cơ sở chăm thú và ngân sách đã được sắp xếp.
+L1 — CÂU DỪNG THẺ: Le refuge avait conservé les échanges avec mamie. Elle avait prévu une solution dont mon oncle ne parlait pas...
+SỰ THẬT PHẢI GIỮ: Bà có kế hoạch dự phòng hợp lệ, không để chó thừa kế nhà như chú đã đồn để chọc giận gia đình.
+L2 — HƯỚNG DỪNG COMMENT: Chú có cố tình kể sai chuyện bà cho chó căn nhà, hay chỉ lặp lại điều chưa đọc kỹ?
+L3 — KẾT THẬT ĐÃ KHÓA: Lucie kiểm tra khả năng nhận chăm, các chi phí được xử lý theo thỏa thuận và di chúc hợp lệ; chú phải giải thích tin đồn.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không để động vật trực tiếp đứng tên tài sản, không coi lettre de souhaits là acte chuyển nhà.
+HÌNH CHỦ ĐẠO 9:16: Dây dắt đỏ cạnh túi thức ăn còn niêm.
+
+==========================================================================
+DV-04 — Les funérailles payées deux fois
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: FR-02
+NHÂN VẬT & ĐỘNG CƠ: André Vial, 67, menuisier retraité, Valence; anh họ Pascal, 59.
+HOOK BẢN ĐỊA NHÁP: Mon cousin nous réclamait sa part des obsèques. L'entreprise avait déjà reçu le même règlement.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Pascal nói tự ứng toàn tiền chôn cất dì rồi yêu cầu từng người hoàn.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: André Vial, 67, menuisier retraité, Valence; anh họ Pascal, 59.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Biên lai đơn vị tang lễ và xác nhận hợp đồng trả trước.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le justificatif indiquait un paiement déjà reçu. Ce n'était pas celui que mon cousin disait avoir avancé...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Biên lai đơn vị tang lễ và xác nhận hợp đồng trả trước.
+L1 — CÂU DỪNG THẺ: Le justificatif indiquait un paiement déjà reçu. Ce n'était pas celui que mon cousin disait avoir avancé...
+SỰ THẬT PHẢI GIỮ: Pascal ứng một dịch vụ nhỏ nhưng cộng cả khoản đã chi từ hợp đồng thành tiền mình trả.
+L2 — HƯỚNG DỪNG COMMENT: Phần tang lễ nào anh họ thật sự ứng, phần nào đã được hợp đồng thanh toán?
+L3 — KẾT THẬT ĐÃ KHÓA: Rà soát phần hợp lệ, hoàn khoản thu quá; bữa tưởng nhớ tách riêng khỏi xử lý tiền để không làm tổn thương người đang đau buồn.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không suy mọi contrat obsèques đủ toàn chi phí; phải xem số bảo đảm và phần tăng thêm.
+HÌNH CHỦ ĐẠO 9:16: Hai biên nhận một khoản tiền, hoa đã héo.
+
+==========================================================================
+DV-05 — L'atelier à transmettre
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Hélène Rivière, 50, relieuse, Limoges; anh Marc, 54.
+HOOK BẢN ĐỊA NHÁP: Mon père voulait transmettre son atelier à ceux qui y travaillaient. Mon frère avait préparé une vente à la découpe.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Con gái giữ nghề, anh chỉ muốn bán máy; nhân viên sợ mất việc.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Hélène Rivière, 50, relieuse, Limoges; anh Marc, 54.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Bản định giá độc lập và hồ sơ phương án mua lại do bố từng khởi động.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le dossier de papa contenait un projet de reprise. Mais aucune signature ne nous donnait encore l'atelier...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Bản định giá độc lập và hồ sơ phương án mua lại do bố từng khởi động.
+L1 — CÂU DỪNG THẺ: Le dossier de papa contenait un projet de reprise. Mais aucune signature ne nous donnait encore l'atelier...
+SỰ THẬT PHẢI GIỮ: Di nguyện đạo đức không đủ chuyển doanh nghiệp; phương án khả thi là nhân viên cùng Hélène mua, trả giá hợp lý.
+L2 — HƯỚNG DỪNG COMMENT: Có phương án vốn nào thực hiện mong muốn cha mà vẫn tôn trọng phần hợp pháp của mỗi người?
+L3 — KẾT THẬT ĐÃ KHÓA: Các bên thương lượng với vốn thực và lịch trả, quyền mỗi người được xử lý; không có cổ phần bí mật cho người tốt.
+RÀNG BUỘC LOGIC / QUỐC GIA: Phân biệt souhait, testament và hợp đồng; không bắt anh mất phần hợp pháp vì không yêu nghề.
+HÌNH CHỦ ĐẠO 9:16: Bàn đóng sách, ghế nhân viên trống.
+
+==========================================================================
+DV-06 — Le dernier virement
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Mireille Dupont, 55, comptable, Tours; dì Jacqueline, 72.
+HOOK BẢN ĐỊA NHÁP: Ma tante disait que papa lui avait tout donné. Le relevé indiquait un remboursement, pas une donation.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Dì dùng khoản chuyển cuối đời làm bằng chứng cha muốn loại con gái.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Mireille Dupont, 55, comptable, Tours; dì Jacqueline, 72.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Giấy vay cũ, đối chiếu tài khoản và nội dung khoản chuyển.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: J'ai comparé le dernier virement au contrat conservé par papa. Le montant correspondait au solde d'un prêt...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Giấy vay cũ, đối chiếu tài khoản và nội dung khoản chuyển.
+L1 — CÂU DỪNG THẺ: J'ai comparé le dernier virement au contrat conservé par papa. Le montant correspondait au solde d'un prêt...
+SỰ THẬT PHẢI GIỮ: Cha trả một khoản nợ có thật; dì giấu bối cảnh vì muốn ảnh hưởng quyết định phân chia.
+L2 — HƯỚNG DỪNG COMMENT: Dì có chịu thừa nhận đây là khoản trả nợ chứ không phải bằng chứng cha định loại con?
+L3 — KẾT THẬT ĐÃ KHÓA: Mireille ghi nhận nợ đã trả, không đòi lại tiền đúng của dì; notaire xử lý tài sản còn lại theo hồ sơ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Nội dung chuyển tiền không một mình quyết định bản chất giao dịch; có hồ sơ đối chứng.
+HÌNH CHỦ ĐẠO 9:16: Sổ nợ cũ mở bên bản sao chuyển khoản.
+
+==========================================================================
+DV-07 — Le partenaire oublié
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: FR-01
+NHÂN VẬT & ĐỘNG CƠ: Agnès Vidal, 61, libraire, Rennes; em trai người quá cố Jean, 58.
+HOOK BẢN ĐỊA NHÁP: La famille de mon compagnon disait que notre Pacs faisait de moi son héritière. Le notaire m'a demandé le testament.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Agnès tưởng PACS đủ bảo vệ, người thân vừa trấn an vừa xin cô thanh toán chi phí.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Agnès Vidal, 61, libraire, Rennes; em trai người quá cố Jean, 58.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hợp đồng mua nhà xác nhận phần của mỗi người và cuộc tìm kiếm di chúc qua thủ tục đúng.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le notaire a distingué ma part du logement et la succession. Notre Pacs ne répondait pas à la seconde question...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hợp đồng mua nhà xác nhận phần của mỗi người và cuộc tìm kiếm di chúc qua thủ tục đúng.
+L1 — CÂU DỪNG THẺ: Le notaire a distingué ma part du logement et la succession. Notre Pacs ne répondait pas à la seconde question...
+SỰ THẬT PHẢI GIỮ: Không có di chúc; Agnès không tự thành người thừa kế nhưng phần sở hữu của cô vẫn là của cô.
+L2 — HƯỚNG DỪNG COMMENT: Không có di chúc, Agnès giữ được những quyền nào vốn thuộc mình và cần thương lượng phần nào với gia đình?
+L3 — KẾT THẬT ĐÃ KHÓA: Gia đình thương lượng hợp lệ về phần của người chết, Agnès lập kế hoạch chỗ ở thực tế; kết buồn nhưng có quyền tự chủ, không lật ra di chúc phút cuối.
+RÀNG BUỘC LOGIC / QUỐC GIA: FR-01; tách tài sản sẵn có, droits logement và succession, không khẳng định mọi PACS có cùng kết quả.
+HÌNH CHỦ ĐẠO 9:16: Hai tách trà, văn bản PACS cạnh acte mua nhà.
+
+==========================================================================
+DV-08 — Les meubles prêtés
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Émilie Roux, 39, restauratrice de meubles, Dijon; hai anh họ, 42 và 45.
+HOOK BẢN ĐỊA NHÁP: Mes cousins ont vendu les meubles du salon de tante Louise. Certains n'avaient jamais été à elle.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Họ gọi Émilie tham khi cô xin lấy lại đồ cho dì mượn lúc dọn xưởng.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Émilie Roux, 39, restauratrice de meubles, Dijon; hai anh họ, 42 và 45.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Phiếu giao đồ cho mượn, ảnh trước khi chuyển và danh sách người mua.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: J'ai retrouvé le bordereau du transporteur. Les meubles avaient été déposés chez ma tante, pas vendus...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Phiếu giao đồ cho mượn, ảnh trước khi chuyển và danh sách người mua.
+L1 — CÂU DỪNG THẺ: J'ai retrouvé le bordereau du transporteur. Les meubles avaient été déposés chez ma tante, pas vendus...
+SỰ THẬT PHẢI GIỮ: Bộ bàn không thuộc di sản; cô không đang đòi phần hơn mà đòi tài sản riêng.
+L2 — HƯỚNG DỪNG COMMENT: Món nào còn chưa giao, hồ sơ nào đủ chứng minh cho mượn, món đã bán phải xử lý qua ai?
+L3 — KẾT THẬT ĐÃ KHÓA: Thông báo và xác minh trước hàng chưa giao; với món đã bán nhờ tư vấn, thương lượng với người mua; không xông vào lấy.
+RÀNG BUỘC LOGIC / QUỐC GIA: Ảnh không tự chứng minh sở hữu; cần hồ sơ và không đương nhiên lấy lại từ người mua ngay tình.
+HÌNH CHỦ ĐẠO 9:16: Phiếu giao hàng cũ, khoảng trống dưới đèn salon.
+
+==========================================================================
+DV-09 — Le devis des frères
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Colette Martin, 66, ancienne institutrice, Angers; anh Paul, 69.
+HOOK BẢN ĐỊA NHÁP: Mes frères m'ont envoyé trois devis pour vider la maison. Les trois venaient du même intermédiaire.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Colette bị ép chấp nhận giá thấp cho đồ mẹ, vì ba báo giá nhìn như đồng thuận thị trường.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Colette Martin, 66, ancienne institutrice, Angers; anh Paul, 69.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Thông tin doanh nghiệp và email giới thiệu mà Paul gửi.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: En vérifiant les devis, j'ai retrouvé le même intermédiaire. Les trois propositions n'étaient pas indépendantes...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Thông tin doanh nghiệp và email giới thiệu mà Paul gửi.
+L1 — CÂU DỪNG THẺ: En vérifiant les devis, j'ai retrouvé le même intermédiaire. Les trois propositions n'étaient pas indépendantes...
+SỰ THẬT PHẢI GIỮ: Ba bên không độc lập; Paul nhận hoa hồng chưa nói, nhưng một phần đồ thực sự ít giá trị.
+L2 — HƯỚNG DỪNG COMMENT: Người anh đã nhận khoản lợi ích gì từ trung gian và có chịu công khai trước khi chọn đơn vị?
+L3 — KẾT THẬT ĐÃ KHÓA: Xin định giá phù hợp từng nhóm, công khai phí, chọn phương án được đồng thuận; không biến đồ thường thành kho báu.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không đồng nhất quan hệ doanh nghiệp với phạm pháp; công khai xung đột lợi ích.
+HÌNH CHỦ ĐẠO 9:16: Ba devis xếp cạnh một logo giao nhận.
+
+==========================================================================
+DV-10 — La voix dans le téléphone
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Valérie Simon, 48, agente de mairie, Caen; anh Patrick, 51.
+HOOK BẢN ĐỊA NHÁP: Mon frère voulait effacer le téléphone de maman. Elle y avait enregistré les noms de ceux qu'elle voulait remercier.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Patrick nói xóa dữ liệu để giữ riêng tư, Valérie muốn lưu lời nhắn đã được mẹ cho phép.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Valérie Simon, 48, agente de mairie, Caen; anh Patrick, 51.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Tin nhắn mẹ gửi các đoạn audio cho Valérie trước khi mất.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Avant sa mort, maman m'avait envoyé les enregistrements. Dans le premier, elle remerciait quelqu'un que mon frère voulait oublier...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Tin nhắn mẹ gửi các đoạn audio cho Valérie trước khi mất.
+L1 — CÂU DỪNG THẺ: Avant sa mort, maman m'avait envoyé les enregistrements. Dans le premier, elle remerciait quelqu'un que mon frère voulait oublier...
+SỰ THẬT PHẢI GIỮ: Audio cảm ơn cả người thân bị gia đình xa lánh, không phải di chúc nói miệng phân tiền.
+L2 — HƯỚNG DỪNG COMMENT: Valérie nên chia phần lời nhắn nào đúng ý mẹ mà không biến đời tư thành một màn phản công?
+L3 — KẾT THẬT ĐÃ KHÓA: Valérie giữ bản riêng, chỉ chia phần phù hợp người mẹ đã đồng ý; gia đình tổ chức bữa nhớ mẹ, tài sản vẫn xử lý bằng văn bản hợp lệ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không coi voice note tự thay testament; không hướng dẫn vượt khóa điện thoại.
+HÌNH CHỦ ĐẠO 9:16: Điện thoại cũ cắm sạc cạnh khăn len.
+
+==========================================================================
+DV-11 — La part de la résidence
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: FR-08; FR-05
+NHÂN VẬT & ĐỘNG CƠ: Anne-Marie Petit, 70, retraitée, Clermont-Ferrand; con riêng chồng Mathieu, 39.
+HOOK BẢN ĐỊA NHÁP: Mon fils pensait hériter de toute la maison de son père. Une moitié ne lui avait jamais appartenu.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Mathieu quy mọi thứ thành di sản cha, đòi bà bán nhanh.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Anne-Marie Petit, 70, retraitée, Clermont-Ferrand; con riêng chồng Mathieu, 39.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Acte mua gốc và chế độ tài sản được notaire rà soát.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le notaire a repris l'acte d'achat. Avant de parler d'héritage, il fallait déterminer ce qui m'appartenait déjà...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Acte mua gốc và chế độ tài sản được notaire rà soát.
+L1 — CÂU DỪNG THẺ: Le notaire a repris l'acte d'achat. Avant de parler d'héritage, il fallait déterminer ce qui m'appartenait déjà...
+SỰ THẬT PHẢI GIỮ: Phải xác định phần sẵn thuộc Anne-Marie trước khi tính di sản; bà không bí mật chiếm phần con.
+L2 — HƯỚNG DỪNG COMMENT: Mathieu sẽ phản ứng thế nào khi phần của người vợ được tách trước khi xác định di sản người cha?
+L3 — KẾT THẬT ĐÃ KHÓA: Lập đầy đủ inventory, định giá, xác định quyền ở và phần được hưởng; thương lượng cách giải quyết qua nhiều tháng.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không ấn định 50% trong mọi hôn nhân; brief khóa nhà mua chung và kiểm tra acte, régime.
+HÌNH CHỦ ĐẠO 9:16: Ảnh cưới cũ bên hai trang acte.
+
+==========================================================================
+DV-12 — Les factures de présence
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Béatrice Fontaine, 65, ancienne agente bancaire, Nancy; cháu Éric, 33.
+HOOK BẢN ĐỊA NHÁP: Mon neveu voulait être payé pour ses visites à ma sœur. Il avait surtout gardé les tickets de restaurant.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Éric đòi trừ tiền trước chia di sản vì mình là người duy nhất lui tới.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Béatrice Fontaine, 65, ancienne agente bancaire, Nancy; cháu Éric, 33.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Bảng chi chính anh nộp và lịch dịch vụ của dì được truy cập hợp lệ.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Mon neveu a fourni les tickets lui-même. Sur l'un d'eux, le repas était prévu pour quatre personnes...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Bảng chi chính anh nộp và lịch dịch vụ của dì được truy cập hợp lệ.
+L1 — CÂU DỪNG THẺ: Mon neveu a fourni les tickets lui-même. Sur l'un d'eux, le repas était prévu pour quatre personnes...
+SỰ THẬT PHẢI GIỮ: Có chi phí mua đồ thật, nhưng phần ăn uống riêng được cộng vào; gia đình từng hứa hoàn chi chứ không hứa trả lương.
+L2 — HƯỚNG DỪNG COMMENT: Khoản cháu ứng thật là bao nhiêu, và gia đình có từng thống nhất trả công hay chỉ hoàn chi?
+L3 — KẾT THẬT ĐÃ KHÓA: Tách khoản có chứng cứ, hòa giải về khoản còn tranh luận, không phủ nhận mọi đóng góp của cháu.
+RÀNG BUỘC LOGIC / QUỐC GIA: Thăm người thân không mặc nhiên thành hóa đơn di sản; không dùng dữ liệu y tế công khai.
+HÌNH CHỦ ĐẠO 9:16: Hộp receipt, một hóa đơn bữa ăn cho bốn người.
+
+==========================================================================
+DV-13 — La tombe choisie sans elle
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: FR-02
+NHÂN VẬT & ĐỘNG CƠ: Claire Deschamps, 57, fleuriste, Niort; anh Philippe, 60.
+HOOK BẢN ĐỊA NHÁP: Mon frère avait déjà choisi la tombe de notre mère. Elle voulait reposer auprès de sa sœur.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Anh gọi em phá rối tang lễ vì xin kiểm tra nguyện vọng mẹ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Claire Deschamps, 57, fleuriste, Niort; anh Philippe, 60.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Chỉ dẫn bằng văn bản, giấy tờ concession và trao đổi với nghĩa trang.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: La concession choisie par mon frère n'était pas celle mentionnée par maman. Nous devions vérifier ce qui était possible...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Chỉ dẫn bằng văn bản, giấy tờ concession và trao đổi với nghĩa trang.
+L1 — CÂU DỪNG THẺ: La concession choisie par mon frère n'était pas celle mentionnée par maman. Nous devions vérifier ce qui était possible...
+SỰ THẬT PHẢI GIỮ: Anh chọn vị trí thuận tiện cho mình, chưa kiểm tra khả năng thực hiện mong muốn mẹ.
+L2 — HƯỚNG DỪNG COMMENT: Có thể thực hiện nơi an nghỉ mẹ muốn theo quyền concession hiện có không, nếu không thì lựa chọn gần nhất là gì?
+L3 — KẾT THẬT ĐÃ KHÓA: Trao đổi với đơn vị có thẩm quyền, xác nhận chỗ và điều kiện; điều chỉnh phương án nếu hợp lệ, không ai tự mở mộ hoặc di chuyển tro.
+RÀNG BUỘC LOGIC / QUỐC GIA: FR-02; mong muốn phải thực hiện trong giới hạn pháp luật và quyền concession, không tự chôn cất.
+HÌNH CHỦ ĐẠO 9:16: Bó hoa trắng, sơ đồ nghĩa trang chưa đánh dấu.
+
+==========================================================================
+DV-14 — Le loyer de la chambre vide
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Sylvie Laurent, 52, secrétaire, Besançon; chị Corinne, 56.
+HOOK BẢN ĐỊA NHÁP: Ma sœur me demandait un loyer pour ma chambre chez maman. J'y venais seulement pour vider les placards.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Sau mẹ mất, Corinne muốn tính tiền occupation cho mọi chuyến Sylvie về dọn đồ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Sylvie Laurent, 52, secrétaire, Besançon; chị Corinne, 56.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Lịch làm việc thống nhất và chứng từ nơi ở thường xuyên của Sylvie.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Ma sœur comptait chaque nuit comme une occupation. Le calendrier montrait pourquoi j'étais réellement venue...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Lịch làm việc thống nhất và chứng từ nơi ở thường xuyên của Sylvie.
+L1 — CÂU DỪNG THẺ: Ma sœur comptait chaque nuit comme une occupation. Le calendrier montrait pourquoi j'étais réellement venue...
+SỰ THẬT PHẢI GIỮ: Sylvie không chiếm độc quyền căn nhà, chị dùng tiền thuê như sức ép buộc nhận giá mua phần thấp.
+L2 — HƯỚNG DỪNG COMMENT: Những đêm dọn nhà có thành chiếm dụng riêng không, và có cách thỏa thuận chi phí thay vì ép giá mua lại?
+L3 — KẾT THẬT ĐÃ KHÓA: Các đồng thừa kế thỏa thuận quyền dùng và phân bổ chi phí, định giá độc lập trước lựa chọn bán hay mua lại.
+RÀNG BUỘC LOGIC / QUỐC GIA: Indemnité d'occupation không phát sinh tự động từ một đêm ở; cần tình tiết và tư vấn.
+HÌNH CHỦ ĐẠO 9:16: Thùng quần áo, giường không có chăn.
+
+==========================================================================
+DV-15 — L'association et les enfants
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: FR-05
+NHÂN VẬT & ĐỘNG CƠ: Jacqueline Aubert, 76, ancienne pharmacienne, Pau; hai con, 48 và 51.
+HOOK BẢN ĐỊA NHÁP: Mes enfants ont découvert mon projet de legs à une association. Ils parlaient déjà de tout faire annuler.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Mẹ muốn dành một phần giúp người khiếm thị, con coi đó là cướp phần chúng.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Jacqueline Aubert, 76, ancienne pharmacienne, Pau; hai con, 48 và 51.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Dự thảo có kiểm tra quotité disponible và tư vấn độc lập.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: J'ai demandé au notaire de vérifier la part dont je pouvais disposer. Mes enfants n'avaient pas encore vu le projet...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Dự thảo có kiểm tra quotité disponible và tư vấn độc lập.
+L1 — CÂU DỪNG THẺ: J'ai demandé au notaire de vérifier la part dont je pouvais disposer. Mes enfants n'avaient pas encore vu le projet...
+SỰ THẬT PHẢI GIỮ: Jacqueline không tước toàn bộ quyền con; bà chủ động dành phần có thể định đoạt sau khi được giải thích.
+L2 — HƯỚNG DỪNG COMMENT: Các con có hiểu kế hoạch vẫn tôn trọng quyền luật định của họ, và vì sao mẹ muốn phần tự quyết ấy giúp người khác?
+L3 — KẾT THẬT ĐÃ KHÓA: Bà hoàn thiện kế hoạch phù hợp, nói rõ lý do khi còn sống; con giữ quyền luật định nhưng không kiểm soát toàn lựa chọn mẹ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Réserve không biến con thành chủ tiền của mẹ lúc bà sống; không khẳng định charity miễn mọi thuế trong mọi trường hợp.
+HÌNH CHỦ ĐẠO 9:16: Tờ hướng dẫn chữ lớn, kính đọc cạnh draft.
+
+==========================================================================
+DV-16 — Le bail du petit-fils
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Franck Millet, 59, conducteur, Saint-Malo; anh Alain, 63; cháu Louis, 26.
+HOOK BẢN ĐỊA NHÁP: Mon frère voulait vendre l'appartement vide. Mon fils y habitait avec un bail que papa avait signé.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Alain gọi cháu chiếm nhà để hạ phần thừa kế, trong khi cháu thanh toán thuê.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Franck Millet, 59, conducteur, Saint-Malo; anh Alain, 63; cháu Louis, 26.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Bail và chứng từ tiền thuê trước khi ông mất.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le bail portait la signature de papa. Les loyers avaient été versés bien avant son décès...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Bail và chứng từ tiền thuê trước khi ông mất.
+L1 — CÂU DỪNG THẺ: Le bail portait la signature de papa. Les loyers avaient été versés bien avant son décès...
+SỰ THẬT PHẢI GIỮ: Hợp đồng không biến cháu thành chủ nhà, nhưng cũng không mất đi vì chủ qua đời.
+L2 — HƯỚNG DỪNG COMMENT: Hợp đồng thuê có hiệu lực ra sao, và gia đình có thể định giá hoặc bán mà không coi cháu là người chiếm nhà?
+L3 — KẾT THẬT ĐÃ KHÓA: Notaire xác minh, gia đình định giá có xét tình trạng thuê, chọn bán hoặc giữ theo thủ tục; cháu tiếp tục nghĩa vụ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không hứa tenant được ở mãi hoặc cấm mọi bán nhà có người thuê.
+HÌNH CHỦ ĐẠO 9:16: Chìa khóa phòng, biên nhận tiền thuê.
+
+==========================================================================
+DV-17 — Le carnet des objets
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Marion Leblanc, 37, archiviste, Albi; anh họ Vincent, 44.
+HOOK BẢN ĐỊA NHÁP: Ma tante avait noté à qui elle voulait offrir ses objets. Mes cousins traitaient ce carnet comme un testament.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Vincent dùng một danh sách để lấy hết nữ trang và bảo Marion chỉ được ảnh.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Marion Leblanc, 37, archiviste, Albi; anh họ Vincent, 44.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Sổ có ngày sửa và các giấy tờ di chúc thật được kiểm tra riêng.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le carnet indiquait des souhaits, mais mes cousins avaient commencé le partage sans faire vérifier sa portée...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Sổ có ngày sửa và các giấy tờ di chúc thật được kiểm tra riêng.
+L1 — CÂU DỪNG THẺ: Le carnet indiquait des souhaits, mais mes cousins avaient commencé le partage sans faire vérifier sa portée...
+SỰ THẬT PHẢI GIỮ: Danh sách lời mong muốn chưa đủ căn cứ tự chia tài sản; một số đồ đã tặng khi dì còn sống có chứng cứ.
+L2 — HƯỚNG DỪNG COMMENT: Danh sách mong muốn có giá trị gì, đồ nào đã được cho trước, ai cần xác minh trước khi chia?
+L3 — KẾT THẬT ĐÃ KHÓA: Gia đình phân biệt đồ đã cho và di sản còn lại, thỏa thuận chia kỷ vật bằng văn bản, không dùng sổ để loại ai.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không phán mọi sổ viết tay đều vô hiệu; hình thức và ý định cần kiểm tra.
+HÌNH CHỦ ĐẠO 9:16: Nhãn đồ vật, nét bút chì nhiều thời điểm.
+
+==========================================================================
+DV-18 — Le remboursement disparu
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Danielle Roger, 62, retraitée, Troyes; em Bernard, 58.
+HOOK BẢN ĐỊA NHÁP: Mon frère disait que notre père avait oublié son prêt. Le remboursement partiel figurait encore dans ses comptes.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Bernard nhận 45 000 € để sửa cửa hàng rồi gọi là tiền cha cho khi thanh toán di sản.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Danielle Roger, 62, retraitée, Troyes; em Bernard, 58.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hợp đồng vay còn hiệu lực và ba kỳ trả được đối chiếu.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Mon frère parlait d'un cadeau. Le contrat et les premiers remboursements racontaient une autre histoire...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hợp đồng vay còn hiệu lực và ba kỳ trả được đối chiếu.
+L1 — CÂU DỪNG THẺ: Mon frère parlait d'un cadeau. Le contrat et les premiers remboursements racontaient une autre histoire...
+SỰ THẬT PHẢI GIỮ: Nợ còn lại cần khai trung thực, không phải phạt em vì ít chăm cha.
+L2 — HƯỚNG DỪNG COMMENT: Khoản vay còn bao nhiêu sau những lần hoàn, và có phương án trả nào tránh bán tháo cửa hàng?
+L3 — KẾT THẬT ĐÃ KHÓA: Khoản nợ được rà soát và đưa vào xử lý đúng, thương lượng lịch trả; chị nhận đúng phần sau nghĩa vụ, không nhận hết nhà.
+RÀNG BUỘC LOGIC / QUỐC GIA: Nợ, donation và rapport khác nhau; không dùng một biên lai để xác định tất cả.
+HÌNH CHỦ ĐẠO 9:16: Ba dấu thanh toán trên sổ vay.
+
+==========================================================================
+DV-19 — Les cendres et la frontière
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: FR-02
+NHÂN VẬT & ĐỘNG CƠ: Monique Caron, 68, ancienne infirmière, Toulouse; con Léa, 36, sống Bỉ.
+HOOK BẢN ĐỊA NHÁP: Ma fille voulait partager les cendres de mon mari dans plusieurs bijoux. Il avait choisi un autre lieu.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Con muốn giữ cha gần mình, mẹ bị chê ích kỷ vì không đồng ý.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Monique Caron, 68, ancienne infirmière, Toulouse; con Léa, 36, sống Bỉ.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Chỉ dẫn của chồng và thông tin đơn vị tang lễ cung cấp về xử lý tro.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le bijou venait d'un site étranger. L'entreprise funéraire nous a demandé de vérifier les règles applicables en France...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Chỉ dẫn của chồng và thông tin đơn vị tang lễ cung cấp về xử lý tro.
+L1 — CÂU DỪNG THẺ: Le bijou venait d'un site étranger. L'entreprise funéraire nous a demandé de vérifier les règles applicables en France...
+SỰ THẬT PHẢI GIỮ: Xung đột do grief và thông tin bán hàng sai, không có kẻ ham tiền; hai người cần món kỷ niệm khác.
+L2 — HƯỚNG DỪNG COMMENT: Mẹ và con có thể giữ một kỷ vật khác mà vẫn tôn trọng ý nguyện và quy định về tro?
+L3 — KẾT THẬT ĐÃ KHÓA: Tôn trọng quy định áp dụng và ý nguyện, chọn kỷ vật không chứa tro; con tham gia lễ tưởng niệm theo cách của mình.
+RÀNG BUỘC LOGIC / QUỐC GIA: Claude xác minh quy tắc FR về tro trước khi viết; không áp luật Bỉ cho Pháp, không hướng dẫn chia tro.
+HÌNH CHỦ ĐẠO 9:16: Mặt dây trống, ảnh chồng và hoa nhỏ.
+
+==========================================================================
+DV-20 — La maison qui ne paie pas les dettes
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: FR-07
+NHÂN VẬT & ĐỘNG CƠ: Sébastien Roy, 41, mécanicien, Le Mans; chú Henri, 64.
+HOOK BẢN ĐỊA NHÁP: Mon oncle disait que la maison de mamie valait une fortune. Il oubliait de parler du crédit restant.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Chú ép cháu nhận việc dọn và ứng tiền vì sắp được hưởng nhà lớn.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Sébastien Roy, 41, mécanicien, Le Mans; chú Henri, 64.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Định giá độc lập, dư nợ và bảng nghĩa vụ do notaire tập hợp.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Le prix annoncé concernait la maison seule. Le dossier des dettes était posé juste en dessous...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Định giá độc lập, dư nợ và bảng nghĩa vụ do notaire tập hợp.
+L1 — CÂU DỪNG THẺ: Le prix annoncé concernait la maison seule. Le dossier des dettes était posé juste en dessous...
+SỰ THẬT PHẢI GIỮ: Giá rao không phải tài sản ròng; nhà cần sửa lớn và nghĩa vụ làm phần còn lại thấp hơn nhiều.
+L2 — HƯỚNG DỪNG COMMENT: Sau nợ và chi phí, còn tài sản ròng bao nhiêu, Sébastien cần hiểu những lựa chọn nào trước khi cam kết?
+L3 — KẾT THẬT ĐÃ KHÓA: Sébastien dừng hứa chi trước khi hiểu hồ sơ, xin tư vấn phương án nhận di sản phù hợp; cả nhà giảm kỳ vọng và xử lý tài sản thực.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không mặc định thừa kế luôn lời; option successorale có thời hạn, không đưa lời khuyên pháp lý cá nhân.
+HÌNH CHỦ ĐẠO 9:16: Brochure giá nhà, hóa đơn sửa mái cạnh hồ sơ nợ.

@@ -1,0 +1,430 @@
+BEHIND ESTATE GATES — 20 BRIEF MỚI / 27-10-2026
+Thị trường: Anh — England & Wales | Ngôn ngữ xuất bản: en-gb
+Định vị: Gia đình khá giả, danh tiếng cộng đồng và đóng góp bị che giấu. Tài sản tạo sức ép, người kể giữ tự trọng bằng quyết định có hậu quả thực.
+Bản địa hóa: Sunday roast, cottage, care rota, executor; £, mum, solicitor, flat, holiday. Không trộn luật Scotland, attorney hay viện phí Mỹ.
+
+ĐÂY LÀ BRIEF GIAO CLAUDE, CHƯA PHẢI FILE IMPORT VIDEO.
+Các câu chuyện là hư cấu. Hook và câu dừng đã có bản nháp bản địa; khung, động cơ và kết viết bằng tiếng Việt để bạn kiểm soát. Không gắn “chuyện có thật”, không hứa viral. Chưa thu thập bảng lượt xem hiện tại cho page này. Ưu tiên dưới đây là lựa chọn biên tập để thử nghiệm.
+
+PROMPT DÙNG NGAY:
+Bạn là người viết drama bản địa Anh — England & Wales, viết cho page Behind Estate Gates. Đọc cả lô để tránh lặp. Bắt đầu 5 ID: BEG-01, BEG-03, BEG-04, BEG-06, BEG-14; sau đó viết các ID còn lại theo yêu cầu. Giữ tên page và Locale: en-gb. Mỗi ID là một truyện độc lập. Dùng đúng người kể, nguồn chứng cứ, sự thật và kết đã khóa, không đổi sang tỷ phú bí mật/giấy sở hữu xuất hiện từ hư không.
+
+Mỗi ID xuất thành một gói gồm:
+1. Bible tiếng Việt ngắn: nhân vật, quan hệ, quyền đối với tài sản, timeline, nguồn chứng cứ và kết thật. Chốt tên đầy đủ cho nhân vật phụ trước khi viết.
+2. Ba cách mở hook bằng ngôn ngữ xuất bản, chọn một. Thẻ Reel ngôi thứ nhất, đúng 5 dòng, mỗi dòng 14–20 từ: sự việc → yêu sách/lời nói cụ thể → cái giá người kể đã trả → hành động kiểm chứng → câu dừng L1. L1 dưới đây là nháp, được sửa cho vừa dòng nhưng không đổi vật chứng hoặc hứa cú lật không có trong kết. Dòng cuối kết bằng ...
+3. Highlights: ba cụm xuất hiện nguyên văn trên thẻ, mỗi cụm ngắn, không tô gần hết thẻ. CTA: “Continue reading in the comments” nếu phần tiếp thực sự có trong bình luận.
+4. Caption dưới 150 ký tự tính cả hashtag: #behindestategates + một hashtag chủ đề + #fiction. Không ép bình luận từ khóa để nhận phần tiếp.
+5. Comment 1 mở “PART 2:”, 380–500 từ, 10–14 đoạn ngắn. Trả lời câu hỏi L1, phát triển bằng chứng và phản ứng có động cơ, dừng ở L2 cụ thể. Không bịa thêm bí mật để kéo dài.
+6. Kết L3 hoàn chỉnh 180–250 từ bằng ngôn ngữ xuất bản, khớp kết đã khóa: sự thật, trách nhiệm, tiền/quyền đi đâu, hậu quả sau vài tuần/tháng. Đây là bản nội bộ chuẩn bị phần tiếp/web, không tự coi đã đăng.
+7. Một prompt hình 9:16 từ cảnh brief: người đang làm gì, vật chứng, ánh sáng, bối cảnh bản địa; không lộ kết, không dữ liệu cá nhân hay logo ngân hàng thật. Với trẻ em, ưu tiên không thấy mặt.
+8. Tự kiểm tiếng Việt: tính nhất quán, ngôi kể/giới, nguồn chứng cứ hợp pháp, số tiền, timeline và giọng bản địa. Không tuyên bố được người bản ngữ duyệt nếu chưa có.
+
+CHỐT BIÊN TẬP:
+- Giữ câu chuyện gần đời sống. Một chi tiết sống có giá trị hơn năm tên điều luật. Không mở 20 câu bằng cùng một cấu trúc.
+- Mỗi truyện có một phản ứng hoặc câu nói trực tiếp phù hợp tính cách, không phải 20 lời sỉ nhục cùng công thức. Có thể người kể giận, hỏi lại hoặc đi kiểm tra; không bắt ai cũng im lặng rồi cười.
+- Không tự nhận quyền truy cập tài khoản/email/hồ sơ bệnh của người khác. Chỉ dùng vật chứng theo nguồn brief; muốn thêm phải giải thích được ai cung cấp và vì sao.
+- Hệ quả pháp lý cần thủ tục và thời gian. Không cảnh sát trả nhà ngay, ngân hàng khóa hết tiền theo yêu cầu người kể, mất quyền thừa kế vì một bữa ăn, hoặc luật sư đến cứu mọi truyện.
+- Điểm cần tra bổ sung trong từng brief là việc người viết phải kiểm chứng trước khi biến thành phát biểu cụ thể; nếu không xác minh được, bỏ chi tiết pháp lý và giữ kết bằng thỏa thuận minh bạch đã nêu.
+- Giữ {WEB_URL} đến khi có URL bài thật; không dẫn trang chủ như thể có sẵn kết. Gói này không đăng, không gửi Claude và không nhập tool tự động.
+- Nguồn mã UK/FR/PL xem BAO-CAO-NGHIEN-CUU.md. Nguồn xác nhận bối cảnh/quy tắc, không chứng minh truyện hư cấu này đã xảy ra hay đạt view cao.
+
+
+==========================================================================
+BEG-01 — The Wedding Breakfast Bill
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Susan Clarke, 59, quản lý bếp trường học, York; con gái Ellie, 29, sợ nhà chồng đánh giá.
+HOOK BẢN ĐỊA NHÁP: I paid for my daughter's wedding breakfast, then found my name listed as an evening guest.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Susan góp £8,400 theo yêu cầu thanh toán trực tiếp; nhà trai tự nhận tài trợ toàn bộ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Susan Clarke, 59, quản lý bếp trường học, York; con gái Ellie, 29, sợ nhà chồng đánh giá.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Báo giá gốc và lịch sử chỉnh danh sách khách do con gái gửi cho mẹ trước đó.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The venue manager sent me the original seating plan. My name had been removed after the deposit cleared...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Báo giá gốc và lịch sử chỉnh danh sách khách do con gái gửi cho mẹ trước đó.
+L1 — CÂU DỪNG THẺ: The venue manager sent me the original seating plan. My name had been removed after the deposit cleared...
+SỰ THẬT PHẢI GIỮ: Không phải nhà trai trả tiền: con gái dùng tiền mẹ mua hình ảnh gia đình giàu và nói mẹ tự từ chối dự lễ.
+L2 — HƯỚNG DỪNG COMMENT: Ellie đã tự sửa chỗ ngồi hay nhà trai yêu cầu, và ai sẽ nói thật trước khi mẹ chuyển quà thêm?
+L3 — KẾT THẬT ĐÃ KHÓA: Susan không phá tiệc; yêu cầu con nói thật, rút khoản tặng thêm chưa chuyển. Hai tháng sau Ellie đến xin lỗi riêng, quan hệ khôi phục chậm.
+RÀNG BUỘC LOGIC / QUỐC GIA: Tiền đã tặng không tự đòi lại; chỉ dừng cam kết chưa ràng buộc. Không làm nhục cô dâu bằng màn chiếu.
+HÌNH CHỦ ĐẠO 9:16: Chỗ ngồi trống, thiệp evening invitation cạnh hóa đơn.
+
+==========================================================================
+BEG-02 — The Holiday Cottage Calendar
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Fiona Reed, 54, thủ thư, Whitby; em trai Martin, 50, quản lý nhà nghỉ.
+HOOK BẢN ĐỊA NHÁP: My brother called Dad's cottage a shared inheritance, but charged strangers to sleep in my room.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Hai người đồng thừa kế; Fiona trả nửa bảo trì nhưng bị chặn lịch nghỉ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Fiona Reed, 54, thủ thư, Whitby; em trai Martin, 50, quản lý nhà nghỉ.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Lịch đặt phòng và các khoản chi trả do nền tảng gửi vào email quản lý chung.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The booking calendar was full. The account my brother showed me was almost empty...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Lịch đặt phòng và các khoản chi trả do nền tảng gửi vào email quản lý chung.
+L1 — CÂU DỪNG THẺ: The booking calendar was full. The account my brother showed me was almost empty...
+SỰ THẬT PHẢI GIỮ: Martin lấy toàn bộ tiền thuê, đồng thời kê những tuần có khách thành thời gian tự sử dụng của Fiona.
+L2 — HƯỚNG DỪNG COMMENT: Martin giải thích chênh lệch tiền thuê thế nào, và Fiona muốn giữ cottage hay chỉ đòi sổ sách rõ?
+L3 — KẾT THẬT ĐÃ KHÓA: Đối soát sáu tháng, thống nhất tài khoản riêng cho căn nhà và người quản lý độc lập; Fiona không được tặng thêm tài sản, chỉ nhận đúng phần thu nhập.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không suy diễn đồng sở hữu đồng nghĩa có thể đuổi người thuê hoặc chiếm cả tiền; thỏa thuận thuê cần được xem xét.
+HÌNH CHỦ ĐẠO 9:16: Bảng lịch tô kín, chìa khóa treo trước cửa cottage.
+
+==========================================================================
+BEG-03 — The Care Rota
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Pauline Evans, 62, nhân viên vệ sinh nghỉ việc, Chester; chị gái Elaine, 65, muốn tránh bị trách.
+HOOK BẢN ĐỊA NHÁP: My sister told everyone she cared for Mum every day. I was the one sleeping beside the kettle.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Gia đình định chia đều chi phí mẹ ở nhà; Elaine báo đã ứng nhiều tiền chăm sóc.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Pauline Evans, 62, nhân viên vệ sinh nghỉ việc, Chester; chị gái Elaine, 65, muốn tránh bị trách.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Sổ ca của đơn vị chăm sóc được mẹ cho phép xem và các hóa đơn có mã trùng.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Two invoices had the same reference number. Mum had already paid one of them herself...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Sổ ca của đơn vị chăm sóc được mẹ cho phép xem và các hóa đơn có mã trùng.
+L1 — CÂU DỪNG THẺ: Two invoices had the same reference number. Mum had already paid one of them herself...
+SỰ THẬT PHẢI GIỮ: Elaine tính cả những ca đã được mẹ thanh toán vào khoản chị tự bỏ ra.
+L2 — HƯỚNG DỪNG COMMENT: Elaine tính trùng do nhầm hay coi đó là tiền công chưa được thống nhất, và mẹ muốn ai hỗ trợ tiếp?
+L3 — KẾT THẬT ĐÃ KHÓA: Mẹ còn minh mẫn tự chọn dịch vụ thay vì bắt Pauline chăm miễn phí; gia đình đối soát rồi Elaine trả lại khoản kê trùng theo đợt.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không biến công chăm sóc thành quyền thừa kế tự động; bảo vệ dữ liệu sức khỏe.
+HÌNH CHỦ ĐẠO 9:16: Lịch trực bên ấm nước, giường gấp chưa xếp.
+
+==========================================================================
+BEG-04 — The Fundraising Photograph
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Janet Wilkes, 71, thợ may nghỉ hưu, Durham; con trai Neil, 43, nợ kinh doanh.
+HOOK BẢN ĐỊA NHÁP: My son posted a photograph of my leaking roof and raised money for repairs I had already paid for.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Neil dùng ảnh cũ kêu gọi quyên góp cho mẹ mà không nói mẹ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Janet Wilkes, 71, thợ may nghỉ hưu, Durham; con trai Neil, 43, nợ kinh doanh.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hóa đơn mái nhà đã thanh toán và ngày ảnh chụp trong tin nhắn gốc.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The fundraiser showed a hole in my roof. The roofer's receipt was dated six months earlier...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hóa đơn mái nhà đã thanh toán và ngày ảnh chụp trong tin nhắn gốc.
+L1 — CÂU DỪNG THẺ: The fundraiser showed a hole in my roof. The roofer's receipt was dated six months earlier...
+SỰ THẬT PHẢI GIỮ: Tiền gây quỹ đi vào khoản nợ cửa hàng của Neil, không phải một thợ sửa mái bỏ trốn như anh nói.
+L2 — HƯỚNG DỪNG COMMENT: Tiền quỹ còn bao nhiêu, Neil phải sửa câu chuyện công khai ra sao để mẹ không tiếp tục bị dùng làm lý do?
+L3 — KẾT THẬT ĐÃ KHÓA: Janet yêu cầu dừng quỹ và báo nền tảng; tiền còn lại hoàn theo quy trình, phần thiếu Neil lập kế hoạch bồi hoàn. Mẹ giữ quyền quyết định có gặp con.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không hứa hoàn tiền tức khắc hoặc cảnh sát kết án ngay; chuyện hư cấu, không dùng logo quỹ thật.
+HÌNH CHỦ ĐẠO 9:16: Mái ngói mới và điện thoại hiển thị ảnh mái cũ.
+
+==========================================================================
+BEG-05 — The Executor's Mileage
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: UK-04
+NHÂN VẬT & ĐỘNG CƠ: Harriet Mason, 46, kế toán trường học, Bath; anh họ executor Peter, 57, muốn được trả công kín.
+HOOK BẢN ĐỊA NHÁP: My cousin charged Dad's estate for weekly visits, including the week he was on a beach in Spain.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Peter trừ nhiều chi phí đi lại trước khi phân chia di sản.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Harriet Mason, 46, kế toán trường học, Bath; anh họ executor Peter, 57, muốn được trả công kín.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Bảng kê chi phí anh chủ động gửi và biên lai trùng ngày do anh đính kèm nhầm.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: One mileage claim matched the date on the Spanish hotel receipt he had attached himself...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Bảng kê chi phí anh chủ động gửi và biên lai trùng ngày do anh đính kèm nhầm.
+L1 — CÂU DỪNG THẺ: One mileage claim matched the date on the Spanish hotel receipt he had attached himself...
+SỰ THẬT PHẢI GIỮ: Các chuyến thăm không phục vụ quản lý di sản, một số chưa hề diễn ra; không phải tất cả chi phí đều gian.
+L2 — HƯỚNG DỪNG COMMENT: Peter chứng minh được khoản nào là chi phí di sản, và ai sẽ rà soát thay vì để hai anh em tự kết tội?
+L3 — KẾT THẬT ĐÃ KHÓA: Solicitor yêu cầu giải trình; Peter hoàn các khoản không chứng minh được, chi phí hợp lệ giữ nguyên; phân chia chậm thêm ba tháng.
+RÀNG BUỘC LOGIC / QUỐC GIA: Executor không mặc nhiên sở hữu di sản; không tuyên mọi beneficiary luôn có quyền xem mọi hồ sơ.
+HÌNH CHỦ ĐẠO 9:16: Bản kê mileage, bưu thiếp biển cạnh nhau.
+
+==========================================================================
+BEG-06 — The Garden Gate Code
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: UK-02
+NHÂN VẬT & ĐỘNG CƠ: Rosemary Hale, 68, cựu dược sĩ, Surrey; con gái Anna, 39, muốn độc chiếm việc chăm bố.
+HOOK BẢN ĐỊA NHÁP: My daughter changed the gate code while I was collecting my husband from his hospital appointment.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Anna được giao hỗ trợ chi tiêu nhưng tuyên bố cha mẹ phải xin phép vào chính nhà họ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Rosemary Hale, 68, cựu dược sĩ, Surrey; con gái Anna, 39, muốn độc chiếm việc chăm bố.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Thông báo thay mã do đơn vị bảo trì gửi cho chủ hợp đồng và văn bản phạm vi hỗ trợ tài chính.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The gate company asked me to approve the change. My daughter had told them I no longer lived there...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Thông báo thay mã do đơn vị bảo trì gửi cho chủ hợp đồng và văn bản phạm vi hỗ trợ tài chính.
+L1 — CÂU DỪNG THẺ: The gate company asked me to approve the change. My daughter had told them I no longer lived there...
+SỰ THẬT PHẢI GIỮ: Anna viện LPA như quyền quản mọi quyết định; bố còn năng lực tự quyết và chưa hề yêu cầu hạn chế vợ.
+L2 — HƯỚNG DỪNG COMMENT: Bố thực sự muốn ai hỗ trợ mình, và Anna có chịu trả lại quyền quyết định cho bố mẹ?
+L3 — KẾT THẬT ĐÃ KHÓA: Bố mẹ sửa quyền truy cập, trao đổi độc lập với solicitor, điều chỉnh hỗ trợ; không tặng nhà cho người lạ để trả đũa.
+RÀNG BUỘC LOGIC / QUỐC GIA: LPA không xóa quyền của người còn năng lực; không dùng chẩn đoán sức khỏe để xúc phạm.
+HÌNH CHỦ ĐẠO 9:16: Người vợ cầm túi thuốc ngoài cổng, keypad sáng.
+
+==========================================================================
+BEG-07 — The School Fees Envelope
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Claire Bennett, 48, kỹ thuật viên phòng thí nghiệm, Winchester; chồng David, 51, né mâu thuẫn với mẹ.
+HOOK BẢN ĐỊA NHÁP: My stepson thanked his grandmother for paying his school fees. I had sold my car to cover them.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Claire góp tiền học theo thỏa thuận, mẹ chồng dùng việc đó khẳng định Claire chỉ ăn bám.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Claire Bennett, 48, kỹ thuật viên phòng thí nghiệm, Winchester; chồng David, 51, né mâu thuẫn với mẹ.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Bảng đối soát nhà trường gửi đúng người thanh toán, không phải tài khoản của học sinh bị hack.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The school sent its payment statement. The money credited to his grandmother had come from my account...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Bảng đối soát nhà trường gửi đúng người thanh toán, không phải tài khoản của học sinh bị hack.
+L1 — CÂU DỪNG THẺ: The school sent its payment statement. The money credited to his grandmother had come from my account...
+SỰ THẬT PHẢI GIỮ: David đã nói với mẹ rằng tiền của bà trả học phí, nhưng dùng khoản bà cho để trả nợ riêng.
+L2 — HƯỚNG DỪNG COMMENT: David sẽ thú nhận với mẹ và con điều gì, khi Claire từ chối tiếp tục làm người tài trợ vô hình?
+L3 — KẾT THẬT ĐÃ KHÓA: Claire đặt ngân sách chung minh bạch, giữ quan hệ với con riêng; David phải tự giải thích và trả nợ bằng thu nhập của mình.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không lôi trẻ vào tranh chấp hay ngừng học giữa kỳ để trừng phạt.
+HÌNH CHỦ ĐẠO 9:16: Phong bì học phí cạnh chiếc chìa khóa xe đã bán.
+
+==========================================================================
+BEG-08 — The Extension Nobody Owned
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: UK-01
+NHÂN VẬT & ĐỘNG CƠ: Donna Mills, 44, nhân viên chăm sóc, Lincoln; anh trai Gary, 49, muốn xây nhà lớn mà không tăng vốn.
+HOOK BẢN ĐỊA NHÁP: My brother promised me the new annexe would be mine. His mortgage application told a different story.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Donna góp £38,000 để có chỗ sống gần mẹ, tin lời hứa miệng về quyền sở hữu.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Donna Mills, 44, nhân viên chăm sóc, Lincoln; anh trai Gary, 49, muốn xây nhà lớn mà không tăng vốn.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Email trao đổi với architect và hồ sơ vay mà Gary gửi nhờ Donna in.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: My brother asked me to print his mortgage papers. He had described my contribution as a gift...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Email trao đổi với architect và hồ sơ vay mà Gary gửi nhờ Donna in.
+L1 — CÂU DỪNG THẺ: My brother asked me to print his mortgage papers. He had described my contribution as a gift...
+SỰ THẬT PHẢI GIỮ: Không có chuyển quyền; Gary trình bày tiền em là quà tặng dù em chưa đồng ý như vậy.
+L2 — HƯỚNG DỪNG COMMENT: Gary chấp nhận công nhận khoản nợ hay vẫn ép em gọi đó là quà để giữ khoản vay?
+L3 — KẾT THẬT ĐÃ KHÓA: Donna dừng phần tiền chưa trả, xin tư vấn về khoản đã góp; hai bên thương lượng công nhận khoản nợ và kế hoạch hoàn, cô thuê nơi khác.
+RÀNG BUỘC LOGIC / QUỐC GIA: Góp tiền không tự tạo một căn hộ pháp lý riêng; quyền lợi phụ thuộc bằng chứng và tư vấn.
+HÌNH CHỦ ĐẠO 9:16: Bản vẽ annexe, hộp đồ đạc còn nguyên băng keo.
+
+==========================================================================
+BEG-09 — The Village Collection
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Maureen Scott, 66, cựu nhân viên bưu điện, Norfolk; em trai Clive, 61, muốn làm con hiếu trước làng.
+HOOK BẢN ĐỊA NHÁP: I organised the village collection for Dad's memorial bench. My brother put only his own name on it.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Người góp tiền tưởng khoản dư dùng cho khu vườn chung, Clive bảo không còn dư.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Maureen Scott, 66, cựu nhân viên bưu điện, Norfolk; em trai Clive, 61, muốn làm con hiếu trước làng.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Biên nhận xưởng ghế và sổ quyên góp có hai người cùng quản.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The bench maker sent the final invoice. It included a second delivery to my brother's address...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Biên nhận xưởng ghế và sổ quyên góp có hai người cùng quản.
+L1 — CÂU DỪNG THẺ: The bench maker sent the final invoice. It included a second delivery to my brother's address...
+SỰ THẬT PHẢI GIỮ: Clive đặt thêm ghế riêng cho sân nhà bằng tiền quỹ và tính chung một đơn.
+L2 — HƯỚNG DỪNG COMMENT: Clive sẽ bù khoản ghế riêng ra sao mà không đẩy người góp tiền vào một cuộc bêu tên công khai?
+L3 — KẾT THẬT ĐÃ KHÓA: Anh hoàn khoản không được đồng ý, biển ghế công ghi tên bố thay vì tên nhà tài trợ; chị không công khai danh sách người góp.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không tự gắn nhãn tội phạm khi mới phát hiện sai phạm; xử lý qua người quản quỹ.
+HÌNH CHỦ ĐẠO 9:16: Ghế gỗ mới, tấm biển tên chưa bắt vít.
+
+==========================================================================
+BEG-10 — The House Clearance Van
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Toby Walker, 52, thợ sửa đồ gỗ, Shrewsbury; chị Louise, 55, cần giải phóng nhà nhanh.
+HOOK BẢN ĐỊA NHÁP: My sister booked a clearance van for Mum's house before any of us had agreed what could leave.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Toby bị gọi là níu đồ vô giá trị khi xin giữ bộ dụng cụ của ông ngoại.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Toby Walker, 52, thợ sửa đồ gỗ, Shrewsbury; chị Louise, 55, cần giải phóng nhà nhanh.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Danh sách hàng đơn vị thanh lý gửi cho các đồng liên hệ và ảnh kiểm kê trước đó.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The clearance list included Grandad's tools. Beside them, my sister had written that nobody wanted them...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Danh sách hàng đơn vị thanh lý gửi cho các đồng liên hệ và ảnh kiểm kê trước đó.
+L1 — CÂU DỪNG THẺ: The clearance list included Grandad's tools. Beside them, my sister had written that nobody wanted them...
+SỰ THẬT PHẢI GIỮ: Louise đánh dấu đồ anh đã được gia đình thống nhất giữ thành đồ bán; giá không cao nhưng có lịch sử gia đình.
+L2 — HƯỚNG DỪNG COMMENT: Món nào đã giao, món nào còn giữ được, và Louise có chịu ngừng việc dọn trước khi cả nhà kiểm kê?
+L3 — KẾT THẬT ĐÃ KHÓA: Dừng lô chưa giao bằng thỏa thuận, mua lại vài món đã bán nếu người mua đồng ý; gia đình chụp và phân loại kỷ vật trước khi tiếp tục.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không vật nào cũng hóa kiệt tác triệu bảng; không đòi thu hồi từ người mua ngay lập tức.
+HÌNH CHỦ ĐẠO 9:16: Xe van đậu ngoài nhà, hộp dụng cụ thiếu một ngăn.
+
+==========================================================================
+BEG-11 — The Sunday Roast Livestream
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Kelly Hart, 56, đầu bếp căng tin, Leeds; con dâu Chloe, 28, cần video than phiền câu view.
+HOOK BẢN ĐỊA NHÁP: My daughter-in-law filmed me serving Sunday lunch and told her followers I never helped.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Kelly bị hàng xóm chất vấn vì clip cắt mẹ chồng lười biếng.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Kelly Hart, 56, đầu bếp căng tin, Leeds; con dâu Chloe, 28, cần video than phiền câu view.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Đoạn quay liên tục do Chloe từng gửi nhờ Kelly xem trước và lịch mua thực phẩm.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: She had sent me the uncut recording before posting it. The missing minutes told a different story...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Đoạn quay liên tục do Chloe từng gửi nhờ Kelly xem trước và lịch mua thực phẩm.
+L1 — CÂU DỪNG THẺ: She had sent me the uncut recording before posting it. The missing minutes told a different story...
+SỰ THẬT PHẢI GIỮ: Clip bỏ toàn bộ cảnh Kelly nấu, giữ cảnh bà ngồi nghỉ vì đau đầu gối.
+L2 — HƯỚNG DỪNG COMMENT: Chloe có sửa clip hay chỉ xin mẹ chồng im lặng, và con trai sẽ chia việc thế nào?
+L3 — KẾT THẬT ĐÃ KHÓA: Kelly yêu cầu gỡ hình mình, dừng cho quay trong nhà; Chloe cải chính ngắn. Con trai phải đứng ra chia việc, không chỉ xin mẹ bỏ qua.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không tự cho mọi quay phim gia đình là phạm pháp; không lấy bệnh làm cú hù.
+HÌNH CHỦ ĐẠO 9:16: Khay roast còn nóng, tripod hướng về chiếc ghế.
+
+==========================================================================
+BEG-12 — The Deposit That Wasn't a Gift
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: UK-01
+NHÂN VẬT & ĐỘNG CƠ: Olivia Grant, 32, kỹ sư, Reading; hôn phu James, 34, và mẹ Patricia, 63.
+HOOK BẢN ĐỊA NHÁP: My future mother-in-law called my house deposit a family present. The form beside my name called it a loan.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Olivia dành tiền riêng mua nhà nhưng bị yêu cầu xác nhận khoản tiền của mẹ chồng là quà vô điều kiện.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Olivia Grant, 32, kỹ sư, Reading; hôn phu James, 34, và mẹ Patricia, 63.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hai bản draft do solicitor gửi riêng cho mỗi bên.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The lender's form said gift. The agreement his mother wanted me to sign said repayment with interest...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hai bản draft do solicitor gửi riêng cho mỗi bên.
+L1 — CÂU DỪNG THẺ: The lender's form said gift. The agreement his mother wanted me to sign said repayment with interest...
+SỰ THẬT PHẢI GIỮ: Gia đình nói miệng một đằng, đòi thỏa thuận hoàn cả gốc lẫn lãi riêng sau khi ngân hàng chấp nhận gifted deposit.
+L2 — HƯỚNG DỪNG COMMENT: James có nói thật với lender và Olivia hay tiếp tục bảo đây chỉ là thủ tục gia đình?
+L3 — KẾT THẬT ĐÃ KHÓA: Olivia báo solicitor trước giao dịch, hoãn mua, làm rõ nguồn vốn; James phải chọn minh bạch thay vì ép ký.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không hướng dẫn che giấu khoản vay với lender; không có giấy ngân hàng tự sửa quyền sở hữu.
+HÌNH CHỦ ĐẠO 9:16: Hai tờ draft ở bàn bếp, bút chưa mở nắp.
+
+==========================================================================
+BEG-13 — The Care Home Sales Pitch
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: UK-02
+NHÂN VẬT & ĐỘNG CƠ: Penelope Ward, 77, cựu giáo viên, Salisbury; con trai Hugo, 47, thiếu tiền.
+HOOK BẢN ĐỊA NHÁP: My son booked a house valuation while I was still choosing whether to move into a care home.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Penelope muốn thử respite care, con giới thiệu với môi giới như mẹ chuyển đi vĩnh viễn.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Penelope Ward, 77, cựu giáo viên, Salisbury; con trai Hugo, 47, thiếu tiền.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Email xác nhận stay ngắn hạn và đề nghị môi giới gửi bà ký.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The agent asked when I had decided to move out permanently. My booking was for two weeks...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Email xác nhận stay ngắn hạn và đề nghị môi giới gửi bà ký.
+L1 — CÂU DỪNG THẺ: The agent asked when I had decided to move out permanently. My booking was for two weeks...
+SỰ THẬT PHẢI GIỮ: Hugo chưa bán được nhà; anh định biến quyết định tạm thời của mẹ thành sự đã rồi.
+L2 — HƯỚNG DỪNG COMMENT: Hugo định dùng tiền bán nhà làm gì, trong khi mẹ chưa đồng ý chuyển đi vĩnh viễn?
+L3 — KẾT THẬT ĐÃ KHÓA: Bà hủy cuộc định giá do mình chưa đồng ý, chọn tư vấn chăm sóc độc lập và yêu cầu con nói rõ nhu cầu tài chính.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không nói tặng nhà tránh được mọi care fees; không dùng vài tuần ở care home chứng minh mất năng lực.
+HÌNH CHỦ ĐẠO 9:16: Valuation brochure cạnh túi nghỉ ngắn ngày.
+
+==========================================================================
+BEG-14 — The Family Firm's Christmas Bonus
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Nigel Price, 58, quản đốc xưởng cửa, Coventry; anh trai Robert, 61, giám đốc.
+HOOK BẢN ĐỊA NHÁP: My brother announced that nobody could afford a Christmas bonus. His company card had paid for his new kitchen.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Nhân viên được yêu cầu hy sinh, Nigel cũng giảm lương để giữ việc.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Nigel Price, 58, quản đốc xưởng cửa, Coventry; anh trai Robert, 61, giám đốc.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hóa đơn nhà cung cấp gửi về xưởng do địa chỉ billing.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The kitchen supplier needed a delivery date. The address on the order was my brother's house...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hóa đơn nhà cung cấp gửi về xưởng do địa chỉ billing.
+L1 — CÂU DỪNG THẺ: The kitchen supplier needed a delivery date. The address on the order was my brother's house...
+SỰ THẬT PHẢI GIỮ: Một số chi phí nguyên vật liệu thật nhưng bếp tư được giấu cùng đơn hàng, không phải toàn công ty giả.
+L2 — HƯỚNG DỪNG COMMENT: Khoản bếp riêng ảnh hưởng ngân sách thật đến đâu, và Robert phải hoàn gì trước khi tính thưởng?
+L3 — KẾT THẬT ĐÃ KHÓA: Kế toán độc lập điều chỉnh khoản chi, Robert hoàn tiền; thưởng dựa vào dòng tiền thật, không phép màu cứu hết việc làm.
+RÀNG BUỘC LOGIC / QUỐC GIA: Phân biệt tiền công ty và tiền riêng; không CEO bị sa thải tự động vì một email.
+HÌNH CHỦ ĐẠO 9:16: Xưởng lạnh, mẫu mặt bếp lẫn trong đơn gỗ.
+
+==========================================================================
+BEG-15 — The Cousin on the Invoice
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Brenda Shaw, 70, thợ làm tóc nghỉ hưu, Kent; cháu trai Lewis, 37.
+HOOK BẢN ĐỊA NHÁP: My aunt said the gardener was a stranger taking advantage of her. The invoice carried my cousin's bank details.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Lewis cảnh báo dì về người làm vườn rồi xin đứng ra kiểm soát chi tiêu.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Brenda Shaw, 70, thợ làm tóc nghỉ hưu, Kent; cháu trai Lewis, 37.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Người làm vườn đồng ý đưa bản hóa đơn mình phát hành; bản Lewis chuyển dì có số tài khoản khác.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The gardener showed me his original invoice. The bank details were different on the copy my cousin sent...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Người làm vườn đồng ý đưa bản hóa đơn mình phát hành; bản Lewis chuyển dì có số tài khoản khác.
+L1 — CÂU DỪNG THẺ: The gardener showed me his original invoice. The bank details were different on the copy my cousin sent...
+SỰ THẬT PHẢI GIỮ: Lewis nâng giá và chuyển hướng tiền, khiến người làm thật chưa được trả.
+L2 — HƯỚNG DỪNG COMMENT: Lewis có giải thích được hai phiên bản hóa đơn, và làm sao thanh toán người làm vườn chưa được nhận tiền?
+L3 — KẾT THẬT ĐÃ KHÓA: Dì trả đúng người sau xác minh, giữ hồ sơ báo ngân hàng và cơ quan thích hợp; không thu hồi toàn tiền qua cuộc gọi.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không đưa dữ liệu ngân hàng thật; không mô tả chi tiết cách sửa hóa đơn để lừa.
+HÌNH CHỦ ĐẠO 9:16: Hai hóa đơn cạnh đôi găng làm vườn.
+
+==========================================================================
+BEG-16 — The Locked Family Album
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Michelle Turner, 50, tài xế xe buýt, Portsmouth; chị Andrea, 53, muốn dọn di sản theo ý mình.
+HOOK BẢN ĐỊA NHÁP: My sister would let me see Dad's photographs only if I signed away my share of the furniture.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Ảnh của con gái Michelle mất sớm nằm trong album cha cất, chị dùng làm điều kiện mặc cả.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Michelle Turner, 50, tài xế xe buýt, Portsmouth; chị Andrea, 53, muốn dọn di sản theo ý mình.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Tin nhắn thỏa thuận cho scan ảnh và bảng kiểm kê đồ gia đình.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: My sister put her condition in writing. She wanted my signature before she would unlock the album...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Tin nhắn thỏa thuận cho scan ảnh và bảng kiểm kê đồ gia đình.
+L1 — CÂU DỪNG THẺ: My sister put her condition in writing. She wanted my signature before she would unlock the album...
+SỰ THẬT PHẢI GIỮ: Andrea muốn giữ bàn ăn gắn bó với mẹ, chưa dám nói vì sợ bị chê tham; cô lấy album làm sức ép.
+L2 — HƯỚNG DỪNG COMMENT: Andrea thực sự muốn món kỷ vật nào, và Michelle có thể lấy bản ảnh mà không phải ký đổi phần mình?
+L3 — KẾT THẬT ĐÃ KHÓA: Mediation tách kỷ vật khỏi định giá tài sản, scan album cho cả nhà, Andrea nhận bàn và bù chênh lệch theo thỏa thuận.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không vật lý hóa quyền thừa kế thành quyền giữ mọi ảnh; phản diện có động cơ nhưng không được biện hộ ép buộc.
+HÌNH CHỦ ĐẠO 9:16: Album khóa dây, máy scan đặt chờ.
+
+==========================================================================
+BEG-17 — The Two Rent Payments
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: UK-04
+NHÂN VẬT & ĐỘNG CƠ: Giles Foster, 64, cựu surveyor, Bristol; cháu trai Daniel, 35, giúp quản lý di sản em gái.
+HOOK BẢN ĐỊA NHÁP: My nephew said the flat had stood empty for a year. Two tenants were still paying for it.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Giles được thông báo không có thu nhập thuê nên phải tự ứng phí bảo trì.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Giles Foster, 64, cựu surveyor, Bristol; cháu trai Daniel, 35, giúp quản lý di sản em gái.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Thư người thuê gửi đúng địa chỉ executor và sao kê tài khoản di sản được yêu cầu hợp lệ.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The tenant sent me two receipts. Neither payment appeared in the estate figures my nephew had supplied...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Thư người thuê gửi đúng địa chỉ executor và sao kê tài khoản di sản được yêu cầu hợp lệ.
+L1 — CÂU DỪNG THẺ: The tenant sent me two receipts. Neither payment appeared in the estate figures my nephew had supplied...
+SỰ THẬT PHẢI GIỮ: Daniel thu một phần tiền vào tài khoản riêng, còn người thuê nghĩ họ thực hiện đúng hợp đồng.
+L2 — HƯỚNG DỪNG COMMENT: Daniel đã giữ những khoản nào, và Giles xử lý sao để người thuê không phải trả giá cho lỗi quản lý?
+L3 — KẾT THẬT ĐÃ KHÓA: Người thuê được bảo vệ khỏi đối đầu; đối soát độc lập, thu hồi tiền theo thỏa thuận hoặc thủ tục; di sản chia sau thanh toán nghĩa vụ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không yêu cầu người thuê trả hai lần; hợp đồng và thẩm quyền quản lý phải kiểm tra.
+HÌNH CHỦ ĐẠO 9:16: Hai biên lai rent cùng tháng, thư qua khe cửa.
+
+==========================================================================
+BEG-18 — The Rescue Dog Clause
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Trevor Bell, 60, thợ điện, Devon; em trai Keith, 56, muốn bán nhà nhanh.
+HOOK BẢN ĐỊA NHÁP: My brother wanted Dad's dog gone before the house went on sale. Dad had already paid for its next home.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Trevor tưởng mình phải bỏ việc để nhận chó vì người thân từ chối.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Trevor Bell, 60, thợ điện, Devon; em trai Keith, 56, muốn bán nhà nhanh.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hồ sơ đặt chỗ của charity và email hướng dẫn từ bố trước khi chết.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Dad's email named an organisation that had already discussed taking the dog. My brother had never mentioned it...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hồ sơ đặt chỗ của charity và email hướng dẫn từ bố trước khi chết.
+L1 — CÂU DỪNG THẺ: Dad's email named an organisation that had already discussed taking the dog. My brother had never mentioned it...
+SỰ THẬT PHẢI GIỮ: Bố không để tài sản trực tiếp cho chó; ông sắp xếp nhận chăm sóc, Keith đã giấu để đổ trách nhiệm cho anh.
+L2 — HƯỚNG DỪNG COMMENT: Kế hoạch bố lập có khả thi không, ai thực sự sẵn sàng chăm chó thay vì nhận lời lấy lòng?
+L3 — KẾT THẬT ĐÃ KHÓA: Chó được tổ chức đã xác minh tiếp nhận hoặc Trevor nhận theo đánh giá; khoản đóng góp xử lý đúng di chúc, hai anh em giải quyết nhà riêng.
+RÀNG BUỘC LOGIC / QUỐC GIA: Thú nuôi không thành chủ sở hữu hợp pháp căn nhà; charity không hứa nhận vô điều kiện.
+HÌNH CHỦ ĐẠO 9:16: Dây dắt trên ghế, hồ sơ tiếp nhận cạnh ảnh bố.
+
+==========================================================================
+BEG-19 — The Remarriage Announcement
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: UK-03; UK-05
+NHÂN VẬT & ĐỘNG CƠ: Charlotte Webb, 43, nhân viên thư viện, Oxford; bố Rupert, 74, và chị gái Amelia, 46.
+HOOK BẢN ĐỊA NHÁP: My dad announced his wedding and asked me to witness a will he said would change nothing.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Chị đổ lỗi người vợ mới đang chiếm tài sản, cha muốn mọi người ký cho xong.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Charlotte Webb, 43, nhân viên thư viện, Oxford; bố Rupert, 74, và chị gái Amelia, 46.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Draft và danh sách người hưởng được solicitor gửi cho cha, cha tự cho con xem.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Dad showed me the draft will. The daughter named to benefit was also being asked to witness it...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Draft và danh sách người hưởng được solicitor gửi cho cha, cha tự cho con xem.
+L1 — CÂU DỪNG THẺ: Dad showed me the draft will. The daughter named to benefit was also being asked to witness it...
+SỰ THẬT PHẢI GIỮ: Amelia mới là người đề nghị mình làm chứng trong khi nhận lợi ích; bố chưa hiểu việc tái hôn cần rà soát kế hoạch cũ.
+L2 — HƯỚNG DỪNG COMMENT: Rupert đã hiểu ai đang đề nghị làm chứng, và ông muốn bảo vệ vợ mới lẫn các con theo cách nào?
+L3 — KẾT THẬT ĐÃ KHÓA: Bố gặp solicitor một mình, lập phương án bảo vệ vợ mới và quyền lợi phù hợp cho con; Charlotte từ chối vai trò làm chứng không thích hợp.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không kết luận mọi di chúc luôn vô hiệu vì người nhà chứng kiến; Claude phải xác minh quy tắc chứng kiến và hôn nhân trước khi dùng.
+HÌNH CHỦ ĐẠO 9:16: Thiệp cưới màu kem cạnh bản draft chưa ký.
+
+==========================================================================
+BEG-20 — The Broken Lift Fund
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Gary Walsh, 57, bảo trì tòa nhà, Liverpool; em trai Lee, 52, đại diện quản lý block.
+HOOK BẢN ĐỊA NHÁP: My brother blamed our elderly neighbour for holding up the lift repairs. He had never sent her the quotation.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Gia đình cùng sở hữu vài flat; Lee muốn buộc một cư dân bán rẻ bằng tiếng xấu.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Gary Walsh, 57, bảo trì tòa nhà, Liverpool; em trai Lee, 52, đại diện quản lý block.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Sổ thư gửi và quotation người quản lý phát hành cho các leaseholder.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: The managing agent checked the mailing list. Our neighbour's name had never been added...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Sổ thư gửi và quotation người quản lý phát hành cho các leaseholder.
+L1 — CÂU DỪNG THẺ: The managing agent checked the mailing list. Our neighbour's name had never been added...
+SỰ THẬT PHẢI GIỮ: Lee chặn thông tin rồi dùng câu không đồng ý trả tiền để hợp lý hóa áp lực, trong khi bà chỉ hỏi chia kỳ.
+L2 — HƯỚNG DỪNG COMMENT: Ai đã loại bà hàng xóm khỏi danh sách thư, và Lee còn có thể dùng sự im lặng ấy làm lý do ép bán không?
+L3 — KẾT THẬT ĐÃ KHÓA: Cuộc họp có biên bản sửa thông tin, kiểm tra thủ tục tham vấn, kế hoạch sửa do đơn vị hợp lệ thực hiện; bà không phải bán.
+RÀNG BUỘC LOGIC / QUỐC GIA: Leasehold, service charge và consultation không giải quyết bằng cuộc gọi; không hứa chi phí cố định toàn Anh.
+HÌNH CHỦ ĐẠO 9:16: Cầu thang tối, xe mua hàng ở chân cầu thang.

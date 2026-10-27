@@ -1,0 +1,10 @@
+MROCZNE DZIEDZICTWO — 20 BRIEF MỚI — 27/10/2026
+
+Để viết: upload Mroczne-Dziedzictwo-20-Brief-Claude-27-10-2026.txt vào Claude.
+Lệnh: “Đọc file và viết đầy đủ MD-01, MD-06, MD-09, MD-11, MD-15 theo đúng prompt. Nội dung xuất bản tiếng Ba Lan. Giữ riêng từng truyện.”
+
+Để xem phân tích sâu: PHAN-TICH-GEMINI-VA-DINH-VI-CHOT.md.
+CSV là mục lục dữ liệu; JSON là dữ liệu cấu trúc, không bắt buộc phải dùng.
+MD-19 dành gần 1/11, MD-20 dành tháng 12 hoặc cần đổi bối cảnh nếu đăng lúc khác.
+
+Đây là brief, chưa phải file nhập công cụ video. Chưa có video được render hay bài được đăng. Các truyện là hư cấu; giữ {WEB_URL} cho tới khi có bài web thật.

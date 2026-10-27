@@ -1,0 +1,240 @@
+GORZKIE-DZIEDZICTWO — 20 KHUNG VIDEO
+Ngày lập: 26/10/2026
+
+GORZKIE DZIEDZICTWO — “Di sản đắng”: nhà đất, tiền gia đình, công sức bị xóa, tài sản bị lợi dụng. Người kể tự thu thập chứng cứ và giành lại quyền quyết định. Không phải bài nào cũng có di chúc. 5 ID thử trước: GD02, GD03, GD05, GD09, GD11.
+
+PROMPT GIAO CLAUDE — VIẾT DRAMA REELS TIẾNG BA LAN
+
+Bạn là biên kịch truyện hư cấu cho khán giả trưởng thành tại Ba Lan. Đọc định vị page và các brief bên dưới. Đây là 20 ý tưởng độc lập, không phải một truyện 20 phần. Hãy viết theo ID tôi yêu cầu; nếu tôi không chọn, bắt đầu 5 ID đầu tiên. Viết trọn từng ID, không trộn nhân vật giữa các truyện.
+
+NGÔN NGỮ: trao đổi/giải thích tiếng Việt; nội dung xuất bản bằng tiếng Ba Lan tự nhiên. Hook mẫu là bản nháp cần biên tập ngữ pháp, không bắt buộc giữ nguyên. Ngôi thứ nhất thể hiện qua đuôi động từ, tránh lặp “Ja”. Dùng „…” cho thoại; biến cách tên người; zł, ngày/tháng và xưng hô đúng ngữ cảnh. Nhân vật và địa điểm đều hư cấu. Không trình bày là tin thật hoặc lời chứng có thật.
+
+ĐẦU RA CHO MỖI ID:
+1. Bảng khóa truyện bằng tiếng Việt: người kể, tuổi, quan hệ, địa điểm, vật chứng, mốc thời gian, sự thật cuối. Tự đặt tên Ba Lan khác nhau, chỉ 3–4 nhân vật chính.
+2. Ba hook tiếng Ba Lan theo ba cách khác nhau (lời thoại / vật chứng / hành động), chọn một và giải thích ngắn bằng tiếng Việt.
+3. THẺ REEL 150–190 từ tiếng Ba Lan: 5 đoạn ngắn gồm cú mở → bất công cụ thể → chi tiết đời thường → hành động của người kể → bằng chứng mới/cliffhanger L1. Đây là thẻ chữ cho video, không nhất thiết đọc hết trong video ngắn. Nếu chuyển thành voice-over, tính thời lượng theo tốc độ đọc thực tế; không nhét 190 từ vào 30 giây. Không dùng hồ sơ giả, huy hiệu xác minh giả hoặc ảnh nhận diện người thật.
+4. CAPTION 55–90 từ tiếng Ba Lan: bổ sung bối cảnh, không chép nguyên thẻ. Nếu thực sự có phần tiếp theo trong bình luận, kết bằng “Część 2 jest w pierwszym komentarzu.”
+5. COMMENT 1 dài 120–170 từ tiếng Ba Lan: tiếp nối đúng L1, trả một câu hỏi rồi dừng ở L2 lớn hơn. Chỉ dùng CTA “Cała historia jest tutaj: {WEB_URL}” khi đã có truyện web thật. Để nguyên {WEB_URL}, không tự bịa link.
+6. KẾT TRUYỆN 180–250 từ tiếng Ba Lan: giải rõ L3 và hậu quả theo brief. Đây là phần nội dung để kiểm tra logic/chuẩn bị truyện web; không mặc định kết này đã có trên website. Không kết bằng “tất cả đều là giấc mơ”.
+7. Một gợi ý hình dọc 9:16 bằng tiếng Việt: người kể + vật chứng + bối cảnh, không lộ kết. Không tạo ảnh ở bước này.
+8. Tự kiểm: logic thời gian, động cơ, nguồn vật chứng, sự nhất quán giữa thẻ/caption/comment/kết, tiếng Ba Lan và độ khác biệt với các ID khác. Nêu lỗi còn lại, không tự nhận đã qua người bản ngữ.
+
+CẤU TRÚC TIẾT LỘ:
+L1 = sự kiện mới cụ thể ở cuối Reel; L2 = thông tin comment mở ra nhưng chưa giải hết; L3 = sự thật và kết cục hoàn chỉnh. Không dùng “và điều xảy ra tiếp theo khiến tôi chết lặng” nếu không cho thấy điều gì cụ thể. Trả đủ L3 trong bản viết để tránh cliffhanger rỗng.
+
+CHẤT LƯỢNG:
+- Ưu tiên cảnh nhỏ, việc nhà, tiền sinh hoạt, ca làm, chung cư, bữa ăn gia đình. Mỗi truyện chỉ cần 1–2 chi tiết Ba Lan hữu ích; không nhồi mọi lễ hội/định chế vào một bài.
+- Có mầm báo trước cho twist, một chi tiết khiến người kể phải tự xem lại phán đoán; nhân vật đối lập có động cơ rõ. Không biến mọi người già thành nạn nhân bất lực, mọi con dâu thành kẻ xấu.
+- Không sao chép tên, số tiền, vật chứng, lời thoại, thứ tự tình tiết của nguồn Hà Lan. Brief là tác phẩm mới lấy cảm hứng ở cấp mô-típ.
+- Không dùng tỷ phú cứu viện, camera bí mật tình cờ giải mọi chuyện, luật sư xuất hiện ngay giữa tiệc và tịch thu nhà, ngân hàng tự đóng băng tài sản vì hết yêu.
+- Truyện có pháp lý/tài sản: ghi rõ quyền sở hữu và cách có chứng cứ. Di chúc, thừa kế, tài sản hôn nhân, sang tên nhà, chăm sóc và khoản vay không có hiệu lực chỉ nhờ một câu nói. Không tự khẳng định điều luật hay quyền hưởng tài sản; nếu cần chi tiết pháp lý cụ thể, kiểm chứng từ nguồn Ba Lan hiện hành hoặc giữ ở mức “được tư vấn/đang làm thủ tục”. Không chèn lời khuyên pháp lý vào truyện.
+- Truyện sức khỏe: không suy bệnh từ một dấu hiệu kỳ lạ; không dùng xét nghiệm ADN hay nhóm máu như phép màu. Không mô tả điều trị cụ thể nếu chưa kiểm chứng.
+- Không câu tương tác kiểu “gõ CÓ”, ép chia sẻ, yêu cầu bình luận một từ để đọc kết. Không lấy lượt xem nguồn làm lời hứa hiệu suất cho bản mới.
+- Đọc hết danh sách trước khi viết. Luân phiên vật chứng và cách mở. Không quá hai bài liên tiếp cùng cảnh tiệc/tang lễ, cùng giới người kể hoặc cùng cách lật mặt.
+
+LỆNH MẪU: “Viết đầy đủ [ID] theo prompt này. Bắt đầu bằng khóa truyện, sau đó viết thẻ Reel, caption, comment và kết. Đừng hỏi lại các thông tin đã có trong brief.”
+
+
+20 BRIEF ĐỘC LẬP
+
+=================================================================
+GD01 — Tên tôi biến mất khỏi căn nhà tôi sửa
+HOOK NHÁP PL: Przez pięć lat płaciłam za remont. W ogłoszeniu o sprzedaży domu nie było nawet mojego nazwiska.
+NHÂN VẬT/BỐI CẢNH: Nữ 57 tuổi, phụ bếp ở Łódź; em trai giữ giấy tờ nhà mẹ để lại.
+DIỄN BIẾN: Chị trả tiền sửa mái vì em nói nhà sẽ giữ chung → em dẫn khách mua đến → chị gom hóa đơn của thợ → phát hiện khoản vay sửa nhà bị khai là quà chị tặng.
+ĐIỂM DỪNG: L1: người mua hỏi vì sao biên bản bàn giao ghi chị đã dọn đi; L2: chữ ký trên biên bản được lấy từ giấy nào?
+SỰ THẬT + KẾT L3: Em ghép bản scan chữ ký từ hồ sơ sửa chữa vào biên bản; chị nhờ tư vấn, thông báo tranh chấp cho các bên và yêu cầu kiểm tra. Việc bán bị hoãn; chuyện quyền sở hữu và hoàn trả chi phí được giải quyết bằng hồ sơ, không mặc định hóa đơn tạo quyền sở hữu.
+HÌNH CHỦ ĐẠO: Hóa đơn vấy sơn cạnh biển bán nhà.
+MÔ-TÍP THAM KHẢO: Tài sản bị chiếm, GD.
+
+=================================================================
+GD02 — Con dâu mang người định giá đến sau tang lễ
+HOOK NHÁP PL: Zanim zdążyłam schować buty po pogrzebie, synowa przysłała człowieka, który mierzył mój salon.
+NHÂN VẬT/BỐI CẢNH: Góa phụ 66 tuổi ở Toruń; con trai muốn tiền đặt cọc kinh doanh.
+DIỄN BIẾN: Người lạ đo phòng → con nói chỉ tham khảo → mẹ thấy danh sách đồ nội thất gửi bán → phát hiện gia đình đã hứa giao cả nhà và đồ.
+ĐIỂM DỪNG: L1: hợp đồng môi giới ghi người đặt hàng là con trai; L2: anh đã nhận khoản tiền nào trước khi hỏi mẹ?
+SỰ THẬT + KẾT L3: Căn nhà vẫn do mẹ đứng tên; con đã nhận tiền giữ chỗ ngoài thỏa thuận của mẹ. Mẹ từ chối giao nhà, yêu cầu con tự xử lý cam kết và đặt lại ranh giới; không biến tiền giữ chỗ thành quyền đuổi mẹ.
+HÌNH CHỦ ĐẠO: Thước laser trên tủ ảnh cưới.
+MÔ-TÍP THAM KHẢO: Nguồn định giá nhà ~38K.
+
+=================================================================
+GD03 — Mười năm gửi tiền về, mẹ bảo tôi chưa góp gì
+HOOK NHÁP PL: Co miesiąc wysyłałam pieniądze z Niemiec. Przy rodzinnym stole mama powiedziała, że dom uratował mój brat.
+NHÂN VẬT/BỐI CẢNH: Nữ 48 tuổi làm chăm sóc người cao tuổi tại Đức; quê Opole.
+DIỄN BIẾN: Về phép thấy biển tên em trai ở xưởng bố → mẹ phủ nhận tiền chị → chị đối chiếu sao kê → tài khoản nhận tiền từng được em quản lý.
+ĐIỂM DỪNG: L1: thư cũ của bố nhắc một khoản chưa hề được dùng sửa nhà; L2: ai đã giấu toàn bộ thư?
+SỰ THẬT + KẾT L3: Em dùng tiền trả nợ riêng và nói chị ngừng liên lạc. Mẹ thừa nhận tin lời em; chị dừng chuyển tự động, yêu cầu đối soát và hoàn trả theo thỏa thuận, không đòi gia đình “trả tình thương”.
+HÌNH CHỦ ĐẠO: Vali cũ và tập phiếu chuyển tiền.
+MÔ-TÍP THAM KHẢO: Hy sinh tài chính bị xóa công.
+
+=================================================================
+GD04 — Hộp bánh có cuốn sổ thu chi
+HOOK NHÁP PL: Po babci dostałam puszkę po ciastkach. Brat dostał klucze do warsztatu.
+NHÂN VẬT/BỐI CẢNH: Nữ 34 tuổi ở Bydgoszcz; anh trai quản lý xưởng may của bà.
+DIỄN BIẾN: Bị cười vì nhận hộp bánh → bên trong là sổ đặt hàng → các khoản ứng của khách không có trong sổ anh → chị gọi cho khách quen được ghi tên.
+ĐIỂM DỪNG: L1: một khách hỏi ai nhận tiền may áo khi bà đã nằm viện; L2: đơn hàng mang chữ ký nào?
+SỰ THẬT + KẾT L3: Anh giấu tiền đặt cọc và để bà mang tiếng quỵt nợ. Chị dùng sổ để xác minh nghĩa vụ với khách, cứu danh dự bà và đề xuất tiếp quản phần việc bằng thỏa thuận rõ; hộp bánh không phải di chúc thần kỳ.
+HÌNH CHỦ ĐẠO: Hộp bánh thiếc chứa chỉ và sổ.
+MÔ-TÍP THAM KHẢO: Di vật nhỏ, bí mật lớn.
+
+=================================================================
+GD05 — Mẹ sống trong căn phòng để đồ
+HOOK NHÁP PL: Mama mówiła, że ma u brata własny pokój. Jej łóżko stało między zamrażarką a workami z węglem.
+NHÂN VẬT/BỐI CẢNH: Nam 45 tuổi lái xe buýt ở Katowice; mẹ 72 tuổi, anh trai nhận hỗ trợ chăm sóc.
+DIỄN BIẾN: Con ghé không báo trước → mẹ giấu điều kiện sống → anh đưa ảnh phòng đẹp → ảnh phản chiếu chiếc lịch cũ khiến em nghi ngờ.
+ĐIỂM DỪNG: L1: phòng đẹp hiện đang cho thuê; L2: tiền mẹ gửi trả “chi phí chăm sóc” đã đi đâu?
+SỰ THẬT + KẾT L3: Anh thu tiền mẹ và tiền thuê nhưng không chăm sóc đúng thỏa thuận. Em giúp mẹ chọn nơi ở theo ý bà, lưu chứng từ và thảo luận hỗ trợ minh bạch. Kết cho mẹ tự quyết, không dùng DPS như lời sỉ nhục.
+HÌNH CHỦ ĐẠO: Giường hẹp cạnh tủ đông.
+MÔ-TÍP THAM KHẢO: Con cái bỏ rơi cha mẹ.
+
+=================================================================
+GD06 — Chiếc xe đưa cả nhà đi chơi, tôi nhận hóa đơn
+HOOK NHÁP PL: Na rodzinnych zdjęciach było moje auto. Na moim stole leżało wezwanie do zapłaty.
+NHÂN VẬT/BỐI CẢNH: Nữ 62 tuổi ở Poznań; cháu trai mượn xe đi làm.
+DIỄN BIẾN: Cháu bảo xe hỏng đang sửa → ảnh du lịch xuất hiện → hóa đơn kéo xe đến → bà hỏi gara về người ký nhận.
+ĐIỂM DỪNG: L1: giấy gara ghi số điện thoại người chưa từng gặp; L2: cháu đã đưa xe cho ai sử dụng?
+SỰ THẬT + KẾT L3: Cháu dùng xe để nhận tiền chở đồ rồi cho bạn mượn. Bà lấy lại xe theo quy trình phù hợp, lập kế hoạch bồi hoàn và không tiếp tục cấp tiền vô điều kiện; không biến phạt giao thông thành cảnh bắt người lập tức.
+HÌNH CHỦ ĐẠO: Chìa khóa dự phòng trên hóa đơn gara.
+MÔ-TÍP THAM KHẢO: Lợi dụng tài sản của người già.
+
+=================================================================
+GD07 — Hai bản sổ nợ của quán ăn gia đình
+HOOK NHÁP PL: Znalazłam dwa zeszyty z tego samego miesiąca. Tylko w jednym byłam zadłużona.
+NHÂN VẬT/BỐI CẢNH: Nữ 43 tuổi phụ trách bếp quán tại Lublin; chồng giữ thu chi.
+DIỄN BIẾN: Chồng nói quán lỗ vì vợ → vợ phát hiện sổ tồn kho khác sổ chi → nhà cung cấp xác nhận thanh toán → chồng có tài khoản nhận tiền giao hàng riêng.
+ĐIỂM DỪNG: L1: biên lai khoản “nợ của vợ” thực ra trả cho một địa chỉ khác; L2: địa chỉ ấy phục vụ ai?
+SỰ THẬT + KẾT L3: Chồng lấy vốn mở quầy ăn cho người tình và đổ nợ lên vợ. Vợ nhờ kế toán đối soát, tách việc kinh doanh và xử lý quan hệ sau khi có hồ sơ. Không cho cô tự rút sạch tài khoản chung để trả thù.
+HÌNH CHỦ ĐẠO: Hai cuốn sổ có vệt dầu bếp.
+MÔ-TÍP THAM KHẢO: Ngoại tình gắn với tiền.
+
+=================================================================
+GD08 — Phong bì tiền lễ của cháu trống rỗng
+HOOK NHÁP PL: W kopercie po komunii wnuczki został tylko mój bilecik.
+NHÂN VẬT/BỐI CẢNH: Ông 69 tuổi ở Kielce; bố cháu có nợ cá nhân.
+DIỄN BIẾN: Ông gửi quà qua con → cháu cảm ơn một tấm thiệp → người lớn nói ông nhớ nhầm → ảnh gia đình chụp trước lễ cho thấy phong bì dày.
+ĐIỂM DỪNG: L1: cháu tìm thấy giấy nộp tiền kẹp trong sách; L2: ai đã nộp tiền mặt vào ngày đó?
+SỰ THẬT + KẾT L3: Con lấy quà trả khoản nợ rồi để cháu nghĩ ông thất hứa. Ông trao đổi riêng, không làm bẽ mặt cháu trước khách, cùng đặt cơ chế giữ tiền quà cho cháu minh bạch; người cha phải nhận lỗi và trả dần.
+HÌNH CHỦ ĐẠO: Thiệp viết tay trong phong bì.
+MÔ-TÍP THAM KHẢO: Tiền quà gia đình.
+
+=================================================================
+GD09 — Em gái được nhà, tôi nhận công nợ
+HOOK NHÁP PL: Siostra pokazała klucze do mieszkania. Mnie podała teczkę z rachunkami za opiekę nad tatą.
+NHÂN VẬT/BỐI CẢNH: Nữ 54 tuổi làm ca tối ở Gdańsk; em gái sống gần bố.
+DIỄN BIẾN: Chị từng trả người hỗ trợ chăm sóc → em nói bố đã cho nhà nên chị trả nợ còn lại → chị kiểm tra hóa đơn → hai hóa đơn dùng cùng số nhưng khác số tiền.
+ĐIỂM DỪNG: L1: công ty chăm sóc nói bố chỉ dùng dịch vụ một nửa số ngày; L2: ai nhận khoản thanh toán dư?
+SỰ THẬT + KẾT L3: Em khai khống khoản chăm sóc. Chị kiểm tra trực tiếp việc bố đã chuyển nhà và nghĩa vụ có thật; yêu cầu đối soát riêng, không mặc định có quyền lấy lại nhà. Cốt lõi là sự bất công và gian dối, không tư vấn chia thừa kế.
+HÌNH CHỦ ĐẠO: Tập hồ sơ chăm sóc và chìa khóa.
+MÔ-TÍP THAM KHẢO: Thừa kế lệch, công sức vô hình.
+
+=================================================================
+GD10 — Tờ giấy bảo lãnh lúc mất điện
+HOOK NHÁP PL: Powiedział, że podpisuję zgodę na naprawę pieca. Potem przyszło pismo o cudzym długu.
+NHÂN VẬT/BỐI CẢNH: Nam 64 tuổi về hưu ở Radom; con trai vận hành cửa hàng.
+DIỄN BIẾN: Con mang tập giấy khi nhà đang sửa điện → bố yêu cầu đọc nhưng bị hối → tháng sau nhận thư → tìm bản chụp con từng gửi.
+ĐIỂM DỪNG: L1: số trang trên bản lưu và bản con đưa không khớp; L2: trang cam kết xuất hiện khi nào?
+SỰ THẬT + KẾT L3: Con tráo trang để tạo hồ sơ sai. Bố không tự kết luận chữ ký vô hiệu; nhờ kiểm tra bản gốc, phản ánh dấu hiệu gian dối và chủ động xử lý thời hạn. Quan hệ chỉ hồi phục khi con hợp tác sửa hậu quả.
+HÌNH CHỦ ĐẠO: Đèn pin và tập giấy đánh số trang.
+MÔ-TÍP THAM KHẢO: Chữ ký, nợ gia đình.
+
+=================================================================
+GD11 — Vợ cũ bị xóa tên khỏi tiệm hoa
+HOOK NHÁP PL: Przez dwadzieścia lat otwierałam kwiaciarnię o szóstej. Na jubileuszu nazwano mnie dawną pracownicą.
+NHÂN VẬT/BỐI CẢNH: Nữ 51 tuổi ở Wrocław, đồng xây tiệm với chồng.
+DIỄN BIẾN: Vợ đến nhận đồ sau chia tay → chồng giới thiệu người mới là người gây dựng → khách lâu năm đưa thiệp khai trương → ảnh cũ dẫn đến hợp đồng góp vốn.
+ĐIỂM DỪNG: L1: bản lưu có phần góp vốn chồng nói không tồn tại; L2: người làm kế toán đã bị yêu cầu bỏ tên ai khỏi báo cáo?
+SỰ THẬT + KẾT L3: Cô chứng minh phần đóng góp trong quá trình giải quyết tài sản bằng hồ sơ phù hợp, mở công việc riêng sau thỏa thuận. Kết không cần làm tiệm phá sản; người kể lấy lại tên tuổi và thu nhập.
+HÌNH CHỦ ĐẠO: Kéo tỉa hoa cạnh thiệp khai trương.
+MÔ-TÍP THAM KHẢO: Xóa công người vợ.
+
+=================================================================
+GD12 — Bản vẽ nhà có cửa phòng tôi bị bịt
+HOOK NHÁP PL: Na planie remontu nie było już drzwi do mojego pokoju.
+NHÂN VẬT/BỐI CẢNH: Góa phụ 70 tuổi ở Olsztyn; cháu ngoại muốn làm homestay.
+DIỄN BIẾN: Bà cho cháu sửa phòng trống → thợ hỏi khi nào bà chuyển đi → cháu bảo chỉ nhầm bản → bà thấy lịch khách nhận cả tầng.
+ĐIỂM DỪNG: L1: hợp đồng thi công có hạng mục tháo bếp của bà; L2: cháu đã hứa bà ở đâu?
+SỰ THẬT + KẾT L3: Cháu bán giấc mơ làm giàu cho cả họ và coi bà đương nhiên về ở nhờ. Bà dừng phần sửa chưa được đồng ý, làm rõ giấy tờ và chỉ tiếp tục phương án bảo đảm chỗ ở do bà chọn.
+HÌNH CHỦ ĐẠO: Bản vẽ gạch đỏ vị trí cửa.
+MÔ-TÍP THAM KHẢO: Nhà mẹ thành dự án của con.
+
+=================================================================
+GD13 — Khoản hoàn thuế chưa bao giờ tới
+HOOK NHÁP PL: Mąż twierdził, że nie dostaliśmy zwrotu. Potwierdzenie leżało w kieszeni jego zimowej kurtki.
+NHÂN VẬT/BỐI CẢNH: Nữ 39 tuổi kế toán kho ở Szczecin; gia đình chật vật tiền nhà.
+DIỄN BIẾN: Chồng nói hồ sơ bị chậm → vợ xin giấy tờ trực tiếp → thấy tiền đã vào tài khoản → lần theo khoản chi mua đồ cho một căn hộ khác.
+ĐIỂM DỪNG: L1: hóa đơn đồ nội thất có tên chị ruột của vợ; L2: chị nhận tiền vì lý do gì?
+SỰ THẬT + KẾT L3: Chồng và chị cùng giấu khoản cho vay để cứu việc kinh doanh của chị, chưa chắc là ngoại tình như vợ tưởng. Vợ buộc minh bạch thu chi, không chấp nhận hai người quyết tiền gia đình sau lưng mình.
+HÌNH CHỦ ĐẠO: Áo khoác mùa đông và hóa đơn.
+MÔ-TÍP THAM KHẢO: Tiền bí mật, đổi hướng phán đoán.
+
+=================================================================
+GD14 — Mảnh vườn bị bán để cứu “gia đình”
+HOOK NHÁP PL: Dowiedziałam się o sprzedaży działki, gdy obcy ludzie zaczęli wynosić ule taty.
+NHÂN VẬT/BỐI CẢNH: Nam 58 tuổi ở vùng gần Białystok; em trai điều hành nông trại.
+DIỄN BIẾN: Người mua đến chuyển tổ ong → em nói bố đã đồng ý → bố phủ nhận biết giá thật → người kể kiểm tra thư từ về thương vụ.
+ĐIỂM DỪNG: L1: bên mua đã chuyển nhiều hơn số em báo với bố; L2: khoản chênh dùng cứu ai?
+SỰ THẬT + KẾT L3: Em giấu tiền cứu khoản đầu tư cá nhân. Gia đình xử lý quyền quyết định và giấy tờ đã ký với tư vấn chuyên môn; bố tự quyết thương lượng. Người kể cứu đàn ong bằng thỏa thuận với người mua, không tấn công người mua vô can.
+HÌNH CHỦ ĐẠO: Tổ ong và biên nhận chuyển tiền.
+MÔ-TÍP THAM KHẢO: Đất đai, tiền chênh bị giấu.
+
+=================================================================
+GD15 — Tôi bị mời khỏi tiệc nghỉ hưu do mình trả tiền
+HOOK NHÁP PL: Za salę zapłaciłam ja. Przy wejściu usłyszałam, że zabrakło dla mnie miejsca.
+NHÂN VẬT/BỐI CẢNH: Nữ 60 tuổi ở Rzeszów; chồng nghỉ hưu, con gái đứng tổ chức.
+DIỄN BIẾN: Vợ đứng ngoài cửa → con bảo danh sách do bố duyệt → nhà hàng đưa bản duyệt bàn → ghế của vợ mang tên phụ nữ khác.
+ĐIỂM DỪNG: L1: khoản đặt cọc thứ hai được trả từ quỹ chung; L2: chồng đã nói gì với khách về cuộc hôn nhân?
+SỰ THẬT + KẾT L3: Chồng tuyên bố hai người đã ly thân dù vẫn dựa tiền vợ. Vợ không phá tiệc, yêu cầu làm rõ chi tiêu và bắt đầu quyết định độc lập. Con gái nhận ra mình đã giúp bố che giấu.
+HÌNH CHỦ ĐẠO: Thẻ bàn và hóa đơn nhà hàng.
+MÔ-TÍP THAM KHẢO: Sỉ nhục công khai, tiền riêng.
+
+=================================================================
+GD16 — Tủ đồ của bà đã được rao bán
+HOOK NHÁP PL: Poznałam płaszcz mamy na zdjęciu w ogłoszeniu. Mama nadal nosiła go każdej zimy.
+NHÂN VẬT/BỐI CẢNH: Nữ 46 tuổi ở Łódź; mẹ ở cùng cháu trai.
+DIỄN BIẾN: Thấy đồ mẹ rao bán theo bộ → cháu nói bà tự dọn → mẹ hỏi chiếc áo biến đâu → con gái phát hiện danh sách đồ được lập trước ngày bà đi khám.
+ĐIỂM DỪNG: L1: có cả món đồ mẹ chưa hề đưa cháu; L2: tại sao danh sách ghi “sau khi bà chuyển đi”?
+SỰ THẬT + KẾT L3: Cháu tính bán đồ để trang trải việc dọn bà sang chỗ ở khác khi chưa hỏi bà. Con gái giúp mẹ quyết định giữ, cho hay bán từng món; tiền được ghi rõ. Không kết bằng việc mẹ chết để trừng phạt con cháu.
+HÌNH CHỦ ĐẠO: Áo len có miếng vá nhận diện.
+MÔ-TÍP THAM KHẢO: Già hóa và quyền quyết định tài sản.
+
+=================================================================
+GD17 — Chiếc máy may chỉ đáng “đồ phế”
+HOOK NHÁP PL: Brat chciał oddać maszynę taty na złom. W szufladzie były zamówienia opłacone na jego konto.
+NHÂN VẬT/BỐI CẢNH: Nam 37 tuổi thợ sửa đồ ở Kraków; anh trai muốn đóng xưởng bố.
+DIỄN BIẾN: Em trở về dọn xưởng → thấy đơn đồng phục còn hiệu lực → khách nói đã trả cọc cho anh → anh đổ trách nhiệm lên bố đã mất.
+ĐIỂM DỪNG: L1: đơn hàng mới nhất được ký sau ngày bố mất; L2: ai dùng tên bố để nhận tiền?
+SỰ THẬT + KẾT L3: Anh tiếp tục nhận đơn rồi định xóa dấu vết bằng đóng xưởng. Em bảo toàn chứng từ và làm việc với khách để xử lý, không nhận mọi khoản nợ bằng cảm tính. Xưởng có thể mở lại nhỏ hơn sau thỏa thuận.
+HÌNH CHỦ ĐẠO: Máy may cũ và mẫu vải đồng phục.
+MÔ-TÍP THAM KHẢO: Di sản nghề nghiệp.
+
+=================================================================
+GD18 — Mỗi tháng tôi trả tiền điện cho nhà trống
+HOOK NHÁP PL: Płaciłam za ogrzewanie pustego domu. W środku ktoś suszył dziecięce ubranka.
+NHÂN VẬT/BỐI CẢNH: Nữ 55 tuổi ở Elbląg; mẹ đi ở với chị gái.
+DIỄN BIẾN: Chị nhờ em giữ tiền điện căn nhà “không người” → em đến kiểm tra → gặp gia đình thuê → người thuê đưa hợp đồng.
+ĐIỂM DỪNG: L1: tiền thuê đã được thu nhiều tháng; L2: mẹ có biết tiền nhà của mình đi đâu?
+SỰ THẬT + KẾT L3: Chị giấu việc cho thuê để trả nợ; mẹ không biết em đang trả điện. Em không đuổi gia đình thuê, mà đối soát với chị và giúp mẹ quản lý tiền nhà minh bạch.
+HÌNH CHỦ ĐẠO: Dây phơi trẻ em trong sân nhà cũ.
+MÔ-TÍP THAM KHẢO: Tài sản được khai là trống.
+
+=================================================================
+GD19 — Chồng bán công lao động của tôi
+HOOK NHÁP PL: Klient podziękował mi za zlecenie, którego rzekomo nie dostaliśmy.
+NHÂN VẬT/BỐI CẢNH: Nữ 44 tuổi làm bánh ở Poznań; chồng nhận đơn, chị làm đêm.
+DIỄN BIẾN: Chồng báo khách hủy nên vợ ăn dè → khách cũ đặt tiếp → vợ xem ảnh bánh đã giao → phát hiện giá báo khách cao hơn sổ doanh thu.
+ĐIỂM DỪNG: L1: phần chênh chuyển đều cho một người cùng họ; L2: chồng đang nuôi ai bằng tiền vợ làm?
+SỰ THẬT + KẾT L3: Chồng trả khoản nợ hộ anh trai và nói mình thất nghiệp. Vợ kiểm soát kênh đặt hàng riêng, tính công lao động rõ; hai gia đình cùng chịu trách nhiệm hoàn trả, không đổ toàn bộ lỗi cho người nhận tiền không biết nguồn.
+HÌNH CHỦ ĐẠO: Hộp bánh và bảng báo giá.
+MÔ-TÍP THAM KHẢO: Lao động vô hình, doanh thu bị giấu.
+
+=================================================================
+GD20 — Cây táo còn đó, lời hứa đã đổi
+HOOK NHÁP PL: Tata obiecał, że pod jabłonią zawsze będzie dla mnie miejsce. Brat postawił tam ogrodzenie.
+NHÂN VẬT/BỐI CẢNH: Nữ 63 tuổi ở làng gần Sandomierz; anh trai sống trên đất bố.
+DIỄN BIẾN: Chị về chăm vườn bị chặn cổng → anh nói bố hứa đất cho mình → hàng xóm trả cuốn sổ trồng cây → sổ ghi công sức cả hai và mong muốn chưa thành giấy tờ.
+ĐIỂM DỪNG: L1: chị nhận ra không có văn bản nào bảo vệ lời hứa; L2: bà chọn tiếp tục kiện tụng hay đàm phán điều cụ thể nào?
+SỰ THẬT + KẾT L3: Câu chuyện tránh chiếc di chúc cứu viện. Chị tìm hiểu quyền có thật, thương lượng lối vào và khoản công sức có chứng từ; nếu không đạt, chị tự trồng vườn mới và đặt ranh giới. Cây táo là ký ức, không tự tạo quyền tài sản.
+HÌNH CHỦ ĐẠO: Cổng khóa và giỏ táo.
+MÔ-TÍP THAM KHẢO: Biến thể vườn cây nguồn.
+
+GHI CHÚ NGUỒN: Các brief đều là đề xuất sáng tác mới. Lượt xem là số hiển thị làm tròn trong mẫu quan sát của page Hà Lan, không phải thành tích dự báo của page Ba Lan. Không gọi 20 brief này là “20 video đã viral”.

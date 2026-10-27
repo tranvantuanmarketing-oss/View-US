@@ -1,0 +1,17 @@
+80 BRIEF / 4 PAGE / 27-10-2026
+
+1. Behind-Estate-Gates-20-Brief-Claude.txt — Anh / England & Wales / en-gb
+2. Masques-Tombes-20-Brief-Claude.txt — Pháp / fr
+3. Dernieres-Volontes-20-Brief-Claude.txt — Pháp / fr
+4. Cienie-Spadku-20-Brief-Claude.txt — Ba Lan / pl
+
+Mỗi file: 20 brief, hook và L1 bằng ngôn ngữ xuất bản, nhân vật, 5 nhịp, vật chứng, L2 và kết L3; prompt đầu file hướng dẫn Claude viết bản hoàn chỉnh. Không phải file import tool, chưa tạo hoặc đăng video.
+
+Dùng: gửi một file page cho Claude, thêm câu “Viết 5 ID ưu tiên đầu file theo đúng brief. Không đổi người kể, vật chứng hoặc kết; xuất mỗi ID thành một gói riêng. Chưa có URL thì giữ {WEB_URL}.” Đọc báo cáo nghiên cứu kèm khi mở rộng chi tiết pháp lý. Sau kiểm tra mới tiếp tục 15 ID còn lại.
+
+BAO-CAO-NGHIEN-CUU.md: định vị, đối chiếu mẫu cũ, tiếp thu/sửa Gemini và nguồn tra cứu. Chưa đo lượt xem hiện tại của bốn page, không gọi các đề xuất là đã viral.
+80-BRIEF-MUC-LUC.csv: lọc theo page, ID, ưu tiên, nội dung.
+80-brief-data.json: dữ liệu có cấu trúc, dùng cho quản lý; không phải schema import Story Video Studio.
+DOI-CHIEU-TEP-CU.csv: danh mục file cũ và số tiêu đề đọc được, không thay thế kiểm tra trùng ý tưởng thủ công.
+
+Tốc độ 5/ngày: 20 video sau khi tạo thêm khoảng 4 ngày cho mỗi page. Gói này không sửa kho video hoặc lịch đăng.

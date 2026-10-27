@@ -1,0 +1,297 @@
+CLOSED DOORS — LÔ 4 — 20 BRIEF VIDEO
+Ngày: 27/10/2026 | Ngôn ngữ xuất bản: fr
+Page ID: 61594794775964
+
+Ưu tiên viết thử: CD01, CD02, CD03, CD04, CD05. Các brief còn lại mở rộng mô-típ và chống lặp.
+
+PROMPT GIAO CLAUDE / NGƯỜI VIẾT KỊCH BẢN — LÔ 4
+
+Đây là 20 BRIEF độc lập của một page. Viết theo đúng ID được chọn; nếu chưa chọn thì viết 5 ID đầu. Không nhập tất cả thành một truyện, không đổi thành “phần tiếp theo đã xảy ra thật” của video cũ. Đây là sáng tác hư cấu mới phát triển từ các mô-típ có hiệu suất tốt, không phải bản dịch video nguồn.
+
+Trao đổi tiếng Việt; thẻ, caption, bình luận và đoạn kết dùng ngôn ngữ của page. Nhân vật trong từng brief đã khóa tên, tuổi, nghề và quan hệ; không thêm một tỷ phú hay người thừa kế để giải cứu ở phút cuối. Hook và câu dừng là bản nháp sáng tác; được biên tập tự nhiên hơn nhưng phải giữ sự kiện và bằng chứng. Không lặp tên các nhân vật nguồn.
+
+Mỗi ID xuất:
+A. Khóa truyện bằng tiếng Việt (nhân vật, quyền đối với tiền/tài sản, thứ tự ngày tháng, nguồn vật chứng, động cơ người đối lập).
+B. 3 hook khác cách mở, chọn 1 phù hợp nhất. Sau đó THẺ REEL ngôi thứ nhất đúng 5 dòng, mỗi dòng 14–20 từ: 1 bối cảnh/hành động lạ; 2 lời xem thường hoặc yêu sách cụ thể; 3 công sức có cái giá thật; 4 hành động chủ động thu chứng cứ; 5 sự kiện ở L1, dừng trước lời giải và kết bằng ... Không nhồi cả điều luật vào thẻ.
+C. Highlights đúng 3 cụm trích nguyên văn từ thẻ: lời yêu sách, sự hy sinh, vật chứng/bước ngoặt. Cụm phải khớp chữ để tool tô màu được.
+D. Nút CTA: FR “Continuer la lecture dans les commentaires”; NL “Lees verder in de reacties”. Chỉ dùng nếu đã chuẩn bị phần tiếp.
+E. Caption dưới 150 ký tự, tính cả 3 hashtag; hashtag page là #closeddoors hoặc #verborgenwaarheden. Không hứa chuyện thật; không ép bình luận/chia sẻ để được đọc kết.
+F. COMMENT 1 bắt đầu PARTIE 2: (FR) / DEEL 2: (NL), 380–500 từ, 10–14 đoạn. Tiếp nối đúng L1; trả một câu hỏi, thêm bằng chứng, kết ở L2. Không giấu luôn mọi câu trả lời. Không dùng lặp “một phong bì thứ hai” cho cả lô.
+G. KẾT L3 nội bộ 180–250 từ bằng ngôn ngữ page, giải đầy đủ ai làm gì, tiền đi đâu, hậu quả và lựa chọn của người kể. Phần này giúp kiểm tra trước khi viết web; không có nghĩa truyện đã được đăng.
+H. Một prompt hình dọc 9:16: cảnh cụ thể, người kể, vật chứng; không minh họa đáp án cuối. Không giả huy hiệu xác minh, bài đăng người thật hoặc dấu công chứng như chứng từ xác thực.
+I. Tự kiểm logic, ngôn ngữ, mốc thời gian và độ khác với nguồn/các ID còn lại. Chưa có người bản ngữ duyệt thì phải nói rõ.
+
+DÙNG NGUỒN:
+C01–C10/V01–V10 là các video của chính page được tóm tắt trong báo cáo. E01–E03 là thảo luận web bổ sung, chỉ lấy xung đột chung, không dùng như câu chuyện đã kiểm chứng. G = hướng biên tập từ file Gemini, không phải dữ kiện về lượt xem. “Ưu tiên” là thứ tự thử nội dung, không phải lời hứa view.
+
+DÙNG PHÁP LÝ:
+Giữ quyền sở hữu, quyền ở, quyền dùng tài sản và quyền nhận tiền là bốn việc khác nhau. Vật chứng có nguồn gốc (hóa đơn do người kể giữ, email do bên nhận chuyển tiếp, hồ sơ yêu cầu đúng tư cách). Công chứng viên kiểm tra văn bản, không tuyên án/thu nhà theo yêu cầu một bên. Không mặc định một mâu thuẫn gia đình đủ hủy tặng cho. Không tự khóa thẻ người khác hay hủy hợp đồng thuê tức thì để trả thù. Tình tiết chưa được kiểm chứng phải viết theo hướng “yêu cầu rà soát/được tư vấn/đang làm thủ tục”, không nêu điều luật hay tỷ lệ phạt cụ thể.
+
+Không chẩn đoán giả bệnh từ việc đứng dậy/đi lại trên camera; không coi khó khăn nhận thức là trò lừa. Không bắt người kể ký văn bản không đọc để gài người khác. Nếu cần thời gian giải quyết, cho câu chuyện diễn ra trong nhiều tuần/tháng.
+
+KẾT NỐI WEB:
+Dùng {WEB_URL} làm chỗ giữ; chỉ gắn link thật sau khi bài có đủ lời giải. Không tự lấy link gốc nguồn gắn vào truyện mới. Không mặc định đổi sang domain cũ của skill; các video khảo sát đang dùng thestory.danhngon.pro. Từ khóa cuối brief là nhãn biên tập để quản lý, không phải lệnh buộc khán giả gõ bình luận.
+
+Đây là tài liệu brief, CHƯA phải file parser của Story Video Studio. Khi đã viết thành kịch bản, xuất đúng cấu trúc import của tool rồi mới chạy validator và render thử một video.
+
+20 BRIEF
+
+========================================================================
+L4-CD01 — Le mandat de l'orangerie
+NGUỒN / ƯU TIÊN: C01 + G quyền sở hữu; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Agnès Moreau, 67, cựu chủ tiệm hoa ở Angers; con rể Luc dùng quan hệ gia đình để lấy tiền ứng.
+HOOK NHÁP (FR): Mon gendre avait promis notre orangerie à un promoteur. Mon accord portait seulement sur des photographies.
+KHUNG 5 NHỊP: 1 khách lạ chụp đo nhà kính → 2 con rể nói bà đã đồng ý → 3 bà từng bỏ tiền phục hồi vườn → 4 lấy email gốc từ nhiếp ảnh gia → 5 đối chiếu phạm vi ủy quyền với đề nghị mua.
+L1 — CÂU DỪNG THẺ (FR): Le photographe m'a envoyé le fichier original. La dernière page ne portait plus le même titre...
+L2 — COMMENT MỞ TIẾP: Email đặt chụp bị đính thêm trang thỏa thuận bán; ai gửi bản mới cho bên mua?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Luc giấu việc nhận tiền ứng cho dự án chưa có quyền bán. Bà thông báo chưa đồng ý giao dịch, nhờ kiểm tra hồ sơ; bên mua cũng là người bị lừa. Bà giữ quyền quyết định và buộc con gái nhìn nhận việc chồng làm.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Đổi tài sản, bên phản diện, vật chứng và cách phát hiện so với vườn nho nguồn; không cảnh sát chờ sẵn. Email chứng minh phạm vi trao đổi, không tự hủy mọi hợp đồng.
+HÌNH CHỦ ĐẠO: Nhà kính có cây cam và bản in email.
+TỪ KHÓA BIÊN TẬP: ORANGERIE
+
+========================================================================
+L4-CD02 — Le traiteur connaissait mon nom
+NGUỒN / ƯU TIÊN: C02 + E01 chi phí cưới; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Élodie Caron, 54, kỹ thuật viên xét nghiệm ở Tours; chồng cũ Pascal muốn xuất hiện như người tài trợ.
+HOOK NHÁP (FR): À la dégustation du mariage, mon ex a demandé que toutes les factures portent son nom.
+KHUNG 5 NHỊP: 1 buổi thử món trước cưới → 2 chồng cũ giành quyền sửa hợp đồng → 3 mẹ đã trả từng đợt từ tiền làm thêm → 4 đề nghị nhà cung cấp gửi lịch thanh toán cho con gái → 5 nhà cung cấp hỏi về khoản hoàn tiền.
+L1 — CÂU DỪNG THẺ (FR): Le traiteur a demandé à ma fille pourquoi son père avait changé le compte du remboursement...
+L2 — COMMENT MỞ TIẾP: Một khoản giảm giá đã hoàn vào tài khoản ai trong khi người mẹ vẫn bị đòi trả đủ?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Pascal đổi thông tin nhận khoản hoàn dự kiến rồi nói mình đã thanh toán. Con gái yêu cầu đối soát và tự quyết chỗ ngồi; mẹ giải quyết khoản tiền với chứng từ, không mở màn làm nhục trong lễ cưới.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không lặp DJ, micro, số khách hay phong bì. Bên cung cấp có xác nhận việc đổi RIB; không chốt cáo buộc chỉ từ một email lạ.
+HÌNH CHỦ ĐẠO: Bàn thử món, bảng thanh toán hai màu.
+TỪ KHÓA BIÊN TẬP: LE RIB
+
+========================================================================
+L4-CD03 — Les cartons de porcelaine
+NGUỒN / ƯU TIÊN: C03 + V05; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Béatrice Lemaire, 58, chủ hiệu sửa quần áo ở Limoges; em Solène giấu việc bán đồ của mẹ.
+HOOK NHÁP (FR): Ma sœur disait avoir donné la vaisselle de maman. Le commissaire-priseur m'a appelée pour une estimation.
+KHUNG 5 NHỊP: 1 nhà mẹ thiếu bộ đồ sứ → 2 em bảo đã cho người khó khăn → 3 chị từng chăm mẹ và chụp ảnh từng món cho bảo hiểm → 4 người định giá hỏi tình trạng bộ đồ → 5 lộ tên người ủy thác.
+L1 — CÂU DỪNG THẺ (FR): Sur le bordereau d'estimation, j'ai reconnu le nom de l'association dont ma sœur était trésorière...
+L2 — COMMENT MỞ TIẾP: Vì sao đồ của mẹ được ghi là đồ tổ chức sở hữu, và ai xác nhận?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Solène dùng danh nghĩa tổ chức để giấu việc nhận tiền. Chị giữ ảnh, yêu cầu kiểm kê với người phụ trách di sản và tổ chức; việc phân chia được xử lý riêng. Một người mua thiện chí giúp truy lại lịch giao nhận.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không két ngân hàng/đồng hồ/di chúc cứu viện; hồ sơ định giá chưa chứng minh đã bán. Tránh quy kết tổ chức vô can.
+HÌNH CHỦ ĐẠO: Thùng sứ có nhãn vận chuyển và ảnh cũ.
+TỪ KHÓA BIÊN TẬP: PORCELAINE
+
+========================================================================
+L4-CD04 — Les heures de présence
+NGUỒN / ƯU TIÊN: C04 + E02 gánh chăm sóc; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Nathalie Perrin, 46, nhân viên thư viện ở Nancy; chồng Arnaud muốn che phần tiền “chăm mẹ”.
+HOOK NHÁP (FR): Je remplaçais chaque nuit l'aide à domicile. Mon mari disait pourtant que nous payions toutes les gardes.
+KHUNG 5 NHỊP: 1 người kể kiệt sức → 2 chồng gọi việc chăm mẹ là nghỉ ở nhà → 3 cô mất ca làm → 4 bên cung cấp gửi bảng giờ → 5 nhiều ca được tính nhưng chưa đặt.
+L1 — CÂU DỪNG THẺ (FR): L'agence m'a envoyé son planning. Les nuits que mon mari disait avoir payées n'existaient pas...
+L2 — COMMENT MỞ TIẾP: Chồng chuyển tiền mỗi tháng cho ai nếu không có các ca chăm?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Anh trả cho chị gái với danh nghĩa điều phối, trong khi chị chỉ ghé rất ít. Người kể đặt lịch thay phiên thực tế, khôi phục công việc và yêu cầu đối soát tiền. Mẹ chồng cũng được quyền biết ai chăm mình.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không twist người bệnh giả liệt, không quay trộm phòng riêng; lịch do đơn vị dịch vụ cung cấp đúng tư cách. Động cơ anh muốn né chi phí và trách nhiệm, không chỉ “ác”.
+HÌNH CHỦ ĐẠO: Lịch ca đêm và cốc trà nguội.
+TỪ KHÓA BIÊN TẬP: LES NUITS
+
+========================================================================
+L4-CD05 — Le chèque destiné au fournisseur
+NGUỒN / ƯU TIÊN: C05 + G sổ sách; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Florence Aubry, 49, bác sĩ thú y ở Poitiers; em chồng Denis có xưởng đóng cửa gỗ.
+HOOK NHÁP (FR): Pour sauver l'entreprise familiale, on m'a demandé de payer un fournisseur qui n'avait jamais envoyé de facture.
+KHUNG 5 NHỊP: 1 họp gia đình yêu cầu cứu xưởng → 2 chê người vợ không biết đoàn kết → 3 tiền là khoản cô dành đổi xe khám lưu động → 4 xin hóa đơn trực tiếp từ nhà cung cấp → 5 nhà cung cấp nói chưa từng bán hàng ấy.
+L1 — CÂU DỪNG THẺ (FR): Le fournisseur a reconnu l'en-tête, puis m'a demandé de regarder les deux derniers chiffres du compte...
+L2 — COMMENT MỞ TIẾP: Một mẫu báo giá cũ bị sửa RIB; ai trong nhà giữ bản gốc?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Denis muốn dùng khoản cứu xưởng trả khoản nợ khác và không nói thật với cha. Người kể giữ khoản tiền chưa chuyển, chỉ xem xét hợp đồng minh bạch sau kiểm toán; cô không mất tiền rồi “tự nhiên thành chủ tòa nhà”.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không copy xưởng/số tiền/nghề nguồn. Không chuyển nhầm để thử lòng; báo giá và người phát hành được xác minh.
+HÌNH CHỦ ĐẠO: Báo giá, thẻ công tác và lịch khám.
+TỪ KHÓA BIÊN TẬP: LE FOURNISSEUR
+
+========================================================================
+L4-CD06 — La chambre qui n'était pas à vendre
+NGUỒN / ƯU TIÊN: C06 + G usufruit; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Marianne Vidal, 65, cựu giáo viên ở Avignon; con bạn đời Hugo tưởng mình có thể bàn giao toàn bộ nhà.
+HOOK NHÁP (FR): Les enfants de mon compagnon ont annoncé des visites immobilières pendant que je préparais encore son mémorial.
+KHUNG 5 NHỊP: 1 thông báo dẫn khách xem → 2 yêu cầu bà xếp đồ → 3 bà đã ở đó nhiều năm và hai người chủ động lập giấy → 4 hẹn kiểm tra quyền ở với công chứng viên → 5 môi giới thấy phạm vi nhà được phép giới thiệu.
+L1 — CÂU DỪNG THẺ (FR): L'annonce promettait une maison libre. Le dossier précisait qu'une personne avait le droit d'y rester...
+L2 — COMMENT MỞ TIẾP: Ai báo với môi giới rằng bà đã tự nguyện dọn đi?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Hugo giấu quyền ở đã được thiết lập trong hồ sơ hợp lệ. Marianne không đòi sở hữu toàn bộ; bà yêu cầu sửa mô tả giao dịch và giữ nơi ở trong đúng phạm vi giấy tờ. Quan hệ với cháu vẫn có thể giữ nếu cha không dùng chúng gây sức ép.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không thay khóa sau tang lễ như lô cũ, không tự áp tontine. Quyền ở cụ thể được xác nhận trong truyện, không suy từ thời gian sống chung.
+HÌNH CHỦ ĐẠO: Tờ rao nhà cạnh cốc trà trên bậu cửa.
+TỪ KHÓA BIÊN TẬP: DROIT D'HABITER
+
+========================================================================
+L4-CD07 — Le viager qu'ils appelaient un cadeau
+NGUỒN / ƯU TIÊN: G viager + C01 tài sản; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Colette Dumas, 72, cựu nhân viên bưu điện ở Albi; con Rémi muốn coi giao dịch như quà biếu.
+HOOK NHÁP (FR): Mon fils annonçait avoir reçu ma maison. Chaque mois, j'attendais pourtant le versement prévu dans notre contrat.
+KHUNG 5 NHỊP: 1 con khoe nhà đã được cho → 2 bảo mẹ đòi tiền là tham → 3 bà cần khoản trả định kỳ chi sinh hoạt → 4 đem hợp đồng và bảng thanh toán tới tư vấn → 5 chữ trong thông báo của con mâu thuẫn văn bản.
+L1 — CÂU DỪNG THẺ (FR): Dans le message envoyé à sa banque, mon fils avait écrit « donation ». Mon contrat disait autre chose...
+L2 — COMMENT MỞ TIẾP: Con khai “cho tặng” để che nghĩa vụ đang nợ và muốn vay thêm tiền làm gì?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Đây là một viager occupé đã được lập hợp lệ trong cốt truyện, có quyền sử dụng của bà và nghĩa vụ trả định kỳ. Bà yêu cầu xử lý vi phạm theo hồ sơ; giải quyết kéo dài, không lập tức lấy nhà lại hay chuyển tài sản cho y tá.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Phân biệt viager occupé/libre, không dùng nhà “đã cho” rồi bí mật đổi loại hợp đồng. Nguồn quy tắc P01 trong báo cáo; không tự ghi điều khoản phạt.
+HÌNH CHỦ ĐẠO: Sổ chi sinh hoạt và hợp đồng có mục thanh toán.
+TỪ KHÓA BIÊN TẬP: LA RENTE
+
+========================================================================
+L4-CD08 — Le studio loué deux fois
+NGUỒN / ƯU TIÊN: C01 + G SCI; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Isabelle Renault, 43, quản lý khách sạn ở Dijon; anh Étienne quản lý SCI gia đình.
+HOOK NHÁP (FR): Mon frère disait que le studio de notre SCI était vide. Une locataire m'a demandé où envoyer son loyer.
+KHUNG 5 NHỊP: 1 báo cáo không có người thuê → 2 anh nói em chỉ ký cho có tên → 3 cô góp tiền sửa phòng → 4 người thuê gọi do biên nhận sai tên → 5 đối soát tiền nhà.
+L1 — CÂU DỪNG THẺ (FR): La locataire payait régulièrement. Le compte indiqué ne figurait pas dans la comptabilité de notre société...
+L2 — COMMENT MỞ TIẾP: Tài khoản nhận tiền thuộc ai và có phải toàn bộ người góp vốn đều biết?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Anh dùng tài khoản cá nhân thu tiền rồi giấu doanh thu. Isabelle yêu cầu kế toán đối soát và họp theo điều lệ; vai trò quản lý được xem xét bằng đúng thủ tục, không nhờ “99% quyền phủ quyết bất khả bãi nhiệm”.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Người thuê không bị đuổi vì lỗi quản lý. Quyền thành viên, chức quản lý và sở hữu bất động sản không đánh đồng.
+HÌNH CHỦ ĐẠO: Biên nhận tiền thuê và báo cáo có dòng 0.
+TỪ KHÓA BIÊN TẬP: LE LOYER
+
+========================================================================
+L4-CD09 — La machine emportée pendant ma convalescence
+NGUỒN / ƯU TIÊN: C07; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Gérard Tessier, 64, thợ đóng sách ở Le Mans; con trai Adrien muốn bán đồ để trả nợ.
+HOOK NHÁP (FR): À mon retour de convalescence, la machine que je venais de louer avait disparu de mon atelier.
+KHUNG 5 NHỊP: 1 xưởng thiếu máy dập → 2 con bảo máy cũ không ai dùng → 3 cha tích cóp trả thuê để mở lớp nghề → 4 liên hệ bên cho thuê và người nhận hàng → 5 hóa đơn rao bán có số máy.
+L1 — CÂU DỪNG THẺ (FR): L'acheteur m'a montré sa facture. Le numéro correspondait à une machine dont nous n'étions pas propriétaires...
+L2 — COMMENT MỞ TIẾP: Vì sao con nói mình có quyền bán, ai cung cấp giấy tờ cho người mua?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Con bán cả máy thuê vì không đọc hồ sơ và cần trả khoản nợ cá nhân. Cha bảo toàn giấy tờ, phối hợp bên sở hữu xử lý giao dịch và yêu cầu con chịu hậu quả; mở lại lớp sau khi có thiết bị hợp lệ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không xe cổ/bảo hiểm/fondation; hợp đồng thuê được báo trước từ nhịp 1. Không tự tịch thu từ người mua.
+HÌNH CHỦ ĐẠO: Khoảng trống trên bàn máy và nhãn số serie.
+TỪ KHÓA BIÊN TẬP: LE NUMÉRO
+
+========================================================================
+L4-CD10 — L'atelier payé avec mes dessins
+NGUỒN / ƯU TIÊN: C09 + G nguồn vốn riêng; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Pauline Giraud, 40, họa sĩ minh họa ở Toulouse; chồng Romain điều hành bán hàng.
+HOOK NHÁP (FR): Mon mari s'attribuait notre nouvel atelier. Le virement provenait de la vente des dessins de ma mère.
+KHUNG 5 NHỊP: 1 khai trương studio → 2 chồng nói vợ chỉ trang trí → 3 nguồn vốn là bộ tranh thừa kế → 4 cô kiểm tra hồ sơ mua và sao kê → 5 thấy yêu cầu sửa khai báo nguồn tiền.
+L1 — CÂU DỪNG THẺ (FR): Le dossier conservait ma déclaration d'origine des fonds. Quelqu'un avait demandé qu'elle ne soit plus jointe...
+L2 — COMMENT MỞ TIẾP: Ai yêu cầu sửa và người kể đã được hỏi đồng ý chưa?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Romain muốn dùng studio bảo đảm cho dự án riêng nên che nguồn tiền. Pauline làm rõ tình trạng pháp lý tài sản và chặn việc dùng tên cô trong hồ sơ mới nếu chưa đồng ý; phần tranh đã bán được ghi nhận khi giải quyết quan hệ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không mặc định “tiền thừa kế = căn nhà 100% riêng”; cần xem hợp đồng, chế độ tài sản và remploi. Không căn hộ nhân tình ở Cannes/Paris.
+HÌNH CHỦ ĐẠO: Ống đựng tranh và bảng kê chuyển tiền.
+TỪ KHÓA BIÊN TẬP: MES DESSINS
+
+========================================================================
+L4-CD11 — Les verres inventoriés
+NGUỒN / ƯU TIÊN: C03 + G di vật; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Hélène Roche, 56, quản lý phục vụ ở Reims; em họ Maxime muốn bán kho của dì.
+HOOK NHÁP (FR): Ma tante m'a laissé son carnet de réservations. Mon cousin avait déjà emporté les caisses de champagne.
+KHUNG 5 NHỊP: 1 người kể nhận sổ bị chê vô giá trị → 2 họ hàng ôm rượu đi → 3 cô từng giúp dì tổ chức tiệc → 4 sổ có danh mục hàng ký gửi → 5 khách liên hệ nhận hàng đã trả tiền.
+L1 — CÂU DỪNG THẺ (FR): La première cliente ne réclamait pas un souvenir. Elle avait payé les bouteilles trois semaines auparavant...
+L2 — COMMENT MỞ TIẾP: Kho đó là di sản của dì hay hàng khách đã mua nhưng còn gửi?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Phần rượu không còn hoàn toàn thuộc di sản vì đã bán cho khách, các chứng từ cần đối soát. Hélène dùng sổ ngăn hàng bị bán lần hai và giúp xử lý đúng; giá trị thật là bảo vệ danh dự của dì chứ không nhận triệu euro bất ngờ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không đồng hồ/FCDDV/phong bì sáp; sổ là đầu mối, hóa đơn và giao nhận mới dùng xác minh.
+HÌNH CHỦ ĐẠO: Sổ đặt tiệc và thùng rượu có tên khách.
+TỪ KHÓA BIÊN TẬP: LES RÉSERVATIONS
+
+========================================================================
+L4-CD12 — Le devis des obsèques
+NGUỒN / ƯU TIÊN: E02 + C05; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Brigitte Colin, 62, nhân viên ngân hàng nghỉ hưu ở Besançon; các em muốn thể hiện nhưng không trả chi phí.
+HOOK NHÁP (FR): Mes frères avaient choisi les obsèques les plus chères. Ils avaient donné mon numéro pour régler la facture.
+KHUNG 5 NHỊP: 1 bên dịch vụ gọi xác nhận → 2 em nói chị khá giả thì trả → 3 chị đã gánh chăm cha → 4 yêu cầu bản báo giá và hỏi cha về mong muốn khi ông còn minh mẫn → 5 có mẫu lựa chọn đơn giản cha giữ.
+L1 — CÂU DỪNG THẺ (FR): Dans le dossier de papa, j'ai trouvé le devis qu'il avait choisi lui-même. Ce n'était pas le leur...
+L2 — COMMENT MỞ TIẾP: Ai đã thay yêu cầu của cha bằng gói đắt tiền, có khoản nào không liên quan tang lễ?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Các em ghép cả khoản sửa lăng cũ của gia đình vào hóa đơn “ý nguyện cha”. Cha xác nhận mong muốn; các con thống nhất lễ vừa phải, chia phần tự nguyện minh bạch. Một em nhận lỗi thay vì mọi người đều bị trừng phạt.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không coi một anh/chị giàu hơn là bắt buộc phải trả theo luật; không phán nghĩa vụ tang lễ tại Pháp. Không copy số tiền, mausoleum hoặc câu nguồn.
+HÌNH CHỦ ĐẠO: Hai báo giá và kính đọc của cha.
+TỪ KHÓA BIÊN TẬP: LE DEVIS
+
+========================================================================
+L4-CD13 — Les acomptes après l'annulation
+NGUỒN / ƯU TIÊN: E01 + C02; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Anne Fournel, 57, quản lý nhà thuốc ở Rennes; con gái Manon xấu hổ che việc đổ vỡ.
+HOOK NHÁP (FR): Le mariage était annulé depuis un mois. Ma fille me demandait encore le dernier acompte.
+KHUNG 5 NHỊP: 1 mẹ nhận yêu cầu trả thêm → 2 con bảo mẹ chỉ cần tin → 3 mẹ đã lấy tiết kiệm hỗ trợ → 4 gọi bên tổ chức về hạng mục chưa cung cấp → 5 phát hiện ngày hủy và khoản hoàn.
+L1 — CÂU DỪNG THẺ (FR): La salle avait reçu l'annulation trente jours plus tôt. On m'avait pourtant envoyé un nouvel échéancier...
+L2 — COMMENT MỞ TIẾP: Tiền mẹ chuyển sau ngày hủy còn ở đơn vị dịch vụ hay người khác giữ?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Manon giữ yêu cầu đóng thêm để bù khoản vay cô đã giấu. Mẹ hỗ trợ phần chi phí thật đã cam kết nhưng từ chối trả nợ mới; lịch hoàn tiền được kiểm tra theo hợp đồng. Kết đối thoại có trách nhiệm, không đổi tiệc cưới thành đại tiệc trả thù.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không mặc định hủy là được hoàn hết hay mất hết; không gắn lỗi hủy cưới vào ngoại tình chỉ vì nguồn Reddit vậy.
+HÌNH CHỦ ĐẠO: Email hủy và lịch thanh toán mới.
+TỪ KHÓA BIÊN TẬP: L'ANNULATION
+
+========================================================================
+L4-CD14 — La maison à prix de famille
+NGUỒN / ƯU TIÊN: E03 + C08; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Thomas Delmas, 35, kỹ sư âm thanh ở Orléans; vợ sắp cưới Julie và cha mẹ cô muốn giữ quyền sử dụng không rõ ràng.
+HOOK NHÁP (FR): La maison était vendue « à prix de famille ». Chaque pièce avait pourtant déjà un occupant désigné.
+KHUNG 5 NHỊP: 1 được đề nghị mua nhà bà với giá ưu đãi → 2 bị gọi ích kỷ khi hỏi giới hạn → 3 tiền riêng tích để ở và làm phòng thu → 4 xin phương án sử dụng bằng văn bản → 5 bảng lịch gia đình kín cả năm.
+L1 — CÂU DỪNG THẺ (FR): Le calendrier prévoyait nos vacances. Notre propre chambre était réservée à quelqu'un d'autre chaque été...
+L2 — COMMENT MỞ TIẾP: Ai nghĩ giảm giá cho phép họ quyết định nơi ở của hai vợ chồng sau mua?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Bà muốn bán thật để trang trải tuổi già, còn cha mẹ Julie tự hứa quyền sử dụng với cả họ. Hai người nói trực tiếp với bà và chọn hợp đồng minh bạch hoặc không mua; vấn đề là sự đồng ý, không chê người già gánh nặng.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không dịch nhàMỹ/HOA/tám phòng. Không mua trước rồi đổi khóa; quyền bà và điều kiện đã ký được tôn trọng.
+HÌNH CHỦ ĐẠO: Sơ đồ phòng và lịch nghỉ được tô kín.
+TỪ KHÓA BIÊN TẬP: LE CALENDRIER
+
+========================================================================
+L4-CD15 — La ligne oubliée du divorce
+NGUỒN / ƯU TIÊN: V01 chuyển mô-típ + G người vợ bị xóa công; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Catherine Brun, 60, nhân viên lễ tân ở Grenoble; chồng cũ Alain muốn bỏ qua khoản quyền lợi đã thỏa thuận.
+HOOK NHÁP (FR): Mon ex affirmait que notre divorce avait tout réglé. Le relevé annuel mentionnait encore mon ancien nom.
+KHUNG 5 NHỊP: 1 con trai chuyển thư gửi nhầm → 2 ex bảo bỏ đi → 3 cô từng giảm giờ làm nuôi con → 4 lấy hồ sơ ly hôn hỏi đơn vị liên quan → 5 thấy giấy yêu cầu đổi người nhận chưa đủ chữ ký.
+L1 — CÂU DỪNG THẺ (FR): Le service m'a demandé si j'avais signé une modification. Je n'avais même jamais reçu ce document...
+L2 — COMMENT MỞ TIẾP: Đề nghị sửa đó xuất phát từ ai và có kèm phần đồng ý bị thiếu không?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Alain cố thay thông tin đối với quyền lợi ghi trong thỏa thuận; cơ quan chưa giải quyết vì cần xác minh. Catherine yêu cầu kiểm tra, giữ quyền đã được công nhận theo hồ sơ thực tế và tự lập kế hoạch thu nhập.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không bê luật bijzonder partnerpensioen sang Pháp; không chốt số tiền/lifetime chỉ từ thư. Bản viết không cần gọi tên một chế độ hưu trí khi chưa rõ.
+HÌNH CHỦ ĐẠO: Thư mang tên cũ và hồ sơ ly hôn.
+TỪ KHÓA BIÊN TẬP: MON ANCIEN NOM
+
+========================================================================
+L4-CD16 — La page des engagements
+NGUỒN / ƯU TIÊN: C10 + G hồ sơ; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: André Faure, 70, thợ làm đàn ở Mirecourt; cháu Victor muốn dùng xưởng bảo đảm vốn.
+HOOK NHÁP (FR): Mon neveu m'a envoyé une procuration « urgente ». La page des engagements portait un nom de société inconnu.
+KHUNG 5 NHỊP: 1 cháu nói chỉ gia hạn bảo hiểm → 2 dọa không giúp nhập hàng → 3 chú đã dạy nghề miễn phí → 4 chú xin đầy đủ phụ lục → 5 bên mua hỏi một công ty lạ.
+L1 — CÂU DỪNG THẺ (FR): Le nom de cette société figurait sur les garanties, mais mon neveu ne l'avait jamais mentionnée...
+L2 — COMMENT MỞ TIẾP: Xưởng đang được đưa vào giao dịch của ai, và vì sao cháu giấu phần này?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Victor muốn mở công ty riêng bằng cam kết của chú. André từ chối ký, làm rõ việc sử dụng thông tin và đặt điều kiện hỗ trợ mới minh bạch. Tình cảm còn lại tùy cháu có nhận trách nhiệm.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không tráo giấy để bắt cháu tự ký nhầm; người kể không ký mù. Không biến công chứng viên thành tòa án.
+HÌNH CHỦ ĐẠO: Phụ lục đặt cạnh cây đàn đang sửa.
+TỪ KHÓA BIÊN TẬP: L'ANNEXE
+
+========================================================================
+L4-CD17 — Le repas des fournisseurs
+NGUỒN / ƯU TIÊN: C05 + G doanh nghiệp gia đình; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Dominique Laurent, 63, đồng sáng lập công ty cung ứng bánh ở Caen; con Olivier muốn che khoản bà cho vay.
+HOOK NHÁP (FR): Au dîner des fournisseurs, mon fils m'a présentée comme une invitée. Les créances portaient pourtant mon nom.
+KHUNG 5 NHỊP: 1 bữa gặp đối tác → 2 con nói mẹ không tham gia vốn → 3 bà trả tiền cứu kho lạnh → 4 đối tác hỏi xác nhận công nợ → 5 có hai bảng số dư khác nhau.
+L1 — CÂU DỪNG THẺ (FR): Le comptable avait deux versions du bilan. Dans celle remise aux investisseurs, ma créance avait disparu...
+L2 — COMMENT MỞ TIẾP: Người nào yêu cầu bỏ khoản nợ, định dùng số liệu đó gọi vốn thế nào?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Con muốn trình tình hình đẹp để lấy đầu tư; bà yêu cầu điều chỉnh hồ sơ và thương lượng hoàn trả hoặc chuyển đổi có tư vấn. Bà không phá chuỗi lạnh làm khách hàng chịu thiệt.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không “một tin nhắn dừng phòng mổ”; không bí mật làm chủ cả tòa nhà. Khoản vay có hồ sơ từ đầu.
+HÌNH CHỦ ĐẠO: Thẻ chỗ ngồi và hai báo cáo số dư.
+TỪ KHÓA BIÊN TẬP: LES DEUX BILANS
+
+========================================================================
+L4-CD18 — La carte de la résidence
+NGUỒN / ƯU TIÊN: G quyền tự quyết + V10; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Odette Martin, 74, cựu chủ cửa hàng vải ở La Rochelle; con gái Lucie sợ gánh chăm mẹ và cần nhà để kinh doanh.
+HOOK NHÁP (FR): Ma fille avait réservé une résidence pour moi. Elle disait que les démarches étaient déjà terminées.
+KHUNG 5 NHỊP: 1 nhân viên gửi thư chào đón → 2 con nói mẹ không phải quyết nữa → 3 mẹ chỉ xin tư vấn hỗ trợ tại nhà → 4 tự gọi bên nhận hồ sơ → 5 biểu mẫu đánh dấu bà đã đồng ý.
+L1 — CÂU DỪNG THẺ (FR): La case « accord de la personne » était cochée. Personne ne m'avait posé la question...
+L2 — COMMENT MỞ TIẾP: Ai đánh dấu đồng ý và có đang dùng hồ sơ đó để xin giao nhà không?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Lucie biến cuộc tư vấn thành phương án chuyển chỗ ở vì lo tài chính. Odette yêu cầu sửa hồ sơ, đánh giá các lựa chọn hỗ trợ và quyết định nơi ở có thông tin đầy đủ; con phải nói thật nhu cầu của mình.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không coi nhà dưỡng lão là trừng phạt; không chứng minh mất năng lực bằng tuổi, lãng tai hay run tay.
+HÌNH CHỦ ĐẠO: Thư chào đón và bảng lựa chọn dịch vụ.
+TỪ KHÓA BIÊN TẬP: MON ACCORD
+
+========================================================================
+L4-CD19 — Le tableau de l'exposition
+NGUỒN / ƯU TIÊN: C01 + C09 + G nghệ thuật; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Sophie Garnier, 45, nhà phục chế ở Rouen; chồng Marc bán hàng nghệ thuật muốn dùng tranh của vợ như tài sản mình.
+HOOK NHÁP (FR): Mon mari avait prêté mon tableau à une exposition. Le catalogue annonçait un autre propriétaire.
+KHUNG 5 NHỊP: 1 người quen gửi ảnh catalogue → 2 chồng bảo tên trên giấy không quan trọng → 3 tranh từ mẹ, vợ trả phục chế → 4 xin chứng từ ký gửi từ phòng tranh → 5 cùng tác phẩm có hai mã hồ sơ.
+L1 — CÂU DỪNG THẺ (FR): La galerie m'a transmis le dépôt. Une seconde fiche indiquait déjà une promesse de vente...
+L2 — COMMENT MỞ TIẾP: Ai cho phép đổi từ trưng bày sang bán, số tiền ứng được chuyển đâu?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Marc mở đàm phán bán và giấu vợ, phòng tranh tin giấy anh cung cấp. Sophie chứng minh nguồn gốc và phạm vi đồng ý, yêu cầu dừng xử lý đến khi xác minh; tranh và tiền được giải quyết bằng thỏa thuận/hồ sơ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không mặc định chi phí phục chế chứng minh sở hữu; nguồn tranh có giấy tờ. Không bức tranh bí mật trị giá hàng chục triệu.
+HÌNH CHỦ ĐẠO: Catalogue có tên lạ và ảnh tranh trong nhà mẹ.
+TỪ KHÓA BIÊN TẬP: LE CATALOGUE
+
+========================================================================
+L4-CD20 — Le cahier des dimanches
+NGUỒN / ƯU TIÊN: C03 + E02; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Jeanne Masson, 55, đầu bếp trường học ở Pau; em Bernard xa nhà tin rằng tiền mình gửi là đóng góp duy nhất.
+HOOK NHÁP (FR): Ma famille disait que je n'avais rien fait pour maman. Elle avait noté chaque dimanche dans un cahier.
+KHUNG 5 NHỊP: 1 họp về đồ của mẹ → 2 anh nói chị chỉ tiện đường ghé → 3 chị đã đổi ca nhiều năm → 4 cháu tìm sổ sinh hoạt → 5 sổ có khoản mẹ trả cho người “đến thay chị”.
+L1 — CÂU DỪNG THẺ (FR): À côté des dimanches où j'étais là, maman avait noté le nom d'une autre personne rémunérée...
+L2 — COMMENT MỞ TIẾP: Người nhận tiền có thực sự tới hay chỉ ghi danh, và vì sao mẹ không dám nói?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Một người họ hàng nhận tiền điều phối nhưng không đến; Bernard cũng bị cung cấp thông tin sai. Hai anh em đối soát, công nhận tiền và công chăm là hai việc khác nhau, giải quyết đồ mẹ theo quyền thực chứ không ai chăm nhiều tự động hưởng hết.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không “bà để toàn bộ gia sản cho người tốt”; sổ mẹ là đầu mối phải xác minh, không là bản án.
+HÌNH CHỦ ĐẠO: Sổ có lịch Chủ nhật và tạp dề cũ.
+TỪ KHÓA BIÊN TẬP: LES DIMANCHES

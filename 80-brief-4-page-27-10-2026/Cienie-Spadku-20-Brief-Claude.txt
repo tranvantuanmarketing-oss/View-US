@@ -1,0 +1,430 @@
+CIENIE SPADKU — 20 BRIEF MỚI / 27-10-2026
+Thị trường: Ba Lan | Ngôn ngữ xuất bản: pl
+Định vị: Những khoản và quyền bị giấu quanh di sản: tiền thuê, đồ mượn, nợ, bảo hiểm, người bị bỏ khỏi liên hệ. Ưu tiên căn hộ, xưởng nhỏ và lao động xa; không lặp mọi truyện đòi lại biệt thự.
+Bản địa hóa: PL tự nhiên, ngôi kể đúng giới; „…”, zł/złotych, notariusz, umowa, ROD, NFZ khi phù hợp. Không bê usufruit/viager hoặc luật Anh sang Ba Lan.
+
+ĐÂY LÀ BRIEF GIAO CLAUDE, CHƯA PHẢI FILE IMPORT VIDEO.
+Các câu chuyện là hư cấu. Hook và câu dừng đã có bản nháp bản địa; khung, động cơ và kết viết bằng tiếng Việt để bạn kiểm soát. Không gắn “chuyện có thật”, không hứa viral. Chưa thu thập bảng lượt xem hiện tại cho page này. Ưu tiên dưới đây là lựa chọn biên tập để thử nghiệm.
+
+PROMPT DÙNG NGAY:
+Bạn là người viết drama bản địa Ba Lan, viết cho page Cienie Spadku. Đọc cả lô để tránh lặp. Bắt đầu 5 ID: CS-01, CS-03, CS-06, CS-14, CS-15; sau đó viết các ID còn lại theo yêu cầu. Giữ tên page và Locale: pl. Mỗi ID là một truyện độc lập. Dùng đúng người kể, nguồn chứng cứ, sự thật và kết đã khóa, không đổi sang tỷ phú bí mật/giấy sở hữu xuất hiện từ hư không.
+
+Mỗi ID xuất thành một gói gồm:
+1. Bible tiếng Việt ngắn: nhân vật, quan hệ, quyền đối với tài sản, timeline, nguồn chứng cứ và kết thật. Chốt tên đầy đủ cho nhân vật phụ trước khi viết.
+2. Ba cách mở hook bằng ngôn ngữ xuất bản, chọn một. Thẻ Reel ngôi thứ nhất, đúng 5 dòng, mỗi dòng 14–20 từ: sự việc → yêu sách/lời nói cụ thể → cái giá người kể đã trả → hành động kiểm chứng → câu dừng L1. L1 dưới đây là nháp, được sửa cho vừa dòng nhưng không đổi vật chứng hoặc hứa cú lật không có trong kết. Dòng cuối kết bằng ...
+3. Highlights: ba cụm xuất hiện nguyên văn trên thẻ, mỗi cụm ngắn, không tô gần hết thẻ. CTA: “Czytaj dalej w komentarzach” nếu phần tiếp thực sự có trong bình luận.
+4. Caption dưới 150 ký tự tính cả hashtag: #cieniespadku + một hashtag chủ đề + #fikcja. Không ép bình luận từ khóa để nhận phần tiếp.
+5. Comment 1 mở “CZĘŚĆ 2:”, 380–500 từ, 10–14 đoạn ngắn. Trả lời câu hỏi L1, phát triển bằng chứng và phản ứng có động cơ, dừng ở L2 cụ thể. Không bịa thêm bí mật để kéo dài.
+6. Kết L3 hoàn chỉnh 180–250 từ bằng ngôn ngữ xuất bản, khớp kết đã khóa: sự thật, trách nhiệm, tiền/quyền đi đâu, hậu quả sau vài tuần/tháng. Đây là bản nội bộ chuẩn bị phần tiếp/web, không tự coi đã đăng.
+7. Một prompt hình 9:16 từ cảnh brief: người đang làm gì, vật chứng, ánh sáng, bối cảnh bản địa; không lộ kết, không dữ liệu cá nhân hay logo ngân hàng thật. Với trẻ em, ưu tiên không thấy mặt.
+8. Tự kiểm tiếng Việt: tính nhất quán, ngôi kể/giới, nguồn chứng cứ hợp pháp, số tiền, timeline và giọng bản địa. Không tuyên bố được người bản ngữ duyệt nếu chưa có.
+
+CHỐT BIÊN TẬP:
+- Giữ câu chuyện gần đời sống. Một chi tiết sống có giá trị hơn năm tên điều luật. Không mở 20 câu bằng cùng một cấu trúc.
+- Mỗi truyện có một phản ứng hoặc câu nói trực tiếp phù hợp tính cách, không phải 20 lời sỉ nhục cùng công thức. Có thể người kể giận, hỏi lại hoặc đi kiểm tra; không bắt ai cũng im lặng rồi cười.
+- Không tự nhận quyền truy cập tài khoản/email/hồ sơ bệnh của người khác. Chỉ dùng vật chứng theo nguồn brief; muốn thêm phải giải thích được ai cung cấp và vì sao.
+- Hệ quả pháp lý cần thủ tục và thời gian. Không cảnh sát trả nhà ngay, ngân hàng khóa hết tiền theo yêu cầu người kể, mất quyền thừa kế vì một bữa ăn, hoặc luật sư đến cứu mọi truyện.
+- Điểm cần tra bổ sung trong từng brief là việc người viết phải kiểm chứng trước khi biến thành phát biểu cụ thể; nếu không xác minh được, bỏ chi tiết pháp lý và giữ kết bằng thỏa thuận minh bạch đã nêu.
+- Giữ {WEB_URL} đến khi có URL bài thật; không dẫn trang chủ như thể có sẵn kết. Gói này không đăng, không gửi Claude và không nhập tool tự động.
+- Nguồn mã UK/FR/PL xem BAO-CAO-NGHIEN-CUU.md. Nguồn xác nhận bối cảnh/quy tắc, không chứng minh truyện hư cấu này đã xảy ra hay đạt view cao.
+
+
+==========================================================================
+CS-01 — Czynsz po dziadku
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: PL-01
+NHÂN VẬT & ĐỘNG CƠ: Ewa Borkowska, 52, księgowa szkolna, Łódź; anh Andrzej, 56.
+HOOK BẢN ĐỊA NHÁP: Brat twierdził, że mieszkanie dziadka stoi puste. Lokatorka nadal płaciła mu co miesiąc.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Ewa trả nửa chi chung, anh giấu thu nhập cho thuê trong giai đoạn di sản chưa chia.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Ewa Borkowska, 52, księgowa szkolna, Łódź; anh Andrzej, 56.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Người thuê chủ động gửi biên nhận khi hỏi ai sửa đường nước.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Lokatorka przesłała mi potwierdzenia przelewów. Tych wpłat nie było w rozliczeniu przedstawionym przez brata...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Người thuê chủ động gửi biên nhận khi hỏi ai sửa đường nước.
+L1 — CÂU DỪNG THẺ: Lokatorka przesłała mi potwierdzenia przelewów. Tych wpłat nie było w rozliczeniu przedstawionym przez brata...
+SỰ THẬT PHẢI GIỮ: Andrzej thu tiền riêng, gọi đó là công quản lý dù không có thỏa thuận như vậy.
+L2 — HƯỚNG DỪNG COMMENT: Anh giải thích tiền thuê chênh thế nào, và khoản nào là chi phí quản lý thực sự được đồng ý?
+L3 — KẾT THẬT ĐÃ KHÓA: Đối soát thu chi, tính vào thanh toán giữa các bên theo tư vấn; người thuê tiếp tục nghĩa vụ đúng và không bị phạt thay.
+RÀNG BUỘC LOGIC / QUỐC GIA: PL-01; xác định ai có quyền quản lý, không tự đuổi người thuê hoặc thu tiền hai lần.
+HÌNH CHỦ ĐẠO 9:16: Biên lai czynsz cạnh bảng căn hộ trống.
+
+==========================================================================
+CS-02 — Rachunek za stypę
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Halina Wolska, 64, emerytowana krawcowa, Lublin; anh họ Roman, 60.
+HOOK BẢN ĐỊA NHÁP: Kuzyn kazał nam zwrócić pieniądze za stypę. Restauracja wystawiła rachunek na znacznie niższą kwotę.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Roman tự nhận lo mọi thứ rồi yêu cầu mỗi gia đình chia một khoản cao.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Halina Wolska, 64, emerytowana krawcowa, Lublin; anh họ Roman, 60.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hóa đơn nhà hàng do Roman ủy quyền gửi cho nhóm tổ chức và chi tiết số khách.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Na rachunku znalazła się dodatkowa pozycja. Nie dotyczyła naszego spotkania po pogrzebie...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hóa đơn nhà hàng do Roman ủy quyền gửi cho nhóm tổ chức và chi tiết số khách.
+L1 — CÂU DỪNG THẺ: Na rachunku znalazła się dodatkowa pozycja. Nie dotyczyła naszego spotkania po pogrzebie...
+SỰ THẬT PHẢI GIỮ: Anh cộng nợ bữa tiệc riêng cũ vào hóa đơn tang gia, không phải nhà hàng gian.
+L2 — HƯỚNG DỪNG COMMENT: Roman đã gộp khoản nợ nào, và gia đình có thể sửa tiền mà vẫn giữ buổi tưởng niệm bình yên?
+L3 — KẾT THẬT ĐÃ KHÓA: Tách chi phí đúng, người nhà trả phần đã thỏa thuận; Roman tự gánh nợ cũ, quan hệ lạnh đi nhưng không phá lễ tưởng nhớ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không tự đặt mọi khoản stypa thành nợ di sản; phân biệt chi phí phù hợp và tự nguyện.
+HÌNH CHỦ ĐẠO 9:16: Bàn sau stypa, hai tổng tiền trên giấy.
+
+==========================================================================
+CS-03 — Babcia nie była reklamą
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Alicja Maj, 39, fizjoterapeutka, Gdynia; chị Dorota, 43.
+HOOK BẢN ĐỊA NHÁP: Siostra zbierała pieniądze na opiekę nad babcią. Babcia nie wiedziała, że jej zdjęcie trafiło do internetu.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Gia đình chê Alicja không góp, trong khi cô trả trực tiếp một phần chăm sóc.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Alicja Maj, 39, fizjoterapeutka, Gdynia; chị Dorota, 43.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hóa đơn thật, bản mô tả quỹ và bà đồng ý xem cùng.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Babcia przeczytała opis zbiórki. Przy jednej z podanych usług zapytała, kto właściwie z niej korzystał...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hóa đơn thật, bản mô tả quỹ và bà đồng ý xem cùng.
+L1 — CÂU DỪNG THẺ: Babcia przeczytała opis zbiórki. Przy jednej z podanych usług zapytała, kto właściwie z niej korzystał...
+SỰ THẬT PHẢI GIỮ: Dorota dùng một phần cho chi sinh hoạt riêng nhưng gọi hết là phục hồi chức năng.
+L2 — HƯỚNG DỪNG COMMENT: Bà muốn dừng quỹ hay sửa nội dung, ai sẽ đối chiếu phần chi cho chăm sóc thật?
+L3 — KẾT THẬT ĐÃ KHÓA: Bà yêu cầu ngừng dùng hình, nền tảng rà soát; ghi rõ chi hợp lệ và hoàn khoản không phù hợp theo quy trình.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không nói NFZ không chi trả gì; không hứa lấy lại hết tiền quỹ.
+HÌNH CHỦ ĐẠO 9:16: Ảnh bà úp xuống bên điện thoại và khung tập chân.
+
+==========================================================================
+CS-04 — Dwa komplety kluczy
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Paweł Kubiak, 45, ślusarz, Radom; anh Krzysztof, 48.
+HOOK BẢN ĐỊA NHÁP: Po śmierci taty brat chciał zabrać wszystkie klucze. Jeden komplet należał do warsztatu, który tylko wynajmowaliśmy.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Anh tính cả tòa xưởng vào di sản, định dẫn người mua đến.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Paweł Kubiak, 45, ślusarz, Radom; anh Krzysztof, 48.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hợp đồng thuê và inventory tài sản máy móc.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: W umowie znalazłem nazwisko właściciela budynku. Nie było to nazwisko mojego ojca...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hợp đồng thuê và inventory tài sản máy móc.
+L1 — CÂU DỪNG THẺ: W umowie znalazłem nazwisko właściciela budynku. Nie było to nazwisko mojego ojca...
+SỰ THẬT PHẢI GIỮ: Cha chỉ sở hữu thiết bị, mặt bằng thuộc người khác; giá anh rao không có căn cứ.
+L2 — HƯỚNG DỪNG COMMENT: Những máy nào của cha, mặt bằng thuộc ai, có phương án nào giữ việc mà không bịa quyền sở hữu?
+L3 — KẾT THẬT ĐÃ KHÓA: Rà soát máy và nợ thuê, thương lượng với chủ thật để tiếp tục kinh doanh hoặc thanh lý đúng; Paweł không được bỗng tặng xưởng.
+RÀNG BUỘC LOGIC / QUỐC GIA: Tách sở hữu đất, thuê mặt bằng và tài sản doanh nghiệp.
+HÌNH CHỦ ĐẠO 9:16: Hai móc chìa khóa, biển xưởng cũ.
+
+==========================================================================
+CS-05 — Darowizna z drugiego konta
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: PL-03
+NHÂN VẬT & ĐỘNG CƠ: Kinga Mazurek, 34, analityczka, Warszawa; chồng Michał, 36.
+HOOK BẢN ĐỊA NHÁP: Mąż mówił, że rodzice podarowali nam pieniądze. Dokument wskazywał tylko jego nazwisko.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Kinga góp vốn mua nhà vì tin khoản cha mẹ chồng tặng là cho chung, bị coi không có đóng góp.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Kinga Mazurek, 34, analityczka, Warszawa; chồng Michał, 36.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Umowa darowizny và dự thảo mua được notariusz giải thích trước ký.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Notariusz zapytał, komu dokładnie rodzice męża przekazali pieniądze. Dopiero wtedy zobaczyłam dokument darowizny...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Umowa darowizny và dự thảo mua được notariusz giải thích trước ký.
+L1 — CÂU DỪNG THẺ: Notariusz zapytał, komu dokładnie rodzice męża przekazali pieniądze. Dopiero wtedy zobaczyłam dokument darowizny...
+SỰ THẬT PHẢI GIỮ: Tiền cho riêng chồng không biến phần Kinga góp thành quà, nhưng quyền sở hữu phải ghi đúng; không có kẻ tự sửa sổ.
+L2 — HƯỚNG DỪNG COMMENT: Kinga có chấp nhận cơ cấu quyền ghi trong dự thảo không, chồng có chịu nói rõ tiền cho ai?
+L3 — KẾT THẬT ĐÃ KHÓA: Kinga hoãn ký, yêu cầu cơ cấu vốn và quyền rõ; hai người chỉ mua khi đồng thuận có tư vấn.
+RÀNG BUỘC LOGIC / QUỐC GIA: PL-03; không nói mọi tiền cha mẹ cho luôn tài sản chung hoặc mọi khoản góp tự là sở hữu.
+HÌNH CHỦ ĐẠO 9:16: Draft nhà mới với hai dòng vốn góp.
+
+==========================================================================
+CS-06 — Głos w rodzinnej grupie
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: PL-04
+NHÂN VẬT & ĐỘNG CƠ: Joanna Kaleta, 48, nauczycielka, Toruń; chú Stefan, 67, cũng bị lừa.
+HOOK BẢN ĐỊA NHÁP: Wujek wysłał nagranie z głosem mamy i poprosił o pilny przelew. Mama siedziała obok mnie.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Nhóm gia đình hoảng, Stefan thúc chuyển tiền vì tưởng mẹ cháu gặp nạn.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Joanna Kaleta, 48, nauczycielka, Toruń; chú Stefan, 67, cũng bị lừa.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Gọi xác minh trực tiếp và lưu tin nhắn gốc, không tái dựng kỹ thuật làm giả giọng.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Mama usłyszała nagranie razem ze mną. Sama nigdy nie wysłała takiej wiadomości...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Gọi xác minh trực tiếp và lưu tin nhắn gốc, không tái dựng kỹ thuật làm giả giọng.
+L1 — CÂU DỪNG THẺ: Mama usłyszała nagranie razem ze mną. Sama nigdy nie wysłała takiej wiadomości...
+SỰ THẬT PHẢI GIỮ: Chú không chủ mưu; tài khoản người quen bị chiếm quyền và giọng nghe giống không đủ xác nhận danh tính.
+L2 — HƯỚNG DỪNG COMMENT: Stefan có chịu dừng thúc cả nhà chuyển tiền và cùng xác minh tài khoản bị dùng trái phép?
+L3 — KẾT THẬT ĐÃ KHÓA: Dừng chuyển, báo ngân hàng nếu đã gửi, lưu chứng cứ, giúp chú lấy lại tài khoản; không hứa thu hồi toàn bộ.
+RÀNG BUỘC LOGIC / QUỐC GIA: PL-04 chất liệu cảnh báo senior scams; không hướng dẫn clone giọng hoặc khẳng định điều tra đã kết án.
+HÌNH CHỦ ĐẠO 9:16: Mẹ uống trà cạnh tin nhắn thoại khẩn.
+
+==========================================================================
+CS-07 — Ogródek poza spadkiem
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: PL-06
+NHÂN VẬT & ĐỘNG CƠ: Bożena Sikorska, 61, bibliotekarka, Poznań; anh Jerzy, 65.
+HOOK BẢN ĐỊA NHÁP: Brat wpisał działkę ROD do spadku jak zwykły grunt. Tata nigdy nie był właścicielem tej ziemi.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Anh rao phần đất như đất xây dựng, bảo em chỉ nên nhận đồ trong altana.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Bożena Sikorska, 61, bibliotekarka, Poznań; anh Jerzy, 65.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Hồ sơ quyền sử dụng và xác minh với quản lý khu ROD.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Zarząd ROD poprosił o dokumenty dotyczące prawa do działki. Brat przyniósł jedynie własną wycenę gruntu...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Hồ sơ quyền sử dụng và xác minh với quản lý khu ROD.
+L1 — CÂU DỪNG THẺ: Zarząd ROD poprosił o dokumenty dotyczące prawa do działki. Brat przyniósł jedynie własną wycenę gruntu...
+SỰ THẬT PHẢI GIỮ: Quyền và thủ tục liên quan không giống sở hữu đất thông thường; không có miếng đất bỗng tăng giá triệu.
+L2 — HƯỚNG DỪNG COMMENT: Ai có thể tiếp tục quyền với działka theo hoàn cảnh gia đình, và đồ trong altana được xử lý riêng thế nào?
+L3 — KẾT THẬT ĐÃ KHÓA: Gia đình dừng rao sai, xác minh người có thể tiếp tục quyền theo luật và thời hạn; tính riêng đồ thuộc di sản khi phù hợp.
+RÀNG BUỘC LOGIC / QUỐC GIA: Bắt buộc Claude tra quy định ROD hiện hành trước viết; không đơn giản hóa quyền tiếp tục thành thừa kế tự động.
+HÌNH CHỦ ĐẠO 9:16: Cổng ROD, bình tưới bên tập giấy quyền sử dụng.
+
+==========================================================================
+CS-08 — Pies nie dostał mieszkania
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Marta Zielińska, 31, techniczka weterynarii, Wrocław; dì Iwona, 58.
+HOOK BẢN ĐỊA NHÁP: Ciotka rozpowiadała, że babcia zapisała mieszkanie psu. W dokumentach chodziło o opiekę nad nim.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Iwona dùng tin đồn để gọi bà mất minh mẫn và ép cháu từ bỏ chăm chó.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Marta Zielińska, 31, techniczka weterynarii, Wrocław; dì Iwona, 58.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Văn bản sắp xếp chăm sóc được người có thẩm quyền giải thích, tách khỏi di chúc.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: W dokumentach była mowa o opiece nad psem. Nigdzie nie zapisano, że pies ma zostać właścicielem mieszkania...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Văn bản sắp xếp chăm sóc được người có thẩm quyền giải thích, tách khỏi di chúc.
+L1 — CÂU DỪNG THẺ: W dokumentach była mowa o opiece nad psem. Nigdzie nie zapisano, że pies ma zostać właścicielem mieszkania...
+SỰ THẬT PHẢI GIỮ: Bà muốn có người lo chó và dự trù chi phí, không để vật nuôi đứng tên nhà.
+L2 — HƯỚNG DỪNG COMMENT: Dì có chịu sửa tin đồn, và kế hoạch chăm chó nào thực sự phù hợp khả năng người nhận?
+L3 — KẾT THẬT ĐÃ KHÓA: Marta chọn phương án chăm sóc khả thi, hồ sơ tài sản xử lý riêng; dì cải chính với gia đình, không mất phần hợp pháp chỉ vì nói xấu.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không để chó là người thừa kế; hình thức nghĩa vụ và khoản hỗ trợ cần kiểm tra.
+HÌNH CHỦ ĐẠO 9:16: Dây dắt xanh trên tập hồ sơ.
+
+==========================================================================
+CS-09 — Koszt opieki dwa razy
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Teresa Cieślak, 57, pielęgniarka, Kielce; anh Jan, 60.
+HOOK BẢN ĐỊA NHÁP: Brat żądał ode mnie połowy kosztów opieki nad ojcem. Te same faktury opłacał już tata.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Teresa sống xa nên tin anh quản chi, bị bảo gửi ít tiền.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Teresa Cieślak, 57, pielęgniarka, Kielce; anh Jan, 60.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Cha còn minh mẫn cho xem hóa đơn cùng khoản trích từ tài khoản mình.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Tata rozpoznał numer faktury. Z jego konta zeszła już dokładnie taka sama kwota...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Cha còn minh mẫn cho xem hóa đơn cùng khoản trích từ tài khoản mình.
+L1 — CÂU DỪNG THẺ: Tata rozpoznał numer faktury. Z jego konta zeszła już dokładnie taka sama kwota...
+SỰ THẬT PHẢI GIỮ: Jan cộng vài khoản hai lần để bù thời gian riêng, chưa được cha hoặc em đồng ý.
+L2 — HƯỚNG DỪNG COMMENT: Jan đã kê trùng vì gì, và cha muốn cách chăm sóc nào không để hai con kiểm soát thay mình?
+L3 — KẾT THẬT ĐÃ KHÓA: Cha chọn cách thuê chăm sóc rõ ràng, anh hoàn phần trùng và cả nhà chia lịch hỗ trợ; không phủ nhận gánh nặng chăm sóc thật.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không quyền kiểm soát tài khoản chỉ vì là con; truy cập phải được phép.
+HÌNH CHỦ ĐẠO 9:16: Hai dấu thanh toán, lịch ca thăm bố.
+
+==========================================================================
+CS-10 — Testament bez obietnic
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Dorota Lisowska, 44, farmaceutka, Białystok; chị Renata, 49.
+HOOK BẢN ĐỊA NHÁP: Siostra chciała, żebym podpisała zgodę na podział, zanim poznam wartość mieszkania po mamie.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Chị dọa nếu không ký ngay sẽ mất phần; định giá chỉ do bạn chị làm.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Dorota Lisowska, 44, farmaceutka, Białystok; chị Renata, 49.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Bản dự thảo và báo giá độc lập trước quyết định.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Poprosiłam o niezależną wycenę. Siostra nagle przestała mówić, że musimy podpisać wszystko tego wieczoru...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Bản dự thảo và báo giá độc lập trước quyết định.
+L1 — CÂU DỪNG THẺ: Poprosiłam o niezależną wycenę. Siostra nagle przestała mówić, że musimy podpisać wszystko tego wieczoru...
+SỰ THẬT PHẢI GIỮ: Renata đã có người mua lại giá cao hơn; không văn bản nào tự hết hạn trong một tối như chị nói.
+L2 — HƯỚNG DỪNG COMMENT: Renata đã thương lượng với người mua nào, vì sao cô ép em ký trước khi có giá độc lập?
+L3 — KẾT THẬT ĐÃ KHÓA: Dorota xin tư vấn và định giá minh bạch, thương lượng chia hoặc bán hợp lệ; chị vẫn giữ phần hợp pháp, mất cơ hội chênh lệch kín.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không đánh đồng dział spadku với odrzucenie spadku; không đưa thời hạn pháp lý giả.
+HÌNH CHỦ ĐẠO 9:16: Bút chưa chạm giấy, bản định giá thứ hai.
+
+==========================================================================
+CS-11 — Zdjęcia nie miały ceny
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Magdalena Górska, 50, kierowczyni tramwaju, Szczecin; chị họ Anna, 53.
+HOOK BẢN ĐỊA NHÁP: Kuzynka oddałaby mi zdjęcia mamy tylko wtedy, gdy zrezygnuję z rodzinnej biżuterii.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Ảnh mẹ thời trẻ ở nhà dì quá cố bị dùng đổi lấy phần nữ trang.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Magdalena Górska, 50, kierowczyni tramwaju, Szczecin; chị họ Anna, 53.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Danh sách đồ và tin nhắn đề nghị đổi của Anna.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Kuzynka napisała swój warunek w wiadomości. Album miał wrócić dopiero po mojej zgodzie na podział biżuterii...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Danh sách đồ và tin nhắn đề nghị đổi của Anna.
+L1 — CÂU DỪNG THẺ: Kuzynka napisała swój warunek w wiadomości. Album miał wrócić dopiero po mojej zgodzie na podział biżuterii...
+SỰ THẬT PHẢI GIỮ: Anna muốn chiếc nhẫn cụ thể của mẹ mình nhưng không dám đề nghị minh bạch, nên ép đổi cả phần.
+L2 — HƯỚNG DỪNG COMMENT: Anna muốn riêng chiếc nhẫn hay cả phần nữ trang, có thể thỏa thuận bù giá trị mà không giữ ảnh làm con tin không?
+L3 — KẾT THẬT ĐÃ KHÓA: Mediation tách scan ảnh khỏi chia vật có giá trị, nhẫn được định giá và bù chênh theo đồng thuận; Magdalena giữ bản ảnh mẹ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không coi bản scan chuyển quyền sở hữu đồ gốc; không biến ảnh thành mã két tiền.
+HÌNH CHỦ ĐẠO 9:16: Album có túi trống, máy scan sáng.
+
+==========================================================================
+CS-12 — Polisa z dawnym nazwiskiem
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: PL-01
+NHÂN VẬT & ĐỘNG CƠ: Elżbieta Baran, 63, emerytowana urzędniczka, Opole; anh Adam, 66.
+HOOK BẢN ĐỊA NHÁP: Brat uznał polisę taty za część wspólnego spadku. Ubezpieczyciel poprosił o sprawdzenie osoby uprawnionej.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Anh ép chia ngay tiền bảo hiểm, chưa ai đọc điều khoản.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Elżbieta Baran, 63, emerytowana urzędniczka, Opole; anh Adam, 66.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Thông tin insurer cung cấp đúng người có quyền và hồ sơ beneficiary.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Ubezpieczyciel nie pytał o zgodę całej rodziny. Najpierw musiał ustalić, kto został wskazany do wypłaty...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Thông tin insurer cung cấp đúng người có quyền và hồ sơ beneficiary.
+L1 — CÂU DỪNG THẺ: Ubezpieczyciel nie pytał o zgodę całej rodziny. Najpierw musiał ustalić, kto został wskazany do wypłaty...
+SỰ THẬT PHẢI GIỮ: Khoản chi và người được nhận phụ thuộc hợp đồng, không cứ họ hàng là tự chia; tên cũ do đổi họ cần xác minh danh tính.
+L2 — HƯỚNG DỪNG COMMENT: Ai được chỉ định nhận khoản bảo hiểm theo hợp đồng, việc đổi họ có cần bổ sung giấy tờ gì?
+L3 — KẾT THẬT ĐÃ KHÓA: Insurer xác minh rồi trả đúng người theo điều kiện; quan hệ gia đình thảo luận riêng, không ép người nhận chuyển toàn tiền.
+RÀNG BUỘC LOGIC / QUỐC GIA: PL-01; không nói mọi sản phẩm bảo hiểm luôn ngoài di sản hay vô hiệu vì họ cũ.
+HÌNH CHỦ ĐẠO 9:16: Phong bì insurer, giấy đổi họ úp phần dữ liệu.
+
+==========================================================================
+CS-13 — Dług schowany pod wyceną
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: PL-01
+NHÂN VẬT & ĐỘNG CƠ: Tomasz Urban, 38, elektryk, Rzeszów; chú Wiesław, 62.
+HOOK BẢN ĐỊA NHÁP: Wujek mówił, że odziedziczę pół miliona. Pokazał cenę domu, ale nie pokazał długów.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Tomasz bị ép ứng tiền tổ chức tang và sửa nhà vì sắp giàu.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Tomasz Urban, 38, elektryk, Rzeszów; chú Wiesław, 62.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Danh sách tài sản và nghĩa vụ được rà soát qua thủ tục phù hợp.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Wycena domu była na pierwszej stronie. Dopiero kolejne strony pokazywały zobowiązania, o których wujek milczał...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Danh sách tài sản và nghĩa vụ được rà soát qua thủ tục phù hợp.
+L1 — CÂU DỪNG THẺ: Wycena domu była na pierwszej stronie. Dopiero kolejne strony pokazywały zobowiązania, o których wujek milczał...
+SỰ THẬT PHẢI GIỮ: Giá rao không phải tài sản ròng; nợ và sửa chữa làm giá trị thực thấp đáng kể.
+L2 — HƯỚNG DỪNG COMMENT: Tài sản ròng và giới hạn trách nhiệm thật là gì, vì sao không nên trả vội một khoản trước khi hiểu toàn hồ sơ?
+L3 — KẾT THẬT ĐÃ KHÓA: Tomasz không trả bừa một chủ nợ, xin tư vấn về kiểm kê và phương án nhận di sản; kết là quản lý rủi ro, không kho vàng.
+RÀNG BUỘC LOGIC / QUỐC GIA: PL-01; dobrodziejstwo inwentarza có giới hạn và nghĩa vụ, không mặc định nợ biến mất hoặc chỉ trả bằng tài sản thừa kế.
+HÌNH CHỦ ĐẠO 9:16: Brochure giá nhà phủ một tập nợ.
+
+==========================================================================
+CS-14 — Walizka na pokazie
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: PL-05
+NHÂN VẬT & ĐỘNG CƠ: Krystyna Leśna, 70, była sprzedawczyni, Częstochowa; con Marek, 42.
+HOOK BẢN ĐỊA NHÁP: Syn wyśmiał mój zakup na pokazie. To on zapisał mnie na spotkanie i odebrał prowizję.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Bà mua thiết bị đắt vì nghĩ con kiểm tra; sau đó con gọi bà nhẹ dạ để xin giữ thẻ ngân hàng.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Krystyna Leśna, 70, była sprzedawczyni, Częstochowa; con Marek, 42.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Giấy mời, hợp đồng và tin nhắn giới thiệu con tự gửi.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: W wiadomości od syna znalazłam informację o prowizji. Nie uprzedził mnie o niej przed pokazem...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Giấy mời, hợp đồng và tin nhắn giới thiệu con tự gửi.
+L1 — CÂU DỪNG THẺ: W wiadomości od syna znalazłam informację o prowizji. Nie uprzedził mnie o niej przed pokazem...
+SỰ THẬT PHẢI GIỮ: Marek được lợi từ giới thiệu nhưng chưa hiểu rủi ro; vừa giấu hoa hồng vừa đổ lỗi mẹ.
+L2 — HƯỚNG DỪNG COMMENT: Marek biết gì về hoa hồng, và bà còn những quyền người tiêu dùng nào trong hoàn cảnh mua cụ thể?
+L3 — KẾT THẬT ĐÃ KHÓA: Bà gặp tư vấn người tiêu dùng, kiểm tra quyền hủy/hoàn trong trường hợp cụ thể, tự giữ quyền tài chính với hỗ trợ tự nguyện.
+RÀNG BUỘC LOGIC / QUỐC GIA: PL-05; thời hạn phụ thuộc hoàn cảnh, không bảo mọi mua tại pokaz đều tự vô hiệu.
+HÌNH CHỦ ĐẠO 9:16: Vali thiết bị chưa dùng, giấy mời cạnh kính.
+
+==========================================================================
+CS-15 — Wesele z konta babci
+ƯU TIÊN: THỬ TRƯỚC — thuộc nhóm 5 chọn đầu
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Jadwiga Czerwińska, 73, emerytowana nauczycielka, Kraków; con gái Beata, 47.
+HOOK BẢN ĐỊA NHÁP: Wnuk dziękował rodzicom za wesele. Zaliczki wychodziły z mojego konta.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Bà cho một mức cố định, con tự nâng hứa hẹn rồi rút thêm nhờ quyền hỗ trợ chi tiêu.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Jadwiga Czerwińska, 73, emerytowana nauczycielka, Kraków; con gái Beata, 47.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Sao kê bà tự yêu cầu và tin nhắn chốt mức hỗ trợ ban đầu.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Na wyciągu zobaczyłam więcej zaliczek, niż uzgodniłam z córką. Jedną z nich wysłano już po mojej odmowie...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Sao kê bà tự yêu cầu và tin nhắn chốt mức hỗ trợ ban đầu.
+L1 — CÂU DỪNG THẺ: Na wyciągu zobaczyłam więcej zaliczek, niż uzgodniłam z córką. Jedną z nich wysłano już po mojej odmowie...
+SỰ THẬT PHẢI GIỮ: Beata chuyển vượt mức bà cho phép, nói cháu tưởng bà tự muốn góp hết.
+L2 — HƯỚNG DỪNG COMMENT: Beata có thừa nhận các khoản vượt mức mẹ cho phép, và ngân hàng hỗ trợ điều chỉnh quyền giao dịch thế nào?
+L3 — KẾT THẬT ĐÃ KHÓA: Bà xác minh với ngân hàng, thay đổi quyền hỗ trợ phù hợp, yêu cầu con hoàn phần vượt và nói thật; không phá tiệc cháu.
+RÀNG BUỘC LOGIC / QUỐC GIA: Ủy quyền không đồng nghĩa quyền tặng toàn tài khoản; không hứa ngân hàng hoàn mọi khoản đã cho phép.
+HÌNH CHỦ ĐẠO 9:16: Thiệp cưới bên bảng khoản ứng và kính bà.
+
+==========================================================================
+CS-16 — Warsztat po cichu
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Łukasz Bednarek, 40, mechanik, Łódź; anh Grzegorz, 46.
+HOOK BẢN ĐỊA NHÁP: Brat ogłosił sprzedaż maszyn po ojcu. Jedna z nich należała do klienta i czekała na naprawę.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Anh muốn thanh lý nhanh, gọi em chỉ là thợ khi em xin kiểm kê.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Łukasz Bednarek, 40, mechanik, Łódź; anh Grzegorz, 46.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Phiếu tiếp nhận máy khách và serial trong sổ sửa.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Na maszynie wciąż wisiała karta przyjęcia do naprawy. Było na niej nazwisko klienta, nie naszego ojca...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Phiếu tiếp nhận máy khách và serial trong sổ sửa.
+L1 — CÂU DỪNG THẺ: Na maszynie wciąż wisiała karta przyjęcia do naprawy. Było na niej nazwisko klienta, nie naszego ojca...
+SỰ THẬT PHẢI GIỮ: Không mọi thứ trong xưởng đều tài sản cha; thiếu kiểm kê khiến khách có nguy cơ mất máy.
+L2 — HƯỚNG DỪNG COMMENT: Máy đã được giao cho người mua chưa, bằng chứng nào giúp đưa đúng tài sản trở lại với khách?
+L3 — KẾT THẬT ĐÃ KHÓA: Tạm dừng lô chưa giao, thông báo đúng khách, trả tài sản hợp lệ rồi định giá đồ của di sản; em tiếp tục nghề nếu có phương án vốn.
+RÀNG BUỘC LOGIC / QUỐC GIA: Sở hữu dựa chứng từ không chỉ vị trí đồ; không tự lấy đồ từ người mua.
+HÌNH CHỦ ĐẠO 9:16: Máy có thẻ sửa chữa, sổ khách dính dầu.
+
+==========================================================================
+CS-17 — Siostra nie zniknęła
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Anna Rogala, 55, pracownica biblioteki, Gdańsk; anh Piotr, 59; em cùng cha Zofia, 42.
+HOOK BẢN ĐỊA NHÁP: Brat mówił, że nasza przyrodnia siostra nie chce spadku. To on odsyłał jej listy.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Gia đình định chia mà không liên hệ Zofia vì tin cô đã từ chối.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Anna Rogala, 55, pracownica biblioteki, Gdańsk; anh Piotr, 59; em cùng cha Zofia, 42.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Thư trả lại, địa chỉ liên hệ cô tự cung cấp khi tìm Anna.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Siostra sama przesłała mi swój adres. Brat od miesięcy twierdził, że nie ma z nią żadnego kontaktu...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Thư trả lại, địa chỉ liên hệ cô tự cung cấp khi tìm Anna.
+L1 — CÂU DỪNG THẺ: Siostra sama przesłała mi swój adres. Brat od miesięcy twierdził, że nie ma z nią żadnego kontaktu...
+SỰ THẬT PHẢI GIỮ: Piotr giấu liên hệ để nhanh chia, không có tuyên bố từ chối hợp lệ như nói.
+L2 — HƯỚNG DỪNG COMMENT: Zofia có thật đã từ chối bằng cách hợp lệ không, và việc bổ sung người được công nhận cần thực hiện qua ai?
+L3 — KẾT THẬT ĐÃ KHÓA: Thông báo bên xử lý di sản, xác minh quan hệ và tình trạng pháp lý; quá trình kéo dài, mọi bên được nghe và phần được xác định hợp lệ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không mọi anh chị em cùng cha đều có phần trong mọi di sản; khóa đây là con được pháp luật công nhận của người chết.
+HÌNH CHỦ ĐẠO 9:16: Phong bì returned, hai chị em ngồi bàn nhỏ.
+
+==========================================================================
+CS-18 — Mieszkanie po kuzynce
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: PL-01
+NHÂN VẬT & ĐỘNG CƠ: Renata Wójcik, 46, księgowa, Olsztyn; dì Wanda, 71.
+HOOK BẢN ĐỊA NHÁP: Ciotka kazała mi natychmiast podpisać odrzucenie spadku. Nie chciała powiedzieć, co dokładnie po kuzynce zostało.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Dì dùng nỗi sợ nợ để ép ký, người kể chưa biết mình được gọi hưởng theo căn cứ nào.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Renata Wójcik, 46, księgowa, Olsztyn; dì Wanda, 71.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Thông báo chính thức, hồ sơ xác định hàng thừa kế và danh mục tài sản nghĩa vụ.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Poprosiłam o pokazanie dokumentów przed podpisem. Ciotka zaczęła mówić o tym, kto zyska po mojej odmowie...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Thông báo chính thức, hồ sơ xác định hàng thừa kế và danh mục tài sản nghĩa vụ.
+L1 — CÂU DỪNG THẺ: Poprosiłam o pokazanie dokumentów przed podpisem. Ciotka zaczęła mówić o tym, kto zyska po mojej odmowie...
+SỰ THẬT PHẢI GIỮ: Dì muốn người kể rút để con dì có lợi theo chuỗi thừa kế, nhưng tác động phải xác định thật, không suy miệng.
+L2 — HƯỚNG DỪNG COMMENT: Gia phả và thứ tự gọi hưởng thật ra sao, quyết định của Renata tác động người tiếp theo như thế nào?
+L3 — KẾT THẬT ĐÃ KHÓA: Renata xin tư vấn độc lập và quyết định sau kiểm tra đầy đủ; quyền của trẻ hoặc người tiếp theo không bị bỏ qua.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không cung cấp sơ đồ chia giả; Claude khóa gia phả, thời hạn và căn cứ gọi hưởng trước khi mở rộng.
+HÌNH CHỦ ĐẠO 9:16: Tờ giấy chưa ký, cây gia phả phác trên giấy.
+
+==========================================================================
+CS-19 — Rachunek z zagranicy
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Beata Krawiec, 58, opiekunka, Bydgoszcz/Bremen; em Sylwia, 51.
+HOOK BẢN ĐỊA NHÁP: Rodzina mówiła, że nie pomagałam mamie, bo mieszkałam w Niemczech. Przelewy pokazywały inny obraz.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Beata gửi tiền chăm mẹ, em nhận rồi kể mẹ tự chi và chị bỏ mặc.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Beata Krawiec, 58, opiekunka, Bydgoszcz/Bremen; em Sylwia, 51.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Chứng từ chuyển và hóa đơn dịch vụ mẹ cho giữ, đối soát tiền dùng thật.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Porównałyśmy przelewy z rachunkami mamy. Część pieniędzy nie pojawiła się w wydatkach na jej opiekę...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Chứng từ chuyển và hóa đơn dịch vụ mẹ cho giữ, đối soát tiền dùng thật.
+L1 — CÂU DỪNG THẺ: Porównałyśmy przelewy z rachunkami mamy. Część pieniędzy nie pojawiła się w wydatkach na jej opiekę...
+SỰ THẬT PHẢI GIỮ: Sylwia thực sự chăm mỗi ngày nhưng dùng cả tiền chị cho khoản riêng mà không nói, vì cảm thấy công mình bị xem nhẹ.
+L2 — HƯỚNG DỪNG COMMENT: Sylwia có thể nói ra gánh nặng của mình mà vẫn đối soát phần tiền đã dùng sai mục đích?
+L3 — KẾT THẬT ĐÃ KHÓA: Hai chị em tách đóng góp, hoàn phần sai theo khả năng, mẹ còn sống tham gia chọn dịch vụ; không tính chăm sóc thành tự động thêm phần nhà.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không làm người đi lao động xa hoặc người chăm trực tiếp thành khuôn phản diện; tiền gửi không tự tạo quyền nhà.
+HÌNH CHỦ ĐẠO 9:16: Vali đi làm, lịch ca và receipt chuyển tiền.
+
+==========================================================================
+CS-20 — Zegarek z komisu
+ƯU TIÊN: Vòng thử tiếp — đảo xen giữa các nhóm
+NGUỒN / CƠ SỞ: Sáng tác biên tập từ định vị và đối chiếu lô cũ; không có claim xu hướng đo lường
+NHÂN VẬT & ĐỘNG CƠ: Michał Brzeziński, 36, zegarmistrz, Katowice; chú Janusz, 63.
+HOOK BẢN ĐỊA NHÁP: Wujek powiedział, że zegarek dziadka zaginął. W komisie zobaczyłem własnoręcznie naprawione zapięcie.
+KHUNG 5 NHỊP:
+1. Mở sự việc và áp lực: Michał chỉ muốn kỷ vật, chú nói ông không để lại gì đáng giữ.
+2. Cho nhân vật đối lập bộc lộ lý lẽ của họ; giữ đúng động cơ: Michał Brzeziński, 36, zegarmistrz, Katowice; chú Janusz, 63.
+3. Nêu cái người kể có thể mất và vì sao phải kiểm tra trước khi quyết định; giữ đúng mức tiền, quyền và quan hệ trong xung đột trên.
+4. Người kể kiểm tra bằng nguồn thật trong truyện: Ảnh sửa khóa do Michał lưu và phiếu ký gửi cửa hàng kiểm tra qua quy trình.
+5. Dừng ở bằng chứng mới, chưa kể hết hậu quả: Przez szybę rozpoznałem naprawione zapięcie. Pracownik komisu poprosił mnie jednak najpierw o dokumenty...
+VẬT CHỨNG & NGUỒN TIẾP CẬN: Ảnh sửa khóa do Michał lưu và phiếu ký gửi cửa hàng kiểm tra qua quy trình.
+L1 — CÂU DỪNG THẺ: Przez szybę rozpoznałem naprawione zapięcie. Pracownik komisu poprosił mnie jednak najpierw o dokumenty...
+SỰ THẬT PHẢI GIỮ: Đồng hồ đã bị đem ký gửi trước khi thỏa thuận chia đồ; không phải đồng hồ triệu złoty.
+L2 — HƯỚNG DỪNG COMMENT: Ai có quyền đem đồng hồ ký gửi, có cách giữ kỷ vật hợp lệ mà không tự giằng lại đồ trong tủ kính?
+L3 — KẾT THẬT ĐÃ KHÓA: Liên hệ cửa hàng đúng cách, xác minh thẩm quyền bán, thương lượng giữ món kỷ vật và bù giá trị; xử lý tranh chấp riêng không giằng đồ.
+RÀNG BUỘC LOGIC / QUỐC GIA: Không mặc định nhìn khóa đủ chứng minh sở hữu hoặc tự được lấy lại hàng khỏi komis.
+HÌNH CHỦ ĐẠO 9:16: Đồng hồ trong tủ kính, ảnh khóa cũ trên điện thoại.

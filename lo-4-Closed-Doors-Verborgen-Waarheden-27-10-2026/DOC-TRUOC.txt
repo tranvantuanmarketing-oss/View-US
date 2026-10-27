@@ -1,0 +1,12 @@
+LÔ 4 — CLOSED DOORS + VERBORGEN WAARHEDEN — 27/10/2026
+
+1. Closed-Doors-Lo-4-20-Brief-Claude.txt: upload vào Claude để viết 20 truyện mới tiếng Pháp.
+2. Verborgen-Waarheden-Lo-4-20-Brief-Claude.txt: upload vào Claude để viết 20 truyện mới tiếng Hà Lan.
+Mỗi file dùng độc lập được, có đủ prompt và 20 brief. Đây chưa phải file import tool.
+3. BAO-CAO-NGHIEN-CUU-LO-4.md: chắt lọc top 10 từng page, lý do chọn, nguồn web thêm, đánh giá Gemini và mục lục 40 ý.
+4. 81-REELS-LUOT-XEM.csv: toàn bộ link/view đã ghi nhận; TOP-10-MOI-PAGE.csv: 20 bài đã phân tích.
+5. Các file JSON là dữ liệu cấu trúc để tra cứu, không cần upload nếu không muốn.
+
+Lệnh Claude: “Đọc file. Viết đầy đủ 5 ID đầu theo prompt trong file. Đừng gộp nhân vật. Giữ đúng ngôn ngữ page, bắt đầu từ khóa truyện và kết thúc bằng tự kiểm.”
+
+Nguồn có view cao không đồng nghĩa bản mới chắc chắn viral. Không dùng link bài cũ cho nội dung mới; giữ {WEB_URL} cho đến khi có bài giải đáp thật.

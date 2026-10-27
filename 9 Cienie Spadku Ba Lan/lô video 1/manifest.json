@@ -1,0 +1,1130 @@
+{
+  "batchId": "batch_1792904295281",
+  "batchName": "Lô 20 video (PL · 20s) - 11:58:15",
+  "pageName": "Cienie Spadku",
+  "locale": "pl",
+  "createdAt": "2026-10-25T04:58:15.281Z",
+  "totalItems": 20,
+  "items": [
+    {
+      "seq": 1,
+      "id": "item_batch_1792904295281_1",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_001.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_001.txt",
+      "story": {
+        "content": "Po pogrzebie mamy moi bracia zażądali czterystu tysięcy złotych i sprzedaży domu, w którym się nią opiekowałam.\n«Ty tylko przy niej siedziałaś», powiedział starszy, rozkładając wycenę domu na stole naszej zmarłej matki.\nPrzez siedem lat sama zmieniałam opatrunki, płaciłam rachunki i spałam obok jej łóżka w kuchni.\nU notariuszki nie odpowiedziałam ani słowem, tylko położyłam między nami grubą teczkę z zieloną zakładką.\nKiedy przeczytała nazwę umowy, mój brat przestał stukać długopisem, a potem zapytał o drugi podpis...",
+        "author": "Teresa Wójcik",
+        "timeAgo": "2 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Siedem lat i jedna umowa",
+        "highlights": [
+          "Ty tylko przy niej siedziałaś",
+          "Przez siedem lat",
+          "teczkę z zieloną zakładką"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Wycenili dom mamy. Nie zapytali, kto przez siedem lat podawał jej wodę… 👇 #cieniespadku #spadek #rodzina",
+        "comment1": "CZĘŚĆ 2:\n\nNotariuszka obróciła teczkę w moją stronę i zapytała, czy przyniosłam również oryginał. Wyjęłam go spod rachunków za leki. Marek westchnął tak głośno, jakbyśmy znowu marnowały jego cenny czas. Jeszcze rano liczył przecież swoje pieniądze. Przypomniałam sobie jeszcze zimowy poranek, kiedy obiecał przywieźć mamie leki, ale zapomniał. Poszłam wtedy pieszo do dyżurnej apteki, zostawiając u niej sąsiadkę. Ten rachunek również leżał w teczce, pomiędzy dokumentami dotyczącymi opieki.\n\nMam na imię Teresa, mam pięćdziesiąt trzy lata i pracuję w szkolnej stołówce w Lublinie. Mama odeszła w lutym. Ostatniej nocy trzymała mnie za rękę i przepraszała, że znowu nie mogę się wyspać przed pracą.\n\nMoi bracia przyjeżdżali rzadko. Jeden mieszkał godzinę drogi od nas, drugi dwie. Zawsze coś wypadało. Dzieci, samochód, remont. Kiedy prosiłam o jeden wolny weekend, słyszałam, że przecież mieszkam za darmo w rodzinnym domu.\n\nTyle że ten dom kosztował mnie każdą wolną godzinę. Nosiłam węgiel, pilnowałam pieca, zamawiałam transport medyczny. Na lodówce wisiał zeszyt z dawkami leków. Żaden z braci nie wiedział nawet, gdzie mama trzymała swoją legitymację emeryta.\n\nTrzy dni po pogrzebie przynieśli wycenę. Czterysta tysięcy zachowku, oznajmił Marek. Dom trzeba sprzedać, a ja powinnam poszukać kawalerki. Młodszy położył obok numer pośrednika. Ani razu nie zapytali, gdzie będę mieszkała do czasu sprzedaży.\n\nZielona zakładka została po mamie. Wetknęła ją do dokumentów siedem lat wcześniej, kiedy obie byłyśmy jeszcze zdrowe. W kancelarii dokładnie omówiono nasze obowiązki. To nie była obietnica załatwiona przy kuchennym stole ani papier podpisany po kryjomu.\n\nNotariuszka przeczytała nazwę: umowa dożywocia. Mama przeniosła własność domu w zamian za rzeczywiste utrzymanie i opiekę. Pokazałam potwierdzenia rachunków, wizyty pielęgniarki i dokumenty remontu łazienki. Marek próbował wejść jej w słowo trzy razy.\n\nUsłyszeliśmy, że odpłatnej umowy dożywocia nie rozlicza się jak zwykłej darowizny przy obliczaniu zachowku. Samo pokrewieństwo nie dawało im prawa do dwóch trzecich mojego domu. Gdyby chcieli kwestionować umowę, musieliby przedstawić konkretne podstawy. Ich wycena niczego tutaj nie załatwiała.\n\nMarek odsunął dokument i zapytał, dlaczego nikt go nie uprzedził. Przypomniałam niedzielę, kiedy mama prosiła obu, żeby przyjechali porozmawiać o przyszłości. On wybrał wtedy wyjazd na ryby. Młodszy obiecał oddzwonić i zrobił to dopiero po miesiącu.\n\nWłaśnie wtedy notariuszka zatrzymała palec przy załączniku. Mama kazała dopisać do niego dokładny wykaz przekazanych wcześniej oszczędności. Na końcu były dwa nazwiska i potwierdzenie odbioru. Marek spojrzał na podpis młodszego brata, a ja zrozumiałam, że o jednym przelewie nie wiedział.\n\nNapisz « ZIELONA TECZKA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_0",
+        "index": 1,
+        "selected": true,
+        "templateId": "the-vet-cam-dao",
+        "paletteIndex": 0,
+        "avatarId": "av_1792904067477_smky",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_e7c4902d-587a-410b-b248-06d923540c8e.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 2,
+      "id": "item_batch_1792904295281_2",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_002.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_002.txt",
+      "story": {
+        "content": "Po dwunastu latach pracy w Niemczech wróciłam do domu pod Warszawą, na który wysyłałam wszystkie oszczędności.\n«To ziemia mojej matki», oznajmił mąż, zabierając moją walizkę z tarasu i stawiając ją przed furtką.\nPrzelałam sześćset tysięcy złotych, odkładając własne leczenie i śpiąc w małym pokoju przy łóżku podopiecznej.\nZamiast błagać o klucze, wyjęłam kopię aktu, który jego matka podpisała przed pierwszą dużą wpłatą.\nGdy adwokat otworzył księgę wieczystą, teściowa zobaczyła wpis i nagle zaczęła szukać w torebce telefonu...",
+        "author": "Alicja Kaczmarek",
+        "timeAgo": "3 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Dwanaście lat przelewów",
+        "highlights": [
+          "To ziemia mojej matki",
+          "Przelałam sześćset tysięcy złotych",
+          "wyjęłam kopię aktu"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Budowałam ten dom przelewami z Niemiec. Przy furtce powiedzieli, że jestem gościem… 👇 #cieniespadku #dom #zdrada",
+        "comment1": "CZĘŚĆ 2:\n\nTeściowa nie mogła odblokować telefonu. Dwa razy wpisała zły kod, chociaż przed chwilą zapewniała, że wszystkie sprawy domu są uporządkowane. Adwokat poprosił ją tylko, żeby spojrzała jeszcze raz na czwarty dział księgi wieczystej i odczytała nazwisko. Na każdej kolejnej stronie widniały ich własne podpisy, złożone jeszcze przed rozpoczęciem budowy domu.\n\nNazywam się Alicja. Mam pięćdziesiąt jeden lat i przez dwanaście lat opiekowałam się starszymi osobami pod Dortmundem. Mój mąż został w Polsce, żeby nadzorować budowę. W jego wiadomościach wszystko zawsze było prawie gotowe, ale potrzebowało kolejnej wpłaty.\n\nWysyłałam pieniądze na dach, okna, przyłącze i kostkę. Zostawiałam sobie tyle, żeby kupić bilet do Polski i nowe buty do pracy. Kiedy bolały mnie zęby, wybierałam tańsze leczenie. Henryk pisał wtedy: jeszcze trochę, potem będziemy już tylko odpoczywali.\n\nDziałka należała do jego matki. Wiedziałam o tym od początku, dlatego przed budową poszłam do prawniczki z polecenia koleżanki. Nie wystarczyło napisać w tytule przelewu, że pieniądze są moje. Potrzebowałam umów i zabezpieczenia, zanim zapłacę wykonawcom.\n\nHenryk obraził się na tydzień. Teściowa nazywała mnie podejrzliwą. Potem jednak oboje przyszli do notariusza, bo bez mojej pierwszej wpłaty ekipa miała zejść z budowy. Ich egzemplarz dokumentów został w szufladzie, do której podobno nikt później nie zaglądał.\n\nW sobotę wróciłam na stałe. W ogrodzie stał nowy grill, a w moim przyszłym gabinecie suszyły się ubrania obcej kobiety. Henryk powiedział, że ma prawo ułożyć sobie życie. Jego matka dodała, że dom na jej ziemi należy do niej.\n\nNie twierdziłam, że przelewy zrobiły ze mnie właścicielkę willi. Zabrałam walizkę do pensjonatu i zadzwoniłam do adwokata. Następnego dnia siedzieliśmy przy jednym stole: ja, Henryk, teściowa i ich przekonanie, że zmęczona opiekunka niczego nie zachowała na piśmie.\n\nAdwokat wyłożył umowy pożyczek, potwierdzenia wypłat i akt ustanowienia hipoteki. Zabezpieczenie było ujawnione w księdze. Teściowa sama je ustanowiła. Tytuły przelewów jedynie porządkowały dowody; nie zastępowały podpisanych dokumentów ani wpisu, o którym teraz nagle wszyscy chcieli zapomnieć.\n\nHenryk zaproponował zwrot połowy pieniędzy w ratach, jeśli podpiszę, że nie mam dalszych roszczeń. Nie zdążył nawet wymienić wysokości raty. Jego matka zapytała, czy hipotekę będzie widać przy sprzedaży. Wtedy po raz pierwszy usłyszałam, że dom miał już kupca.\n\nAdwokat poprosił o umowę przedwstępną. Teściowa przestała udawać, że dzwoni. Wyjęła z torebki złożoną kartkę, a Henryk natychmiast próbował ją odebrać. Na dole, obok kwoty zadatku, widniało nazwisko tej samej kobiety, której ubrania zobaczyłam poprzedniego dnia w pokoju.\n\nNapisz « SZEŚĆSET TYSIĘCY » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_1",
+        "index": 2,
+        "selected": true,
+        "templateId": "the-vet-hong-cam",
+        "paletteIndex": 0,
+        "avatarId": "av_1792904067669_m2qt",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_0c411798-eab1-458d-8116-01be119a5946.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 3,
+      "id": "item_batch_1792904295281_3",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_003.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_003.txt",
+      "story": {
+        "content": "Podczas odczytania testamentu ojca mój brat od razu zapytał, kiedy dostanie klucze do mieszkania w Krakowie.\n«Ty dostaniesz jego stare garnki», powiedział do mnie, zanim notariusz zdążył otworzyć drugą stronę dokumentu.\nPrzez trzy zimy woziłam ojca na rehabilitację, podczas gdy brat zmieniał numer, gdy prosiliśmy o pomoc.\nWyjęłam z torby cienki zeszyt ojca, ale notariusz najpierw poprosił nas o wysłuchanie całego zapisu.\nPrzy słowie wydziedziczenie brat wstał, a po chwili zobaczyłam, dlaczego tak bardzo bał się załącznika...",
+        "author": "Helena Mazur",
+        "timeAgo": "4 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Piętnaście stron po ojcu",
+        "highlights": [
+          "Ty dostaniesz jego stare garnki",
+          "Przez trzy zimy",
+          "cienki zeszyt ojca"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Brat przyszedł po klucze. Ojciec zostawił dla niego piętnaście stron wyjaśnień… 👇 #cieniespadku #testament #rodzina",
+        "comment1": "CZĘŚĆ 2:\n\nZałącznik miał piętnaście stron, spiętych zwykłym metalowym klipsem. Rozpoznałam na pierwszej datę pobytu taty w szpitalu. Brat powiedział, że nie będzie słuchał rodzinnych oskarżeń. Notariusz spokojnie wyjaśnił, że najpierw musi przedstawić treść sporządzonego testamentu, a nie jego oczekiwania. Nie chciałam słuchać tej części, ale wiedziałam, że tata świadomie zdecydował się wyjaśnić swoje powody na piśmie.\n\nMam na imię Helena, mam czterdzieści dziewięć lat i szyję zasłony w małej pracowni w Krakowie. Tata przez całe życie mówił o moim bracie: on sobie poradzi. O mnie mówił: Hela pomoże. Dopiero pod koniec zauważył różnicę.\n\nPo udarze potrzebował rehabilitacji i codziennych zakupów. Zamykałam pracownię wcześniej, odrabiałam wieczorami zaległe zamówienia. Brat przestał odbierać. Kiedy pielęgniarka zadzwoniła z telefonu taty, uznał, że znowu ktoś chce od niego pieniędzy i przerwał rozmowę w połowie zdania.\n\nPróbowałam namówić ich do spotkania. Tata nie chciał wojny. Wysłał list i prosił syna o zwykłą wizytę. Brat odesłał kopertę przez ciotkę. Powiedział, że chory ojciec jest moim problemem, bo to ja mieszkam bliżej jego klatki schodowej.\n\nW ostatnim roku tata zaczął prowadzić zeszyt. Zapisywał terminy wizyt, prośby o pomoc, odpowiedzi i własne wydatki. Nie wiedziałam, że zrobił również wydruki wiadomości. Zobaczyłam je dopiero podczas porządkowania szuflady po jego ostatnim pobycie w szpitalu.\n\nBrat pojawił się na pogrzebie w nowym płaszczu. Przy grobie mówił, jaki ojciec był ważny dla całej rodziny. W drodze do samochodu spytał, czy mieszkanie ma założoną księgę wieczystą. Nawet nie poczekał, aż wrócimy ze wspólnego obiadu.\n\nW kancelarii usiedliśmy naprzeciwko siebie. Testament sporządzono wtedy, gdy tata samodzielnie podejmował decyzje. Powołał mnie do spadku i opisał przyczynę wydziedziczenia syna: uporczywe niedopełnianie obowiązków rodzinnych. Były konkretne zdarzenia i daty, nie samo zdanie o braku wdzięczności.\n\nNotariusz uprzedził, że skuteczność takiego zapisu może być przedmiotem sporu. Piętnaście stron nie jest magiczną liczbą. Liczyły się rzeczywiste okoliczności, treść testamentu i możliwość ich wykazania. Brat nie mógł jednak po prostu zabrać kluczy, jak planował przy wejściu.\n\nPowiedział wtedy, że tata mu przebaczył. Byłam gotowa uwierzyć, że rozmawiali beze mnie. Chciałam w to uwierzyć. Poprosiłam, żeby podał dzień spotkania, bo może zeszyt był niepełny. Wskazał wtorek i nazwę kawiarni, do której tata kiedyś chodził.\n\nWyjęłam kartę wypisową. W tamten wtorek tata leżał na oddziale, a odwiedziny wpisywano do osobnego rejestru. Brat zerknął na drzwi. Właśnie wchodziła pielęgniarka, którą poproszono o dostarczenie kopii dokumentów. Niosła jeszcze jedną kopertę, zaadresowaną ręką mojego ojca do wnuczki.\n\nNapisz « ZESZYT OJCA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_2",
+        "index": 3,
+        "selected": true,
+        "templateId": "the-vet-kem-nau",
+        "paletteIndex": 0,
+        "avatarId": "av_1792904067617_h0w4",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_da01de5c-3c80-4f85-9fb1-280f573a8605.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 4,
+      "id": "item_batch_1792904295281_4",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_004.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_004.txt",
+      "story": {
+        "content": "Trzy dni po pogrzebie męża teściowa przyszła do mojego domu w Gdańsku z pustymi kartonami.\n«To dom naszego rodu», powiedziała, zdejmując moje zdjęcie ze ściany i wskazując drzwi do sypialni.\nDwadzieścia lat spłacałam z mężem rachunki, a teraz miałam zabrać tylko ubrania i rzeczy osobiste.\nZaparzyłam herbatę, otworzyłam laptop i położyłam obok filiżanek notarialny wypis z datą sprzed sześciu miesięcy.\nKiedy pokazałam drugi dział księgi, teściowa odsunęła kartony, lecz jej córka rozpoznała pieczątkę na załączniku...",
+        "author": "Monika Sokołowska",
+        "timeAgo": "5 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Nazwisko w drugim dziale",
+        "highlights": [
+          "To dom naszego rodu",
+          "Dwadzieścia lat",
+          "otworzyłam laptop"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Przyniosła kartony trzy dni po pogrzebie. Ja przyniosłam dokument sprzed sześciu miesięcy… 👇 #cieniespadku #dom #tesciowa",
+        "comment1": "CZĘŚĆ 2:\n\nMoja szwagierka pochyliła się nad pieczątką. Zapytała, kiedy dokładnie Piotr był u notariusza. Jej matka przerwała jej ostrym ruchem ręki. Wolała dalej mówić o rodzinnej tradycji niż przeczytać nazwisko ujawnione w księdze wieczystej przed naszymi oczami.\n\nNazywam się Monika, mam pięćdziesiąt sześć lat i pracuję w bibliotece w Gdańsku. Z Piotrem mieszkaliśmy w tym domu prawie dwadzieścia lat. Poznaliśmy się przy remoncie szkoły, w której wtedy prowadziłam małą bibliotekę dla dzieci z okolicy.\n\nDom kupił jeszcze przed naszym ślubem. Potem wspólnie go urządzaliśmy i opłacaliśmy. Przez lata nie pytałam o dokumenty. Mieliśmy przecież czas. Dopiero jego długa choroba sprawiła, że usiedliśmy przy stole z prawnikiem, zamiast uspokajać się obietnicą kolejnej spokojnej wiosny.\n\nPiotr chciał uporządkować własność i zadbać o moje mieszkanie. Pół roku przed odejściem przeniósł na mnie dom notarialnie. Wpis został dokonany. Nie był to dopisek na kartce ani sekretna zmiana w komputerze. Były podpisy, formalności i wszystkie potrzebne dokumenty.\n\nJego matce nie opowiadał o każdej wizycie w kancelarii. W ostatnich miesiącach była zajęta planowaniem, jak urządzi tu pokój dla swojej córki. Przy moim mężu nazywała to pomocą. Przy mnie mierzyła ściany i mówiła, że za dużo miejsca zajmują książki.\n\nPo pogrzebie nie zdążyłam nawet wyprać jego ulubionego swetra. Teściowa stanęła w progu z kartonami i poleciła mi pakowanie. Szwagierka zaczęła zdejmować zdjęcia. Gdy poprosiłam, żeby zostawiła nasze ślubne, odwróciła ramkę obrazkiem do ściany na niskiej komodzie.\n\nNie podniosłam głosu. Włączyłam laptop, podałam numer księgi i pokazałam aktualny wpis. W dziale dotyczącym właściciela widniałam sama. Dołożyłam wypis aktu. Teściowa powiedziała, że nazwisko na ekranie to za mało, bo przecież ona znała Piotra od urodzenia.\n\nWyjaśniłam, że ich ewentualne roszczenia spadkowe wymagają osobnego sprawdzenia, ale nie dają prawa wejść do domu i mnie wyrzucić. To, co Piotr skutecznie przeniósł za życia, nie stawało się po prostu pokojami do podziału przez krewnych po jego pogrzebie.\n\nSzwagierka przestała dotykać ramek. Wpatrywała się w nazwisko notariusza na ostatniej stronie. Wyciągnęła telefon i porównała coś ze zdjęciem własnego dokumentu. Zobaczyłam, że pobladła. Piotr odwiedził tę samą kancelarię, w której ona załatwiała inną sprawę kilka tygodni wcześniej.\n\nTeściowa kazała jej natychmiast wyjść. Tym razem córka nie posłuchała. Zapytała mnie, czy Piotr zostawił w domu brązową kopertę z dopiskiem dotyczącym garażu. Odpowiedziałam, że tak. Wtedy odwróciła się do matki i powiedziała: przecież obiecałaś mi, że on nigdy tego nie zobaczy.\n\nNapisz « DRUGI DZIAŁ » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_3",
+        "index": 4,
+        "selected": true,
+        "templateId": "the-vet-xanh-ngoc",
+        "paletteIndex": 0,
+        "avatarId": "av_1792904067631_4d3t",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_dd5dab1e-8bd3-48ca-affc-7830f9851d4c.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 5,
+      "id": "item_batch_1792904295281_5",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_005.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_005.txt",
+      "story": {
+        "content": "Przy wigilijnym stole teściowa zostawiła wolne krzesło dla gościa, ale dla mnie zabrakło zwykłego szacunku.\n«Bez dzieci nie jesteś rodziną», powiedziała przy barszczu, a mój mąż starannie poprawił złożoną serwetkę.\nPrzez osiem lat płaciłam raty jego firmy, odkładając własne marzenia i wierząc w kolejne obietnice.\nKiedy zadzwonił domofon, odłożyłam łyżkę i przyniosłam kopertę, którą znalazłam rano za kuchenną szafką.\nGość usiadł na wolnym krześle, przeczytał nazwisko nadawcy i zapytał męża, co zrobił z moim podpisem...",
+        "author": "Ewa Lis",
+        "timeAgo": "6 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Miejsce przy wigilijnym stole",
+        "highlights": [
+          "Bez dzieci nie jesteś rodziną",
+          "Przez osiem lat",
+          "przyniosłam kopertę"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Przy Wigilii odmówili mi miejsca w rodzinie. Wolne krzesło zajęła osoba, której nie oczekiwali… 👇 #cieniespadku #wigilia #sekret",
+        "comment1": "CZĘŚĆ 2:\n\nNa kopercie było nazwisko komornika. Mój gość znał je z zawodowej korespondencji, ale nie przyszedł wykonywać czynności przy wigilijnym stole. Był moim kuzynem, adwokatem. Zatrzymał się po drodze do ciotki, ponieważ kilka godzin wcześniej wysłałam mu zdjęcie znalezionego pisma.\n\nMam na imię Ewa. Mam czterdzieści cztery lata i prowadzę małą kwiaciarnię w Toruniu. W grudniu pracuję od świtu. Robię stroiki dla ludzi, którzy pamiętają o bliskich, a potem wracam do stołu, przy którym sama muszę zasługiwać na uprzejmość.\n\nTeściowa od lat wypominała nam brak dzieci, lecz winę przypisywała wyłącznie mnie. Mąż nigdy jej nie przerwał. Gdy wracaliśmy z kolejnej wizyty lekarskiej, potrafił poprosić, żebym na niedzielnym obiedzie nie poruszała trudnych tematów i nie psuła nikomu apetytu.\n\nJego firma miała przetrwać tylko jeden słabszy sezon. Potem drugi, trzeci. Płaciłam część rat, rachunki domowe i składki, podczas gdy on przekonywał wszystkich, że utrzymuje nas z własnej przedsiębiorczości. Teściowej kupił nowy samochód, mnie radził jeszcze zacisnąć pasa.\n\nRano przed Wigilią przesuwałam kuchenną szafkę, szukając foremki do makowca. Za plecami mebla znalazłam kopertę z wcześniejszą korespondencją egzekucyjną. Termin odbioru minął. Na dokumencie zobaczyłam nazwę banku i numer umowy, której nigdy wcześniej nie podpisywałam świadomie ani nie omawiałam.\n\nZrobiłam zdjęcia, zanim mąż wrócił z zakupów. Kuzyn oddzwonił między przygotowaniami do własnej kolacji. Poprosił, żebym nie wyrzucała koperty i niczego teraz nie podpisywała. Nie obiecywał, że jedno spojrzenie rozwiąże sprawę. Chciał najpierw sprawdzić, czego dokument rzeczywiście dotyczy.\n\nPrzy stole teściowa uznała, że brak wnuków usprawiedliwia każdą przykrość. Mąż patrzył w talerz. Kiedy domofon zadzwonił, sama otworzyłam drzwi. Przyniosłam dodatkowy talerz i posadziłam kuzyna przy pustym miejscu, które teściowa zostawiła zgodnie z wigilijnym zwyczajem dla niespodziewanego przybysza.\n\nOdsunął barszcz i przeczytał dokument. Nie wydawał wyroku. Zapytał męża o umowę poręczenia, bo pismo wskazywało inny zakres odpowiedzialności, niż wynikało z naszych rozmów. Mąż próbował go przekrzyczeć, mówiąc o zawodowej tajemnicy i świętym prawie do spokojnych rodzinnych świąt.\n\nJa zadałam prostsze pytanie: gdzie jest oryginał? Po raz pierwszy nie odpowiedział, że przesadzam. Powiedział, że podpis wyglądał wtedy jak mój. Teściowa przestała jeść. Jej widelec stuknął o talerz, a mała kuzynka przy sąsiednim krześle odruchowo ściszyła świąteczną piosenkę w telefonie.\n\nWtedy kuzyn odwrócił drugą kartkę. Obok danych firmy wpisano rachunek, na który wypłacono pieniądze. Rozpoznałam końcówkę numeru. Nie należał do męża. Należał do kobiety siedzącej na końcu naszego stołu, tej, która przed chwilą powiedziała mi, że bez dzieci nie jestem rodziną.\n\nNapisz « WOLNE KRZESŁO » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_4",
+        "index": 5,
+        "selected": true,
+        "templateId": "the-vet-tim-dam",
+        "paletteIndex": 0,
+        "avatarId": "av_1792904067697_dxbq",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_b1828bdf-25c3-43be-82e7-8319ac186419.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 6,
+      "id": "item_batch_1792904295281_6",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_006.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_006.txt",
+      "story": {
+        "content": "Po odejściu dziadka moja siostra kazała mi podpisać odrzucenie spadku, żeby zachować całą działkę pod Poznaniem.\n«Tobie wystarczy album ze zdjęciami», powiedziała, podsuwając dokument i zamykając przede mną szufladę z rachunkami.\nPrzez pięć lat robiłam dziadkowi zakupy, podczas gdy ona interesowała się wyłącznie cenami pobliskich gruntów.\nNie podpisałam niczego przy stole, tylko zabrałam numer księgi do prawniczki i poprosiłam o sprawdzenie.\nGdy siostra ogłosiła, że przyjęła spadek wprost, prawniczka otworzyła list banku i przeczytała kwotę zabezpieczenia...",
+        "author": "Dorota Pawlak",
+        "timeAgo": "7 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Ziemia, której nie chciałam",
+        "highlights": [
+          "Tobie wystarczy album ze zdjęciami",
+          "Przez pięć lat",
+          "otworzyła list banku"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Siostra chciała całą działkę. Nie chciała przeczytać listów, które dziadek trzymał pod rachunkami… 👇 #cieniespadku #spadek #dlugi",
+        "comment1": "CZĘŚĆ 2:\n\nKwota była większa niż cena działki. Osiemset tysięcy złotych zabezpieczonego długu. Siostra powiedziała, że to niemożliwe, bo dziadek nie miał nawet nowego telewizora. Prawniczka poprosiła, żebyśmy oddzieliły to, co o nim wiedziałyśmy, od tego, co wynikało z dokumentów.\n\nNazywam się Dorota, mam czterdzieści dwa lata i pracuję na poczcie pod Poznaniem. Dziadek nauczył mnie adresować listy, zanim poszłam do szkoły. Kiedy ręce zaczęły mu drżeć, pomagałam mu płacić rachunki. Tylko jednej szuflady nigdy nie pozwalał mi otwierać.\n\nMoja siostra Renata przyjechała po pogrzebie z wydrukami cen gruntów. Działka dziadka była warta fortunę, oznajmiła. Twierdziła, że skoro nie mam dzieci, nie potrzebuję pieniędzy tak bardzo jak ona. W zamian mogłam zabrać album, stary zegar i komplet filiżanek.\n\nPrzywiozła też przygotowaną kartkę. Miałam podpisać, że odrzucam spadek, a ona wszystko załatwi. Nie podobał mi się pośpiech. Nie wiedziałam jeszcze, jakie skutki miałoby odrzucenie ani kto mógłby wejść w moje miejsce. Odmówiłam podpisania czegokolwiek bez sprawdzenia u specjalisty.\n\nDo prawniczki poszłam z numerem księgi i plikiem korespondencji znalezionej podczas porządków. Nie spodziewałam się zwycięstwa. Chciałam jedynie wiedzieć, czego dotyczy spadek. Renata uznała moje pytania za zgodę na oddanie wszystkiego i zaczęła umawiać rozmowy z kupującym.\n\nPrawniczka wyjaśniła różnicę między przyjęciem spadku wprost a przyjęciem z dobrodziejstwem inwentarza. Brak oświadczenia nie oznaczał automatycznie nieograniczonej odpowiedzialności. Renata jednak sama złożyła oświadczenie o przyjęciu wprost, bo była przekonana, że pokazuje w ten sposób pełne zdecydowanie i przyspiesza sprzedaż.\n\nNikt nie odebrał jej pieniędzy w dniu podpisu. Nie było bankowców wpadających do kancelarii z żądaniem gotówki. Była za to korespondencja wierzyciela, umowa, zabezpieczenie i konieczność ustalenia rzeczywistego zadłużenia. Telefon kupującego przestał wtedy cieszyć Renatę tak jak jeszcze poprzedniego wieczoru.\n\nZapytała, czy mogę teraz dołożyć się do kosztów, bo przecież jesteśmy siostrami. Przypomniałam album. Chciała, żebym zrezygnowała z praw, zanim poznam zobowiązania. Teraz oczekiwała odwrotnej kolejności: najpierw moja pomoc, potem ewentualna rozmowa o tym, co faktycznie zostało po dziadku.\n\nPrawniczka uporządkowała pisma według dat. Jedno nie pasowało do reszty. Dziadek miał zabezpieczyć swoim gruntem zobowiązanie związane z cudzą firmą. Nazwę spółki widziałam wcześniej na dostawczym samochodzie pod domem Renaty. Spojrzałam na siostrę, lecz ona wpatrywała się już tylko w blat.\n\nPoprosiłam o ostatnią stronę umowy. Przy podpisie przedsiębiorcy znalazłam imię mojego szwagra. Renata powiedziała bardzo cicho, żebym nie dzwoniła do niego przy prawniczce. Wtedy zrozumiałam, że jej pośpiech w sprawie działki mógł mieć znacznie mniej wspólnego z zachłannością, niż myślałam jeszcze tego ranka.\n\nNapisz « LIST BANKU » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_5",
+        "index": 6,
+        "selected": true,
+        "templateId": "the-tim-vet-vang",
+        "paletteIndex": 0,
+        "avatarId": "av_1792682774610_ng0p",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_2f769466-0df5-49c0-9094-be939f65c51f.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 7,
+      "id": "item_batch_1792904295281_7",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_007.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_007.txt",
+      "story": {
+        "content": "Moja mama oddała synowi mieszkanie we Wrocławiu, wierząc, że spędzi z nim spokojne lata starości.\n«Tutaj będzie jej wygodniej», powiedział brat, zostawiając jej walizkę przy wejściu do domu pomocy społecznej.\nZ Londynu wysyłałam pieniądze na jej opiekę, nie wiedząc, że mama codziennie płacze nad pustym telefonem.\nKiedy wróciłam, otworzyłam umowę darowizny i pokazałam adwokatce wiadomości, które brat wysyłał naszej matce nocami.\nPrzy słowach rażąca niewdzięczność brat się uśmiechnął, dopóki mama nie wyjęła rachunku z jego własnym podpisem...",
+        "author": "Barbara Król",
+        "timeAgo": "8 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Pokój numer dwanaście",
+        "highlights": [
+          "Tutaj będzie jej wygodniej",
+          "wysyłałam pieniądze na jej opiekę",
+          "otworzyłam umowę darowizny"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Oddała synowi mieszkanie. W zamian dostała walizkę i ciszę w telefonie… 👇 #cieniespadku #darowizna #matka",
+        "comment1": "CZĘŚĆ 2:\n\nMama przechowywała rachunek w etui na okulary. Wyprostowała go na stole i powiedziała, żebym najpierw przeczytała datę. Był wystawiony tydzień po darowiźnie mieszkania. Pod spodem mój brat potwierdził odbiór pieniędzy przeznaczonych na jej prywatną rehabilitację, której nigdy później nie zorganizował.\n\nMam na imię Barbara. Mam czterdzieści sześć lat i pracuję w hotelu pod Londynem. Mama ma siedemdziesiąt sześć lat. Zawsze mówiła przez telefon, że wszystko jest dobrze. Zaczęłam się niepokoić, kiedy przestała opowiadać o widoku z własnego kuchennego okna.\n\nBrat tłumaczył, że potrzebuje więcej pomocy, niż może jej zapewnić. Nie osądzałam go za samo szukanie placówki. Wiedziałam, ile wysiłku wymaga codzienna opieka. Płaciłam więc regularnie i prosiłam tylko, żeby nie zostawiał mamy samej z lękiem przed nowym miejscem.\n\nO darowiźnie dowiedziałam się od sąsiadki. Mama wcześniej przeniosła mieszkanie na brata, bo obiecywał wspólne zamieszkanie i opiekę. Teraz w jej dawnym pokoju ustawiał sprzęt do wynajmu krótkoterminowego. O tym telefonicznie nie mówił ani słowa, nawet gdy pytałam go o koszty.\n\nPrzyleciałam w piątek. W pokoju numer dwanaście mama miała fotografię taty i stary szlafrok. Opiekunka powiedziała, że najgorsze były noce po wiadomościach od syna. To nie placówka ją krzywdziła. Krzywdziło ją to, co brat pisał, gdy odważyła się poprosić o odwiedziny.\n\nPozwoliła mi przeczytać telefon. Obelgi, groźby wyrzucenia jej rzeczy, żądania kolejnych pieniędzy. Pokazałam wszystko adwokatce razem z dokumentem darowizny. Nie chciałam obiecywać mamie natychmiastowego powrotu do mieszkania. Potrzebowała rzetelnej odpowiedzi i spokojnego miejsca, zanim zaczniemy rozmowę z bratem.\n\nUsłyszałyśmy, że można ocenić podstawy odwołania darowizny z powodu rażącej niewdzięczności. Sam pobyt w DPS nie wystarczał. Ważne były konkretne zachowania, dowody i terminy. Nawet uzasadnione odwołanie nie zmieniało automatycznie wpisu właściciela jednym telefonem ani moją złością podczas rodzinnego spotkania.\n\nBrat przyszedł do kancelarii pewny siebie. Oświadczył, że mama pomyliła zwykłą pomoc z obowiązkiem poświęcenia całego życia. Nie wspomniał o wiadomościach. Kiedy adwokatka przeczytała pierwszą, zapytał, czy możemy porozmawiać bez mamy. Wtedy właśnie wyjęła rachunek z etui na okulary.\n\nPróbował jej odebrać kartkę, ale położyłam na niej dłoń. Nie chodziło już tylko o mieszkanie. Z naszego zestawienia wynikało, że pieniądze na opiekę wypłacano, choć faktury za te same miesiące opłacałam ja z Londynu. Każdy przelew miałam w swoim bankowym archiwum.\n\nMama wskazała jeszcze jeden podpis pod potwierdzeniem odbioru. Nie należał do brata. Było to nazwisko osoby, która miała rzekomo świadczyć prywatne usługi opiekuńcze. Adwokatka je powtórzyła. Brat spojrzał w stronę drzwi, za którymi jego żona czekała z naszą najmłodszą siostrzenicą.\n\nNapisz « POKÓJ DWANAŚCIE » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_6",
+        "index": 7,
+        "selected": true,
+        "templateId": "photo-card",
+        "paletteIndex": 0,
+        "avatarId": "av_1792682774949_gzu8",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_bd2734a9-455d-4553-b96a-4811d8dc6c7a.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 8,
+      "id": "item_batch_1792904295281_8",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_008.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_008.txt",
+      "story": {
+        "content": "Przy podziale spadku po ojcu brat wybrał dom, a mnie oddał mokrą działkę za trzcinami.\n«Przynajmniej nie zmarnujesz porządnego majątku», powiedział, pokazując rodzinie moje ubłocone buty i mapę starego gospodarstwa.\nPrzez dziewięć lat naprawiałem ojcu ogrodzenie, podczas gdy brat przyjeżdżał wyłącznie po podpisy pod dokumentami.\nPół roku później przyszedłem na spotkanie z urzędnikiem, niosąc mapę i pismo dotyczące planowanej drogi.\nKiedy zobaczyli obszar przyszłego wywłaszczenia, brat zapytał, czy pamiętam umowę, którą ojciec podpisał z sąsiadem...",
+        "author": "Paweł Dąbrowski",
+        "timeAgo": "9 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Działka za trzcinami",
+        "highlights": [
+          "nie zmarnujesz porządnego majątku",
+          "Przez dziewięć lat",
+          "mapę i pismo"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Oddał mi mokrą łąkę i śmiał się z moich butów. Potem przyszło urzędowe pismo… 👇 #cieniespadku #ziemia #spadek",
+        "comment1": "CZĘŚĆ 2:\n\nNa mapie czerwony pas przecinał działkę, którą brat nazwał bezużytecznym mokradłem. Urzędnik od razu wyjaśnił, że plan nie jest jeszcze wypłatą odszkodowania. Potrzebne były właściwe decyzje, ustalenie praw i wycena. Brat słyszał jednak tylko jedno: grunt, którego nie chciał, nagle stał się ważny.\n\nMam na imię Paweł, mam czterdzieści osiem lat i naprawiam maszyny rolnicze pod Szczytnem. Ojciec całe życie pracował na Mazurach. Znał każde zagłębienie swojej ziemi i miejsce, w którym po wiosennych roztopach woda utrzymywała się o tydzień dłużej niż na reszcie pola.\n\nBrat wyjechał do miasta i wracał w czystych butach. Nie mam mu za złe wyjazdu. Mam mu za złe to, jak patrzył na ojca, kiedy ten prosił o pomoc przy płocie. Jakby człowiek z połatanymi rękawicami był przeszkodą w rodzinnych planach.\n\nPo pogrzebie rozmawialiśmy o dziale spadku. Brat chciał dom w miasteczku. Mnie proponował grunt i stare narzędzia. Zanim podpisałem uzgodniony podział, sprawdziłem dokumenty i wartość tego, co brałem. Wtedy przyszła droga istniała jedynie w niepewnych wariantach, o których nikt z nas nie wiedział.\n\nPrzy rodzinnym obiedzie brat żartował, że dostałem własne królestwo komarów. Nie odpowiadałem. W soboty porządkowałem rowy i wymieniałem słupki. W szopie znalazłem mapę ojca z zaznaczonym przejazdem sąsiada. Schowałem ją, bo nie lubię wyrzucać papierów dotyczących granic czy cudzych przejazdów przez pole.\n\nPół roku później otrzymałem pismo dotyczące inwestycji drogowej. Mój grunt znalazł się w obszarze planowanego przejęcia. Wstępne rozmowy o wartości terenu sprawiły, że brat sam do mnie zadzwonił. Po raz pierwszy od pogrzebu zapytał, czy nie potrzebuję przy czymś jego pomocy.\n\nUrzędnik nie obiecywał mi dwóch i pół miliona od ręki. Mówił o dokumentach, postępowaniu i zasadach ustalania odszkodowania. Mogłem zadawać pytania oraz korzystać z własnej pomocy prawnej. To nie była nagroda za to, że brat mnie obraził, tylko sprawa własności konkretnego gruntu.\n\nBrat przyjechał na spotkanie bez zaproszenia. Twierdził, że ojciec zawsze chciał równości między synami. Przypomniałem mu podpisany dział spadku. Zapytał wtedy o przejazd sąsiada. Nagle znał szczegóły ustaleń, o których podczas naszego podziału miał podobno nie wiedzieć zupełnie nic, nawet powierzchni tej działki.\n\nWyjąłem mapę z szopy. Sąsiad miał korzystać z wąskiego pasa na podstawie dawnej umowy. Trzeba było ustalić jej treść i ewentualne skutki. Urzędnik poprosił o oryginał, a brat zaczął nalegać, że sam go przywiezie, bo podobno ma bliżej do dawnego domu ojca.\n\nW domu rozwinąłem mapę do końca. Pod zagiętym narożnikiem tata zanotował datę i numer drugiej działki. Tę, którą brat sprzedał zaraz po pogrzebie. Obok widniało nazwisko kupującego. Znałem je z pisma o drodze, ale nie jako nazwisko żadnego urzędnika.\n\nNapisz « MAPA OJCA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_7",
+        "index": 8,
+        "selected": true,
+        "templateId": "the-vet-den-vang",
+        "paletteIndex": 0,
+        "avatarId": "av_1792682775122_qh4f",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_507b6270-37e5-4f5a-b4de-d02916f223f8.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 9,
+      "id": "item_batch_1792904295281_9",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_009.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_009.txt",
+      "story": {
+        "content": "Na komunii mojej córki teściowa zebrała koperty z pieniędzmi, mówiąc wszystkim, że pilnuje prezentów dla dziecka.\n«Matka znowu wszystko pogubiła», powiedziała później przy deserze, kiedy poprosiłam ją o oddanie pieniędzy córce.\nPrzez cztery miesiące oszczędzałam na skromne przyjęcie, rezygnując nawet z nowych okularów potrzebnych mi do pracy.\nNie otworzyłam jej torebki, tylko poprosiłam właścicielkę sali o odtworzenie nagrania z kamery nad dekoracją.\nGdy zobaczyliśmy rękę wyjmującą koperty, teściowa spojrzała na szwagra, a moja córka rozpoznała coś jeszcze...",
+        "author": "Joanna Zając",
+        "timeAgo": "10 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Kamera między białymi kwiatami",
+        "highlights": [
+          "Matka znowu wszystko pogubiła",
+          "Przez cztery miesiące",
+          "odtworzenie nagrania"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Zniknęły koperty z komunii córki. Teściowa pierwsza wskazała winnego — mnie… 👇 #cieniespadku #komunia #sekret",
+        "comment1": "CZĘŚĆ 2:\n\nCórka wskazała ekran i zapytała, dlaczego wujek trzyma jej kartkę z życzeniami. Nie pytała o pieniądze. Babcia obiecała jej przecież, że wszystkie kartki trafią do pamiątkowego pudełka. Teściowa odruchowo zasłoniła ekran dłonią, choć nagranie trwało dalej i było je widać z boku.\n\nNazywam się Joanna. Mam trzydzieści osiem lat i jestem techniczką w małym laboratorium w Opolu. Pierwszą komunię Hani przygotowywałam bez wielkiej oprawy. Chciałam, żeby zapamiętała rodzinny obiad i ludzi, którzy przyszli dla niej, a nie cenę sukienki czy liczbę dań w menu.\n\nTeściowa uznała, że moje przygotowania są niewystarczające. Przyniosła wielkie białe kwiaty i zaproponowała, że zajmie się prezentami. Hania ufała babci. Ja miałam do dopilnowania gości, więc zgodziłam się, żeby koperty chwilowo leżały w koszyczku na osobnym stole przy wejściu do naszej sali.\n\nWłaścicielka lokalu wcześniej poinformowała nas o monitoringu. Kamera obejmowała wejście i stolik z prezentami; dekoracja częściowo zasłaniała jej obudowę. Nie był to szpiegowski sprzęt, który potajemnie zamontowałam w kwiatach. Po prostu nie wszyscy spojrzeli na oznaczenie przy drzwiach, zanim zaczęli działać.\n\nPrzy deserze poprosiłam o pudełko. Koszyczek był pusty. Teściowa powiedziała, że sama przenosiłam koperty do samochodu. Mąż spojrzał na mnie z wyrzutem. Dwóch krewnych natychmiast zaczęło przeszukiwać moje torby, jakby wystarczyło jedno zdanie babci, żeby ustalić całą prawdę przy stole.\n\nPoczułam gorąco na twarzy, ale poprosiłam, żeby zostawili moje rzeczy. Zapytałam właścicielkę, czy możemy sprawdzić konkretny moment nagrania. Nie publikowałam go w internecie. Chodziło o znalezienie prezentów dziecka i zabezpieczenie informacji, zanim goście odjadą samochodami do swoich domów.\n\nNa ekranie zobaczyliśmy teściową. Brała koperty po kolei i wkładała do dużej torby. Potem oddała ją mojemu szwagrowi. Było widać jego kurtkę, charakterystyczny zegarek i kopertę z różową naklejką, którą Hania sama przygotowała do przechowywania kartek od swoich rodziców chrzestnych.\n\nSzwagier powiedział, że dostał tylko dokumenty. Teściowa zaczęła mówić o rodzinnej pożyczce. Od miesięcy prosił ją o spłatę zaległych zobowiązań po grze na pieniądze. Nie wiedziałam, czy właśnie na ten cel zamierzali przeznaczyć prezenty Hani. Wiedziałam natomiast, że dziecko nie wyraziło na to zgody.\n\nPoprosiłam o natychmiastowy zwrot i policzenie zawartości przy dwóch osobach. Szwagier wyszedł do samochodu, ale wrócił z pustymi rękami. Teściowa próbowała zabrać mnie do kuchni. Nie poszłam. Po raz pierwszy mój mąż stanął przy stoliku obok mnie i naszej córki.\n\nWtedy Hania powiedziała coś, czego żaden dorosły wcześniej nie zauważył. Różowa koperta była zaklejona jej własną naklejką, a na nagraniu wujek otwierał ją jeszcze przy stole. Wyjął z niej kartkę, przeczytał i podał babci. Zobaczyłam, jak teściowa blednie na samo wspomnienie tej kartki.\n\nNapisz « BIAŁE KWIATY » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_8",
+        "index": 9,
+        "selected": true,
+        "templateId": "the-vet-vang-nang",
+        "paletteIndex": 0,
+        "avatarId": "av_12__page_page_de_01",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_8070fcb8-4d96-427c-9d1e-bf3fdc6fe232.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 10,
+      "id": "item_batch_1792904295281_10",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_010.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_010.txt",
+      "story": {
+        "content": "Mąż złożył pozew o rozwód i oznajmił, że sprzeda połowę willi, którą kupiłam po śmierci dziadka.\n«W małżeństwie wszystko jest wspólne», powiedział, pokazując swojej młodszej koleżance zdjęcia naszego ogrodu na telefonie.\nPrzez dwadzieścia dwa lata prowadziłam dom, a pieniądze ze spadku przeznaczyłam na bezpieczną przyszłość rodziny.\nNa spotkanie przyniosłam dokument sprzedaży odziedziczonej ziemi i potwierdzenie przelewu, który dotarł prosto do sprzedającego.\nGdy adwokat zestawił daty, mąż przestał mówić o połowie domu i zapytał o stary rachunek...",
+        "author": "Irena Nowicka",
+        "timeAgo": "11 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Skąd przyszły pieniądze",
+        "highlights": [
+          "W małżeństwie wszystko jest wspólne",
+          "pieniądze ze spadku",
+          "adwokat zestawił daty"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Obiecał koleżance połowę mojej willi. Nie sprawdził, z jakich pieniędzy ją kupiono… 👇 #cieniespadku #rozwod #dom",
+        "comment1": "CZĘŚĆ 2:\n\nStary rachunek zamknęłam kilka lat wcześniej, ale zachowałam bankowe potwierdzenia. Adwokat położył je obok aktu nabycia domu. Mąż powiedział, że nie pamięta szczegółów sprzed tylu lat. Ja pamiętałam nawet godzinę, o której zadzwonił notariusz, potwierdzając wpływ pieniędzy na rachunek sprzedającego.\n\nMam na imię Irena, mam pięćdziesiąt cztery lata i prowadzę zakład introligatorski w Łodzi. Dziadek nauczył mnie oprawiać książki. Zostawił mi działkę i pieniądze na rozwój warsztatu. Mąż od początku nazywał to naszym szczęśliwym trafem, choć do dziadka przyjeżdżał bardzo niechętnie.\n\nDziałkę sprzedałam po kilku latach. Całą cenę kupna domu pokryłam z tych środków. Mąż był przy rozmowach i wiedział, skąd pochodzą pieniądze. Nie rozszerzaliśmy wspólności na tę nieruchomość. Wtedy zgodził się na wszystko, bo najbardziej zależało mu na przeprowadzce do większego ogrodu.\n\nPrzez kolejne lata dom stawał się jednak w jego opowieściach dowodem własnego sukcesu. Znajomym mówił, że go kupił. Mnie prosił, żebym nie robiła niezręcznej atmosfery. Z czasem przestałam poprawiać go przy gościach. Uznał to za zgodę także na inne rzeczy, o których miałam milczeć.\n\nO młodszej koleżance dowiedziałam się przypadkiem. Nie z jej zdjęć, tylko z wiadomości, w której mąż obiecywał jej pieniądze po sprzedaży naszej willi. Kiedy zapytałam, czy naprawdę planuje moje życie bez mojej wiedzy, wręczył mi kopię pozwu i wskazał przygotowane pudła.\n\nNie pakowałam się tamtego wieczoru. Zebrałam akty, dokumenty spadkowe i bankowe potwierdzenia. Adwokat poprosił również o dowody późniejszych wydatków. Wyjaśnił, że ustalenie własności domu i rozliczenie ewentualnych nakładów to dwie różne kwestie, których nie należy mieszać w jedno wygodne hasło o połowie wszystkiego.\n\nNa spotkaniu mąż przez pierwsze dziesięć minut mówił wyłącznie o wspólności małżeńskiej. Potem adwokat pokazał ciąg dokumentów: dziedziczenie, sprzedaż działki, przelew i zakup domu. Pieniądze z majątku osobistego miały udokumentowane pochodzenie. Nie zmieniły się w dowolny wspólny kapitał tylko dlatego, że byliśmy małżeństwem.\n\nTo nie zamykało każdego możliwego rozliczenia. Trzeba było sprawdzić nakłady i roszczenia, a nie obiecywać prosty wyrok po jednej rozmowie. Zamknęło jednak jego pewność, że bez pytania sprzeda połowę. Koleżanka czekająca na korytarzu nagle przestała przeglądać katalog nowego osiedla, który przyniósł.\n\nMąż zapytał o rachunek, z którego finansowaliśmy późniejszy remont garażu. Mówił o dużej sumie i własnym wkładzie. Znałam tę kwotę, ale nie z remontu. W tym samym miesiącu dziadek przelał mi dodatkowe pieniądze na wyposażenie warsztatu, więc poprosiłam o pełną historię operacji.\n\nAdwokat przewrócił ostatnią stronę zestawienia. Duży przelew nie trafił do wykonawcy, którego nazwę podał mąż. Trafił do prywatnej osoby. Obok widniał opis zaliczki za mieszkanie. Mąż spojrzał w stronę korytarza, a ja po raz pierwszy przeczytałam nazwisko kobiety, której obiecywał mój dom.\n\nNapisz « STARY RACHUNEK » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_9",
+        "index": 10,
+        "selected": true,
+        "templateId": "the-vet-xanh-bien",
+        "paletteIndex": 0,
+        "avatarId": "av_19",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_81de43ff-a5fc-42d7-b725-5cbbd3479271.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 11,
+      "id": "item_batch_1792904295281_11",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_011.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_011.txt",
+      "story": {
+        "content": "Po pogrzebie babci ciotki podzieliły złoto i oszczędności, a mnie zostawiły starą Biblię z popękaną okładką.\n«Przynajmniej nauczysz się wdzięczności», powiedziała najstarsza, chowając do torebki kolczyki, które babcia nosiła na święta.\nPrzez sześć lat czytałam babci wieczorami, wracając po zmianie w sklepie i rezygnując z wolnych niedziel.\nW kancelarii otworzyłam książkę na zaznaczonej stronie, skąd wypadła kartka zapisana drobnym pismem mojej babci.\nAdwokat poprosił, żebym przeczytała datę, a potem zamknął drzwi, gdy zobaczył nazwisko na drugiej stronie...",
+        "author": "Katarzyna Wilk",
+        "timeAgo": "12 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Kartka między psalmami",
+        "highlights": [
+          "nauczysz się wdzięczności",
+          "Przez sześć lat",
+          "wypadła kartka"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Zostawili mi tylko Biblię. Babcia schowała w niej coś, czego nie policzyli przy podziale złota… 👇 #cieniespadku #testament #babcia",
+        "comment1": "CZĘŚĆ 2:\n\nKartka była złożona na cztery. Rozpoznałam charakterystyczną literę K, którą babcia stawiała na kartkach urodzinowych. Adwokat poprosił, żebym nie poprawiała zagięć i odłożyła ją na czystą koszulkę. Na górze znajdowała się data późniejsza od tej, którą od rana powtarzały moje ciotki.\n\nMam na imię Katarzyna, mam trzydzieści cztery lata i pracuję w sklepie obuwniczym w Kielcach. Nie mieszkałam z babcią, ale miałam do niej trzy przystanki autobusem. Wieczorami czytałam jej na głos, bo oczy coraz częściej odmawiały posłuszeństwa po kilku zdaniach.\n\nCiotki odwiedzały ją przy okazji imienin. Zawsze pytały o lokaty i biżuterię. Babcia żartowała, że ich pamięć do odsetek jest znakomita. Wtedy śmiałyśmy się obie. Nie sądziłam, że po jej odejściu będę słyszała rozmowy o pieniądzach jeszcze przed posprzątaniem kwiatów z pogrzebu.\n\nPrzy stole dostałam Biblię. Najstarsza ciotka uznała, że wnuczce wystarczy pamiątka. Złoto zabrały do przechowania, jak powiedziały, a rachunki bankowe zamierzały uporządkować bez mojego udziału. Wiedziałam, że ich prywatny podział rzeczy nie zastępuje formalnego ustalenia praw, ale nie chciałam kłótni nad otwartą szufladą.\n\nKsiążkę schowałam do torby razem z okularami babci. W domu znalazłam między psalmami złożoną kartkę i krótką wiadomość: przeczytaj przy kimś, kto zna się na papierach. Nie otwierałam od razu całej kartki. Nazajutrz poszłam do adwokata poleconego przez znajomą z pracy.\n\nTekst był w całości napisany ręką babci, podpisany i opatrzony datą. Nie miał dwóch świadków, których moje ciotki uważały za koniecznych przy każdym testamencie. Adwokat wyjaśnił, że w przypadku testamentu własnoręcznego znaczenie ma przede wszystkim spełnienie jego własnych wymogów, a nie rodzinne przekonania.\n\nNie orzekł przy biurku, że cały spadek natychmiast należy do mnie. Dokument należało złożyć we właściwym trybie, a jego znaczenie i autentyczność mogły wymagać oceny. Poprosił o wcześniejsze testamenty, listę najbliższych i informację, kto zabrał rzeczy z mieszkania, zanim ktokolwiek zrobił ich spis.\n\nBabcia opisała mieszkanie, oszczędności i powód zmiany własnej decyzji. Czytałam powoli, bo kilka razy zamazały mi się litery. Nie pisała o zemście. Pisała o obietnicy, którą jedna z córek złożyła, dostała za nią pieniądze i której nigdy nie spełniła wobec własnej matki.\n\nAdwokat odwrócił kartkę. Na drugiej stronie był numer przelewu i nazwisko, którego nie znałam. Długopis zadrżał mi w ręce. Zapytałam, czy może to być przypadkowa notatka, ale babcia podkreśliła dokładnie tę samą kwotę w treści testamentu, łącząc oba zapisy jednym zdaniem.\n\nZadzwoniłam do ciotki i poprosiłam o zachowanie wszystkich dokumentów. Zamiast spytać dlaczego, zapytała, czy znalazłam coś w książce. Nic wcześniej nie mówiłam o Biblii. Adwokat usłyszał jej pytanie i gestem poprosił, żebym włączyła tryb głośnomówiący. Wtedy ciotka zaczęła tłumaczyć, kto naprawdę odebrał tamten przelew.\n\nNapisz « STARA BIBLIA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_10",
+        "index": 11,
+        "selected": true,
+        "templateId": "the-vet-la-cay",
+        "paletteIndex": 0,
+        "avatarId": "av_1792682774729_3psu",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_6d0a3f95-0d7f-45a0-b912-df8c425ed13b.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 12,
+      "id": "item_batch_1792904295281_12",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_012.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_012.txt",
+      "story": {
+        "content": "Wróciłam z sanatorium do własnego mieszkania i zobaczyłam obcych ludzi mierzących ścianę pod swoją nową szafę.\n«Nie rób scen przy kupujących», powiedziała teściowa, zasłaniając mój przedpokój i wyciągając rękę po klucze.\nPrzez piętnaście lat spłacałam kredyt, a ona sprzedała obcym obietnicę domu, do którego nie miała praw.\nZamknęłam walizkę, zrobiłam zdjęcie ogłoszenia i poprosiłam gości o pokazanie umowy oraz potwierdzenia wpłaconego zadatku.\nKiedy zobaczyłam podpis sprzedającej, zadzwoniłam po pomoc, bo teściowa użyła nazwiska, którego nie powinna znać...",
+        "author": "Magdalena Baran",
+        "timeAgo": "13 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Kupujący w moim salonie",
+        "highlights": [
+          "Nie rób scen przy kupujących",
+          "Przez piętnaście lat",
+          "zdjęcie ogłoszenia"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Wróciłam z leczenia. W moim salonie obcy ludzie wybierali miejsce na szafę… 👇 #cieniespadku #mieszkanie #oszustwo",
+        "comment1": "CZĘŚĆ 2:\n\nPod podpisem sprzedającej widniało moje panieńskie nazwisko. Teściowa zwykle przekręcała je przy świątecznych życzeniach, a tu zapisano je bezbłędnie. Kupujący podał mi telefon z potwierdzeniem przelewu. Pięćdziesiąt tysięcy złotych trafiło na rachunek, którego numeru nie rozpoznawałam, choć odbiorcą miałam być ja.\n\nMam na imię Magdalena, mam czterdzieści siedem lat i pracuję jako księgowa w Rzeszowie. Do sanatorium pojechałam po długim leczeniu. Pierwszego dnia martwiłam się nawet o kwiaty na parapecie. Mąż zapewniał, że jego matka podleje je podczas naszej nieobecności i zostawi klucze u sąsiadki.\n\nMieszkanie kupiłam jeszcze przed ślubem. Kredyt spłacałam z własnego rachunku. Teściowa nigdy nie była właścicielką ani pełnomocniczką do sprzedaży. Miała zapasowy klucz na wypadek awarii. Wiedziałam, że nie lubi naszych mebli, ale nie sądziłam, że uzna to za prawo do zmiany lokatorów.\n\nWróciłam dzień wcześniej, bo odwołano ostatnie zabiegi. W salonie stała para z dzieckiem i miarką. Na kanapie leżał katalog kuchni. Teściowa uśmiechała się do nich inaczej niż do mnie: szeroko, uprzejmie, jak gospodyni pokazująca mieszkanie, które za chwilę przekaże komuś innemu.\n\nNie zaczęłam od oskarżeń. Zapytałam, kim są i dlaczego mierzą ściany. Mężczyzna pokazał ogłoszenie z Otodom. Były tam fotografie mojego mieszkania wykonane podczas mojego pobytu w sanatorium. W opisie zapewniano, że właścicielka wyprowadza się za granicę, więc zależy jej na szybkiej sprzedaży.\n\nKiedy powiedziałam, że jestem właścicielką, teściowa zaśmiała się krótko. Oznajmiła gościom, że po lekach bywam zdezorientowana. Wtedy poprosiłam o dokumenty. Kupująca cofnęła dziecko od drzwi i zaczęła czytać umowę jeszcze raz, tym razem pytając głośno o dowód tożsamości osoby, z którą rozmawiała.\n\nByła to prywatna umowa dotycząca planowanej transakcji, nie akt skutecznie przenoszący własność mojego mieszkania. To jednak nie sprawiało, że wpłacony zadatek przestawał być problemem. Zabezpieczyłam zdjęcia ogłoszenia i poprosiłam parę o pozostanie, żeby każda osoba mogła spokojnie przedstawić własną wersję zdarzeń.\n\nZgłosiłam sprawę policji, opisując podejrzenie oszustwa i użycia moich danych. Nie żądałam natychmiastowego wyroku na miejscu. Chciałam zachować dokumenty, ustalić, kto otrzymał pieniądze, i dopilnować, by nikt nie podpisywał kolejnych umów w moim imieniu podczas mojej następnej wizyty u lekarza.\n\nTeściowa powiedziała, że robiła wszystko dla naszego dobra. Potem zmieniła wersję: pomagała synowi spłacić pilny dług. Męża nie było w domu. Dzwoniłam trzy razy, zanim odebrał. Zapytał od razu, czy zdążyłam wrócić przed osobami zainteresowanymi kupnem, a potem nagle przestał mówić.\n\nKupująca wyjęła z teczki kopię pełnomocnictwa, które pokazano jej przy wpłacie. Na pierwszej stronie były moje dane. Na drugiej pieczęć kancelarii, w której nigdy nie byłam. Teściowa spojrzała na podpis, a mój mąż w słuchawce powiedział: tylko nie pokazujcie jej ostatniego załącznika.\n\nNapisz « OBCY W SALONIE » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_11",
+        "index": 12,
+        "selected": true,
+        "templateId": "anh-kinh-giua",
+        "paletteIndex": 0,
+        "avatarId": "av_1792682774939_5ew1",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_4fd57ed4-ea45-4820-bee9-574e0148eba8.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 13,
+      "id": "item_batch_1792904295281_13",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_013.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_013.txt",
+      "story": {
+        "content": "Na pogrzeb mojego męża przyszła nieznajoma z dorosłym synem i teczką, którą trzymała jak bilet wstępu.\n«Przyszliśmy po naszą połowę», powiedziała przy samochodzie, zanim zdążyłam zdjąć z ramienia czarny szal żałobny.\nPrzez trzydzieści pięć lat prowadziłam rodzinne rachunki, nie wiedząc, że mąż od dawna opłaca inne życie.\nZaprosiłam ich do kancelarii i położyłam na stole umowę majątkową oraz zestawienie zobowiązań zmarłego męża.\nGdy adwokat zapytał o formalne ojcostwo, chłopak podał dokument, a kobieta spróbowała go natychmiast zabrać...",
+        "author": "Grażyna Dudek",
+        "timeAgo": "14 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Obcy syn przy grobie",
+        "highlights": [
+          "Przyszliśmy po naszą połowę",
+          "Przez trzydzieści pięć lat",
+          "zestawienie zobowiązań"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Przyszli na pogrzeb z żądaniem połowy. Nie wiedzieli, co naprawdę zostało po moim mężu… 👇 #cieniespadku #spadek #sekret",
+        "comment1": "CZĘŚĆ 2:\n\nChłopak nie oddał dokumentu matce. Położył go przede mną, ostrożnie, jakby bał się kolejnego oskarżenia. Zobaczyłam urzędowy odpis, a nie tylko wydruk badania genetycznego. Adwokat poprosił go, żeby został przy stole i sam powiedział, czego dowiedział się o swoim ojcu.\n\nNazywam się Grażyna. Mam sześćdziesiąt dwa lata i mieszkam w Katowicach. Z Andrzejem przeżyłam trzydzieści pięć lat. Miałam swoje biuro rachunkowe, on prowadził firmę instalacyjną. Sąsiedzi uważali nas za spokojne małżeństwo, które dawno przeszło już przez wszystkie możliwe trudne rozmowy.\n\nNa pogrzebie zobaczyłam kobietę w jasnym płaszczu i młodego mężczyznę z oczami podobnymi do oczu mojego męża. Nie podeszli do grobu razem z rodziną. Czekali przy samochodzie. Kobieta przemówiła pierwsza, żądając połowy majątku dla swojego syna, jakby odbierała zamówiony wcześniej towar.\n\nNie pytałam go, dlaczego się urodził. Zapytałam, jak ma na imię. Odpowiedział: Michał. Potem jego matka podała kartkę z wynikiem badania i powiedziała, że sprawa jest oczywista. Zaproponowałam spotkanie u adwokata, bo parking przy cmentarzu nie był miejscem do ustalania praw spadkowych.\n\nPrzed spotkaniem przejrzałam dokumenty. Od kilku lat mieliśmy rozdzielność majątkową i uregulowane kwestie własności. Nie oznaczało to, że małżeńska umowa kasuje prawa dziecka. Oznaczało, że najpierw trzeba ustalić, co naprawdę należało do Andrzeja, zanim ktokolwiek zacznie dzielić mój własny majątek.\n\nFirma miała zobowiązania, o których nie mówił głośno. Kredyt, zaległe płatności, poręczenia wymagające sprawdzenia. Nie zamierzałam straszyć chłopaka cudzym długiem. Chciałam, żeby znał całe zestawienie i mógł otrzymać niezależną poradę, zanim pod wpływem matki złoży jakiekolwiek oświadczenie dotyczące przyjęcia spadku.\n\nAdwokat wyjaśnił, że sam wynik DNA nie rozstrzyga przy biurku wszystkich formalności związanych z ojcostwem. Potrzebny był stan prawny potwierdzony właściwymi dokumentami. Spytał o akt urodzenia i ewentualne orzeczenie. Wtedy Michał wyjął odpis, który jego matka próbowała natychmiast schować z powrotem do teczki.\n\nAndrzej uznał syna wiele lat wcześniej. Dla mnie była to druga strata w ciągu jednego tygodnia. Nie podważałam prawa chłopaka do własnej historii. Poprosiłam tylko, żeby jego matka przestała nazywać mój dom majątkiem, który obiecał jej mężczyzna bez zgody właścicielki tego domu.\n\nMichał przeczytał listę zobowiązań i zapytał, dlaczego nie ma na niej pożyczki od niego. Kobieta chwyciła go za rękaw. Miał czekać na zewnątrz, powiedziała. Adwokat odsunął krzesło i zapewnił, że dorosły człowiek może sam zdecydować, czy chce pozostać na spotkaniu i przedstawić swoje dokumenty.\n\nChłopak otworzył historię przelewów. Od dwóch lat wysyłał pieniądze rzekomo na moje leczenie. Nigdy nie dostałam ani złotówki. Kiedy zobaczyłam numer rachunku odbiorcy, musiałam oprzeć dłonie o stół. To nie był rachunek Andrzeja, choć opis każdej wpłaty zawierał jego imię i słowo: szpital.\n\nNapisz « DRUGA RODZINA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_12",
+        "index": 13,
+        "selected": true,
+        "templateId": "anh-kinh-khung-anh",
+        "paletteIndex": 0,
+        "avatarId": "av_1792681244938_48bm",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_4739a0ff-ec6d-4fdc-84d3-3a281b8b0e32.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 14,
+      "id": "item_batch_1792904295281_14",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_014.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_014.txt",
+      "story": {
+        "content": "Po ojcu moi bracia dostali udziały w zakładzie, a mnie wręczono niewielki klucz w szarej kopercie.\n«Zawsze lubiłaś drobiazgi», powiedział starszy, obracając na palcu kluczyki do samochodu, którym jeździł jeszcze ojciec.\nPrzez siedemnaście lat nie zaprosili mnie na rodzinne święta, chociaż regularnie pomagałam ojcu przy jego projektach.\nZ dokumentami potwierdzającymi moje uprawnienia weszłam do banku, gdzie pracownica przyniosła pudło z zamkniętej skrytki.\nW środku znalazłam numer patentu i dokument gruntu, a pod nimi zdjęcie wykonane w zakładzie...",
+        "author": "Zofia Kamińska",
+        "timeAgo": "15 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Najmniejszy klucz w rodzinie",
+        "highlights": [
+          "Zawsze lubiłaś drobiazgi",
+          "Przez siedemnaście lat",
+          "numer patentu"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Bracia zabrali zakład. Ja dostałam klucz, który mieścił się w dłoni… 👇 #cieniespadku #spadek #ojciec",
+        "comment1": "CZĘŚĆ 2:\n\nZdjęcie przedstawiało warsztat sprzed dwudziestu lat. Ojciec stał przy prototypie urządzenia, a ja trzymałam zeszyt z obliczeniami. Bracia byli wtedy na wakacjach. Odwróciłam fotografię. Na odwrocie tata napisał jedno zdanie, którego nie potrafiłam przeczytać na głos bez długiej przerwy.\n\nMam na imię Zofia. Mam czterdzieści pięć lat i jestem techniczką kreślarską w Płocku. Z domu wyprowadziłam się po rodzinnej awanturze o moje małżeństwo. Ojciec długo nie umiał mnie przeprosić. Zamiast tego przysyłał pytania dotyczące wymiarów, tolerancji i rysunków swoich nowych urządzeń.\n\nOdpowiadałam. Czasem wysyłał pieniądze za projekt, czasem zdjęcie gotowej części. Rodzina uważała, że nie utrzymujemy kontaktu. Bracia opowiadali, że tata dawno o mnie zapomniał. Nie poprawiałam ich, bo nasze rozmowy były jedynym miejscem, w którym potrafił zachowywać się wobec mnie inaczej niż dawniej.\n\nPo pogrzebie dostałam informację o testamentach i umówionym spotkaniu. Bracia już planowali rozwój zakładu. Mówili o udziałach, maszynach i nowym dyrektorze. Kiedy zobaczyli szarą kopertę z moim imieniem, starszy zażartował, że ojciec zostawił mi klucz do swojej szafki z odzieżą roboczą.\n\nKlucz był do skrytki bankowej. Nie otwierałam jej jak w filmie, bez dokumentów i pytań. Musiałam wykazać swoje uprawnienia, przedstawić wymagane pisma i poczekać na ustalony termin. Przez ten czas bracia zdążyli ogłosić pracownikom, że sprawy rodzinne zostały definitywnie zamknięte po myśli ojca.\n\nW pudle leżała dokumentacja patentowa, wypis dotyczący gruntu i list. Sam klucz nie przenosił praw do wynalazku ani ziemi. Znaczenie miały dokumenty, testament i wcześniejsze umowy. Zabrałam kopie do prawniczki, zanim odpowiedziałam na pytania braci o to, czy znalazłam w banku jakieś oszczędności.\n\nOkazało się, że własność terenu i prawa wykorzystywane przez zakład trzeba sprawdzić osobno od udziałów w spółce. Bracia przejęli istotny majątek, ale nie wszystkie prawa, które odruchowo uznawali za jego część. Ojciec od lat rozdzielał je w dokumentach i prowadził dla każdego osobną teczkę.\n\nPrawniczka nie obiecała mi władzy nad całą firmą po jednym podpisie. Poprosiła o księgi, umowy licencyjne i historię rozporządzeń. Ja tymczasem czytałam list ojca. Pisał, że nie potrafi oddać mi utraconych rodzinnych świąt, ale nie chce również, żeby inni wymazali moją pracę z jego życia.\n\nNa zdjęciu trzymałam zeszyt z obliczeniami. W skrytce był też jego oryginał. Na pierwszej stronie tata wpisał nasze dwa nazwiska i datę. Starszy brat zadzwonił akurat wtedy, gdy porównywałam je z dokumentacją urządzenia, z którego zakład miał według jego planu finansować nową linię produkcyjną.\n\nZapytał, czy naprawdę potrzebuję prawniczki, skoro jesteśmy rodziną. Odpowiedziałam, że chcę tylko pełnych informacji. W słuchawce usłyszałam głos młodszego: zapytaj, czy znalazła starą umowę z kontrahentem. Spojrzałam na dno pudła. Pod fotografią leżała właśnie taka umowa, podpisana dzień przed zmianą testamentu.\n\nNapisz « MAŁY KLUCZ » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_13",
+        "index": 14,
+        "selected": true,
+        "templateId": "anh-kinh-den",
+        "paletteIndex": 0,
+        "avatarId": "av_1792681245112_ozkm",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_ed2e8430-2f1f-4034-a92e-fa1a94017c25.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 15,
+      "id": "item_batch_1792904295281_15",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_015.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_015.txt",
+      "story": {
+        "content": "Mój wujek twierdził, że babcia podpisała dokument o gospodarstwie podczas pobytu w szpitalu, tuż przed pogorszeniem stanu.\n«Jesteś tylko pielęgniarką», powiedział, kiedy zapytałam, kto potwierdził jej zdolność do świadomego podjęcia tej decyzji.\nPrzez osiem miesięcy odwiedzałam ją po dyżurach, a on przyszedł raz, za to z grubą teczką.\nZamiast się kłócić, pomogłam babci wystąpić o dokumentację i przekazałam pełnomocniczce dokładne godziny zapisane na kartach.\nKiedy zestawiono czas podpisania z historią leczenia, wujek przyniósł drugi dokument, o którym wcześniej milczał...",
+        "author": "Natalia Ostrowska",
+        "timeAgo": "16 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Godzina na karcie leków",
+        "highlights": [
+          "Jesteś tylko pielęgniarką",
+          "Przez osiem miesięcy",
+          "dokładne godziny"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Powiedział, że babcia wszystko rozumiała. Na dokumentach była godzina, którą pamiętałam z oddziału… 👇 #cieniespadku #spadek #podpis",
+        "comment1": "CZĘŚĆ 2:\n\nDrugi dokument miał wcześniejszą datę. Wujek wyjął go dopiero wtedy, gdy pełnomocniczka zapytała o stan babci w godzinie podpisania pierwszego. Uśmiechał się tak, jakby zmiana papieru miała zakończyć wszystkie pytania. Babcia siedziała obok mnie i próbowała odczytać tekst przez nowe okulary do czytania.\n\nMam na imię Natalia. Mam trzydzieści sześć lat i pracuję jako pielęgniarka w Białymstoku. Babcia wychowała mnie po odejściu mamy. Kiedy trafiła do szpitala, odwiedzałam ją po dyżurach. Przynosiłam grzebień, czyste koszule i domowy kompot, jeśli pozwalały na to zalecenia jej lekarza.\n\nWujek zwykle dzwonił po wiadomości o gospodarstwie, nie o zdrowiu. Chciał wiedzieć, gdzie są dokumenty ziemi i czy babcia nadal pamięta hasło do banku. Gdy raz poprosiłam, żeby zajął się jej zakupami, powiedział, że takich drobiazgów nie wolno mylić z poważnym zarządzaniem rodzinnym majątkiem.\n\nW tygodniu pogorszenia jej stanu przyjechał z teczką. Później zapewniał wszystkich, że miała przy sobie osobę sporządzającą dokument, rozumiała treść i sama poprosiła o podpisanie. Rodzina usłyszała wygodną wersję: babcia wszystko zaplanowała, a Natalia jest rozczarowana, bo dostanie znacznie mniej niż oczekiwała.\n\nNie zaglądałam do akt medycznych z ciekawości ani przez własny dostęp pracowniczy. Kiedy babcia odzyskała siły, powiedziała mi, że nie pamięta żadnej rozmowy o oddawaniu gospodarstwa. Na jej prośbę pomogłam złożyć prawidłowy wniosek o dokumentację i umówić spotkanie z niezależną pełnomocniczką wybraną przez nią.\n\nPotrzebne były pełne karty leczenia, stan świadomości i okoliczności czynności, a nie sam fakt podania leku. Prawniczka uprzedziła, że nazwa środka uspokajającego nie unieważnia automatycznie każdego podpisu. Liczy się rzeczywisty stan osoby w danym momencie i dowody pozwalające go rzetelnie ustalić w odpowiednim postępowaniu.\n\nWujek powtarzał, że notarialne papiery zamykają sprawę. Poproszono go o wypis i wyjaśnienie, jakiej czynności dotyczy dokument. W jednej rozmowie nazywał go testamentem, w drugiej przeniesieniem własności. Babcia słuchała i za każdym razem pytała o to samo: dlaczego nikt nie zostawił jej egzemplarza podpisanej kartki?\n\nPełnomocniczka zestawiła datę i godzinę z kartami. Nie ogłosiła wyroku przy stole. Zapowiedziała formalne kroki, zabezpieczenie dowodów i ewentualną ocenę specjalisty. Wtedy wujek przestał lekceważyć moje pytania. Powiedział, że przecież wszyscy wiedzą, czego babcia chciała od wielu lat, więc papierów nie należy czytać tak dosłownie.\n\nBabcia wyciągnęła rękę po dokument. Nie pozwoliła mu zabrać go ze stołu. Przeczytała opis gospodarstwa i wskazała działkę, którą sprzedała przed pięciu laty. Ten szczegół pamiętała doskonale. Sama zapłaciła wtedy za nowy dach, a resztę pieniędzy odłożyła na przyszłe koszty własnej opieki i leczenia.\n\nWujek położył drugi papier. Miał udowodnić, że decyzja zapadła wcześniej. Babcia przyjrzała się podpisowi osoby obecnej przy rozmowie i zwróciła dokument prawniczce. Powiedziała, że ten człowiek nie mógł jej wtedy odwiedzić. Wiedziała dokładnie dlaczego: tego dnia razem z nim uczestniczyła w zupełnie innej czynności.\n\nNapisz « GODZINA PODPISU » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_14",
+        "index": 15,
+        "selected": true,
+        "templateId": "anh-kinh-ruou",
+        "paletteIndex": 0,
+        "avatarId": "av_1792681245224_l7vn",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_7d9de915-c1bc-4498-9f80-39a35008ecdb.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 16,
+      "id": "item_batch_1792904295281_16",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_016.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_016.txt",
+      "story": {
+        "content": "Na weselu syna usadzono mnie przy drzwiach toalety, chociaż obiecałam mu pieniądze ze sprzedaży rodzinnej ziemi.\n«Tutaj będziesz mniej przeszkadzać», powiedziała panna młoda, zabierając moje nakrycie ze stołu dla najbliższej rodziny.\nPrzez trzydzieści lat odkładałam każdą wolną złotówkę, a teraz miałam udawać obcą osobę przy własnym dziecku.\nWyszłam na taras i otworzyłam przygotowany przelew, którego termin ustaliłam dopiero na poniedziałek po weselu.\nGdy zadzwoniłam do banku, syn wybiegł za mną, ale zapytał o pieniądze dla kogoś innego...",
+        "author": "Danuta Piotrowska",
+        "timeAgo": "17 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Stół przy drzwiach",
+        "highlights": [
+          "będziesz mniej przeszkadzać",
+          "Przez trzydzieści lat",
+          "otworzyłam przygotowany przelew"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Przy stole rodzinnym nie było dla mnie miejsca. Mój przelew jeszcze nie wyszedł… 👇 #cieniespadku #wesele #matka",
+        "comment1": "CZĘŚĆ 2:\n\nSyn nie zapytał, dlaczego stoję sama na zimnym tarasie. Zapytał, czy odwołałam przelew. Potem dodał, że pieniądze są już komuś obiecane i nie mam prawa robić mu wstydu w najważniejszym dniu jego życia. Za szybą jego teściowie właśnie ustawiali rodzinę do wspólnego zdjęcia.\n\nMam na imię Danuta. Mam pięćdziesiąt dziewięć lat i pracuję w piekarni pod Szczecinem. Syna wychowywałam sama. Znał zapach mojej roboczej kurtki i wiedział, dlaczego zasypiałam przy wiadomościach. Przez lata zapewniał, że kiedyś odwdzięczy mi się domem, w którym będę mogła wreszcie odpocząć.\n\nKiedy postanowił kupić mieszkanie, sprzedałam odziedziczoną ziemię. Nie oddawałam całych oszczędności, ale trzysta tysięcy złotych było dużą częścią mojego zabezpieczenia. Chciałam mu pomóc. Przed weselem ustaliliśmy, że pieniądze prześlę dopiero po ostatecznej weryfikacji dokumentów dotyczących zakupu mieszkania, w następny poniedziałek rano.\n\nNie podpisywałam u notariusza darowizny nieruchomości i nie czekałam na magiczne anulowanie aktu jednym telefonem. Miałam przygotowane własne pieniądze, a w banku zlecenie z przyszłą datą. Dopóki nie zostało wykonane, mogłam sprawdzić, czy bank pozwala je jeszcze odwołać zgodnie z obowiązującymi zasadami.\n\nNa salę weselną weszłam z bukietem dla młodych. Moja karteczka leżała przy stole rodzinnym, lecz panna młoda zabrała ją bez słowa. Usadzono mnie obok drzwi toalety i stosu zapasowych krzeseł. Jej matka wyjaśniła, że z przodu muszą siedzieć ludzie, z którymi wypada robić pamiątkowe fotografie.\n\nSpojrzałam na syna. Odwrócił wzrok i zaczął poprawiać mankiet. Przecież mógł przesunąć jedno krzesło. Mógł powiedzieć jedno zdanie. Zamiast tego poprosił, żebym nie psuła atmosfery, bo obsługa i tak ma dziś dużo pracy. Usiadłam na chwilę, ale nie potrafiłam przełknąć pierwszej łyżki zupy.\n\nNa tarasie otworzyłam aplikację. Zlecenie nadal czekało na realizację. Skontaktowałam się z bankiem i poprosiłam o potwierdzenie możliwości anulowania. Nie chciałam podejmować decyzji na podstawie domysłu. Chciałam zatrzymać coś, co wciąż należało do mnie, zanim moje pieniądze zastąpią rozmowę, której nikt nie chciał przeprowadzić.\n\nSyn pojawił się niemal od razu. Ktoś przy stole musiał mu przekazać, że rozmawiam przez telefon o przelewie. Zapytałam go, na co dokładnie potrzebuje tej kwoty. Odpowiedział: na mieszkanie, przecież wiesz. Poprosiłam o dokumenty, których nadal nie pokazał mimo naszej wcześniejszej wyraźnej umowy.\n\nPowiedział, że teraz nie ma czasu. Panna młoda wyszła za nim i oznajmiła, że jej ojciec już wszystko uregulował. Nie zrozumiałam. Skoro zakup był opłacony, dlaczego moje pieniądze musiały wyjść w poniedziałek bez żadnego dodatkowego pytania? Syn ścisnął telefon tak mocno, że pobielały mu palce.\n\nW końcu pokazał wiadomość od teścia. Numer rachunku był inny niż rachunek sprzedającego mieszkanie. Pod kwotą zapisano krótko: zwrot za wcześniejsze zobowiązanie. Poprosiłam, żeby przewinął rozmowę wyżej. Wtedy jego żona stanęła między nami i powiedziała: nie miałaś się o tym dowiedzieć przed przelewem.\n\nNapisz « PONIEDZIAŁKOWY PRZELEW » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_15",
+        "index": 16,
+        "selected": true,
+        "templateId": "anh-kinh-navy",
+        "paletteIndex": 0,
+        "avatarId": "av_1792681245292_tmnd",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_a7f9d7bf-426b-4094-b01d-215020a93981.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 17,
+      "id": "item_batch_1792904295281_17",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_017.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_017.txt",
+      "story": {
+        "content": "Pożyczyłam siostrze mieszkanie w Bydgoszczy na rok, ale po trzech latach mój klucz nie otwierał zamka.\n«Teraz to nasz dom», powiedział jej mąż, stając w drzwiach i zasłaniając świeżo wyburzoną ścianę.\nPrzez trzy lata płaciłam za cudze zaległości, wierząc, że pomagam rodzinie wrócić na własne nogi.\nNie zamówiłam wymiany zamków, tylko zebrałam umowę użyczenia i pisma, których siostra konsekwentnie nie odbierała.\nKiedy przy stole usiadł przedstawiciel kupującego, szwagier zaśmiał się, dopóki nie zobaczył fotografii ze swojego remontu...",
+        "author": "Marta Grabowska",
+        "timeAgo": "18 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Klucz, który przestał pasować",
+        "highlights": [
+          "Teraz to nasz dom",
+          "Przez trzy lata",
+          "zebrałam umowę użyczenia"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Pożyczyłam mieszkanie na rok. Oddali mi klucz, który już nie pasował do drzwi… 👇 #cieniespadku #mieszkanie #rodzina",
+        "comment1": "CZĘŚĆ 2:\n\nNa fotografii było widać gruz, odsłonięte przewody i ścianę, która jeszcze niedawno oddzielała kuchnię. Szwagier przestał się śmiać. Zdjęcie nie pochodziło z mojego telefonu. Wykonała je administracja po zgłoszeniu od sąsiada, któremu po ich pracach zaczęły pękać kafelki przy suficie w łazience.\n\nMam na imię Marta. Mam czterdzieści trzy lata i jestem spedytorką w Bydgoszczy. Mieszkanie kupiłam przed zmianą pracy. Kiedy siostra straciła wynajmowany lokal, zaproponowałam pomoc na rok. Spisałyśmy zasady użyczenia, żeby obie wiedziałyśmy, kiedy będę potrzebowała nieruchomości z powrotem dla siebie.\n\nPierwsze miesiące były spokojne. Potem pojawiły się zaległe opłaty. Siostra tłumaczyła je chorobą dzieci, przestojem w pracy męża i nieszczęśliwymi zbiegami okoliczności. Nie chciałam, żeby dzieci marzły, więc pokrywałam pilne rachunki. Z każdą wpłatą coraz trudniej było rozmawiać o ustalonym terminie wyprowadzki.\n\nPo trzech latach usłyszałam, że mieszkanie jest już ich domem. Nie mogli go nabyć samym wypowiedzeniem takiego zdania, ale moje prawo własności również nie pozwalało mi wyrzucić ich rzeczy na ulicę. Potrzebowałam zgodnego z prawem zakończenia korzystania z lokalu, a potem właściwych dalszych działań.\n\nZamki wymienili bez rozmowy. O remoncie dowiedziałam się od sąsiada. Gdy przyszłam, szwagier nie wpuścił mnie do środka. Przez otwarte drzwi zobaczyłam brak ścianki i świeży gruz. Tłumaczył, że podnosi wartość mieszkania, więc zamiast żądać zwrotu, powinnam podziękować mu za włożoną własną pracę.\n\nZ prawnikiem zebrałam dokumenty, wezwania i informacje od administracji. Równolegle rozważałam sprzedaż inwestorowi, który znał sytuację lokalu. Cena uwzględniała problem. Nie udawałam, że mieszkanie jest puste. Nie sprzedawałam też nikomu prawa do zastraszania mojej siostry, jej dzieci czy człowieka, który zajmował mój lokal.\n\nPrzedstawiciel kupującego przyszedł na uzgodnione spotkanie. Wyjaśnił, że zmiana właściciela nie jest prywatnym nakazem natychmiastowej eksmisji. Spór wymagał właściwego postępowania. Mimo to szwagier po raz pierwszy zobaczył, że przeciąganie rozmów z siostrą żony nie będzie sposobem na bezterminowe korzystanie z cudzej nieruchomości.\n\nSiostra płakała. Prosiła, żebym pomyślała o rodzinie. Pomyślałam więc również o sobie: o moim czynszu za wynajmowane mieszkanie i trzech latach odkładania własnych planów. Zaproponowałam rozmowę o rozsądnym terminie i uporządkowaniu opłat. Jej mąż odpowiedział, że bez zwrotu kosztów remontu nigdzie się nie ruszy.\n\nWtedy na stole znalazły się fotografie administracji. Nie wszystkie prace były taką poprawą, za jaką chciał otrzymać pieniądze. Trzeba było sprawdzić zakres ingerencji i odpowiedzialność za szkody. Zapytałam go, kto wykonywał roboty oraz gdzie są rachunki i zgody, na które tak często powoływał się w naszych wiadomościach.\n\nWyciągnął telefon, ale siostra położyła rękę na jego ramieniu. Powiedziała, że żadnych rachunków nie ma. Za to istnieje umowa z człowiekiem, który miał wynająć jeden z pokoi. Kiedy podała nazwisko, rozpoznałam sąsiada, który zgłosił pęknięcia po drugiej stronie ściany. Wyjął właśnie z teczki własne potwierdzenia przelewów.\n\nNapisz « ZMIENIONY ZAMEK » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_16",
+        "index": 17,
+        "selected": true,
+        "templateId": "anh-kinh-nau",
+        "paletteIndex": 0,
+        "avatarId": "av_1792681245368_4p6n",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_45a88cbe-9bf4-4945-8a31-dc8a4c3653b9.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 18,
+      "id": "item_batch_1792904295281_18",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_018.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_018.txt",
+      "story": {
+        "content": "Ojciec powiedział nam w Zakopanem, że po pożarze warsztatu zostały mu rachunki i pilne zobowiązania.\n«Nie dziedziczy się problemów», powiedział mój brat, odkładając filiżankę i pytając o możliwość zrzeczenia się spadku.\nPrzez pięć lat pomagałem ojcu po pracy, podczas gdy bracia liczyli przyszłą cenę jego ziemi.\nSprzedałem swój samochód, żeby zapłacić ekipie zabezpieczającej budynek, a potem odwiozłem ojca na umówione spotkanie.\nGdy notariusz otworzył dokumenty, bracia zobaczyli prawdziwe zestawienie majątku i zapytali, kto wiedział o polisie...",
+        "author": "Łukasz Sikora",
+        "timeAgo": "19 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Ojciec bez warsztatu",
+        "highlights": [
+          "Nie dziedziczy się problemów",
+          "Sprzedałem swój samochód",
+          "prawdziwe zestawienie majątku"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Po pożarze pytali o spadek. Ja pytałem ojca, gdzie tej nocy będzie spał… 👇 #cieniespadku #ojciec #spadek",
+        "comment1": "CZĘŚĆ 2:\n\nOjciec sam poprosił, żeby dokumenty położono przed wszystkimi. Nie chciał kolejnych szeptów, że coś mi obiecał za plecami moich braci. Na pierwszej stronie była wycena ziemi, dalej wykaz oszczędności, a na końcu korespondencja dotycząca ubezpieczenia warsztatu. Starszy brat od razu zaczął przeliczać kwoty na głos.\n\nNazywam się Łukasz. Mam trzydzieści dziewięć lat i jestem elektrykiem w Zakopanem. Ojciec prowadził mały warsztat stolarski. Nie był człowiekiem, który łatwo prosi o pomoc. Kiedy zadzwonił po pożarze, zapytał najpierw, czy mam w domu wolne miejsce na pudło z dokumentami, których nie zmoczyła woda.\n\nPrzyjechałem jeszcze tego wieczoru. Dwaj bracia zjawili się następnego dnia. Ojciec mówił o pilnych wydatkach i niepewnej sytuacji. Był zmęczony, zawstydzony i przywiązany do maszyn, które naprawiał sam przez wiele lat. Bracia najpierw zapytali o długi, a potem o możliwość ochrony własnych przyszłych oszczędności.\n\nNie podpisali skutecznego zrzeczenia przy kuchennym stole. Takie słowa nie zastępują wymaganej umowy z przyszłym spadkodawcą. Zapowiedzieli jednak, że chcą porozmawiać o notarialnym uporządkowaniu dziedziczenia. Ojciec zgodził się na konsultację, pod warunkiem że najpierw wszyscy poznają rzeczywistą sytuację i znaczenie każdego proponowanego rozwiązania.\n\nJa sprzedałem samochód i zapłaciłem za pilne zabezpieczenie budynku. Nie oczekiwałem za to warsztatu. Potrzebowałem po prostu, żeby deszcz nie niszczył resztek stropu nad ocalałym sprzętem. Ojciec dostał ode mnie pokój, czystą pościel i herbatę. O własności ziemi nie rozmawialiśmy podczas tych pierwszych trudnych nocy.\n\nSytuacja wyjaśniała się powoli. Były zobowiązania, ale były również oszczędności i ubezpieczenie, którego zakres dopiero sprawdzano. Ojciec nie przedstawiał rodzinie sfałszowanych bilansów. Po prostu nie potrafił w pierwszych dniach uporządkować wszystkich danych. Bracia uznali jednak najgorszy wariant za pewnik i przez tydzień nie zadzwonili nawet z pytaniem o zdrowie.\n\nW kancelarii poproszono o pełną informację, zanim ktokolwiek podejmie decyzję. Wyceniony majątek nie zniknął wraz z dachem warsztatu. Pisma ubezpieczyciela otwierały dodatkową możliwość, choć nie gwarantowały natychmiastowej wypłaty. Bracia nagle chcieli odłożyć rozmowę o zrzeczeniu i wspólnie poprowadzić odbudowę, której wcześniej nazywali bezsensowną stratą czasu i pieniędzy.\n\nOjciec słuchał ich przez chwilę. Potem podziękował mi za dach nad głową i powiedział, że rozważa zmianę testamentu. Notariusz przypomniał, że powołanie jednego dziecka nie usuwa samo w sobie wszystkich potencjalnych roszczeń pozostałych. Nikt nie obiecywał łatwego wydziedziczenia za jedną nieprzyjemną rozmowę przy kawie po rodzinnym nieszczęściu.\n\nStarszy brat wziął korespondencję ubezpieczeniową i zapytał, dlaczego na jednym dokumencie figuruje inna data przeglądu instalacji. Było to dobre pytanie. Jako elektryk również zwróciłem na nią uwagę. Mój podpis podobno potwierdzał przegląd, którego nie wykonywałem, bo tego dnia pracowałem na dużej budowie poza miastem, daleko od warsztatu.\n\nOjciec spojrzał na mnie, potem na syna trzymającego dokument. Brat zawsze pomagał mu wysyłać papiery do ubezpieczyciela. Poprosiłem, żeby pokazał oryginalny plik i potwierdzenie wysłania. Zamiast otworzyć telefon, schował go do kieszeni i zapytał, czy naprawdę chcemy prowadzić tę rozmowę przy osobie obcej naszej rodzinie.\n\nNapisz « POLISA WARSZTATU » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_17",
+        "index": 18,
+        "selected": true,
+        "templateId": "anh-kinh-tron-khung",
+        "paletteIndex": 0,
+        "avatarId": "av_1792739451809_9qcs",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_5f59e13c-41e7-4ce6-8725-683bb62eaa65.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 19,
+      "id": "item_batch_1792904295281_19",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_019.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_019.txt",
+      "story": {
+        "content": "Po odejściu męża jego rodzice zażądali, żebym oddała im wszystko, bo nasze małżeństwo trwało zbyt krótko.\n«Byłaś tu tylko dwa lata», powiedziała teściowa, podsuwając mi przygotowaną kartkę i zdjęcie jego rodzinnego domu.\nPrzez ostatnie miesiące sama opłacałam rehabilitację, a teraz próbowali zabrać mi nawet osobiste rzeczy z szafy.\nZanim podjęłam decyzję o spadku, pokazałam prawniczce polisę oraz dokument wskazujący osobę uprawnioną do świadczenia.\nGdy ubezpieczyciel odpowiedział na moje zgłoszenie, teściowa zadzwoniła z numeru męża i zapytała o załącznik...",
+        "author": "Beata Jankowska",
+        "timeAgo": "20 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Pieniądze poza spadkiem",
+        "highlights": [
+          "Byłaś tu tylko dwa lata",
+          "sama opłacałam rehabilitację",
+          "pokazałam prawniczce polisę"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Mówili, że po dwóch latach małżeństwa nic mi się nie należy. Nie przeczytali polisy… 👇 #cieniespadku #polisa #spadek",
+        "comment1": "CZĘŚĆ 2:\n\nTelefon pokazał imię mojego męża. Przez sekundę nie potrafiłam odebrać. Potem usłyszałam jego matkę. Miała aparat razem z rzeczami zabranymi po wypadku. Nie pytała o moje zdrowie. Chciała wiedzieć, czy wysłałam ubezpieczycielowi wszystkie strony dokumentu, zwłaszcza ostatni załącznik zmieniający wcześniejszą dyspozycję dotyczącą świadczenia.\n\nMam na imię Beata. Mam trzydzieści siedem lat i prowadzę punkt krawiecki w Olsztynie. Z Michałem byliśmy małżeństwem dwa lata. Jego rodzice liczyli ten czas tak, jakby liczba wspólnych zim decydowała o prawie do żałoby, własnych wspomnień i kubka, z którego piliśmy rano kawę.\n\nPo wypadku przez kilka miesięcy trwało leczenie i rehabilitacja. Wydawałam oszczędności na rzeczy, których nie umiałam wcześniej nawet nazwać. Teściowa odwiedzała syna, ale rachunki uważała za sprawę żony. Gdy go zabrakło, zmieniła język: wszystko miało wrócić do rodziny, bo to ona znała go najdłużej.\n\nPrzyniosła kartkę dotyczącą rezygnacji z majątku. Nie podpisałam jej. Nie wiedziałam jeszcze, co należało do mnie niezależnie od dziedziczenia, co do Michała i jakie pozostały zobowiązania. Odmawianie pochopnego podpisu nie było zemstą. Było jedynym sposobem, żeby nie podejmować dużej decyzji pod presją w najgorszym tygodniu swojego życia.\n\nPrawniczka poprosiła o wykaz majątku, długów i dokumentów ubezpieczeniowych. Rozmawiałyśmy o możliwych skutkach przyjęcia lub odrzucenia spadku, terminach i osobach, których taka decyzja mogła dotyczyć. Nie kazała mi rezygnować z praw wyłącznie dlatego, że rodzice Michała głośniej domagali się pieniędzy przy moim kuchennym stole.\n\nMichał wskazał mnie jako uposażoną w polisie na życie. Kwota świadczenia wynosiła półtora miliona złotych, przy spełnieniu warunków umowy. Prawniczka wyjaśniła, że świadczenie należne wskazanej osobie nie jest po prostu kolejnym przedmiotem do podziału w spadku. Trzeba jednak sprawdzić dokumenty, warunki i aktualność dyspozycji, zamiast ufać rodzinnej opowieści o połowie wszystkiego.\n\nZgłosiłam roszczenie i dostarczyłam wymagane dokumenty. Nie otrzymałam pieniędzy magicznie w tej samej chwili, w której przekroczyłam próg kancelarii. Ubezpieczyciel prowadził własne postępowanie. O spadku zdecydowałam dopiero po niezależnej analizie, a oświadczenie złożyłam we właściwej formie, nie na kartce zabranej teściowej z torebki przy rodzinnej kłótni.\n\nJego rodzice uznali, że taka decyzja oznacza rezygnację ze wszystkich możliwych świadczeń związanych z mężem. Nie prostowałam tego podczas każdej rozmowy. Poprosiłam, żeby pytania kierowali na piśmie. Chciałam mieć spokój i czas na uporządkowanie spraw, które dla nich stały się nagle konkursem o pierwszeństwo do każdej szuflady i każdego numeru rachunku.\n\nKiedy nadeszła odpowiedź ubezpieczyciela, przeczytałam ją kilka razy. Właśnie wtedy zadzwoniła teściowa. Wiedziała o załączniku, którego nigdy jej nie pokazywałam. Powiedziała, że Michał zmienił uposażenie, kiedy był zdenerwowany, więc to się przecież nie powinno liczyć. Zapytałam, skąd zna treść dokumentu przechowywanego wcześniej w zamkniętej teczce w naszym mieszkaniu.\n\nZamilkła. Potem usłyszałam szelest papieru i głos teścia proszącego ją, żeby odłożyła telefon. Prawniczka siedząca naprzeciwko mnie zapisała godzinę. Poprosiła, żebym sprawdziła, czy oryginalny załącznik nadal znajduje się w mojej teczce. Otworzyłam ją i od razu zobaczyłam, że ktoś zamienił kolejność kartek, a jednej strony brakuje.\n\nNapisz « OSOBA UPRAWNIONA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_18",
+        "index": 19,
+        "selected": true,
+        "templateId": "anh-kinh-tim",
+        "paletteIndex": 0,
+        "avatarId": "av_1792739451986_67l4",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_4dead639-f077-44c3-b32c-8e6ceceeac30.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    },
+    {
+      "seq": 20,
+      "id": "item_batch_1792904295281_20",
+      "template_id": "the-vet-la-cay",
+      "status": "completed",
+      "file": "Cienie_Spadku_batch_1792904295281_020.mp4",
+      "textFile": "Cienie_Spadku_batch_1792904295281_020.txt",
+      "story": {
+        "content": "Dziadek prosił, żeby przez rok nie sprzedawać drewnianego domu, a potem wspólnie przeczytać jego drugi list.\n«Stary człowiek lubił teatr», powiedział wujek, chowając numer pośrednika pod talerzem podczas obiadu po pogrzebie.\nPrzez dwanaście miesięcy sama pilnowałam ogrzewania i dachu, podczas gdy rodzina przeliczała cenę każdego starego mebla.\nW rocznicę śmierci przyniosłam rachunki do kancelarii, gdzie czekała zapieczętowana koperta opisana drobnym pismem dziadka.\nGdy przeczytano numer księgi, wujek poprosił o przerwę, ale notariuszka miała już przed sobą kolejny dokument...",
+        "author": "Anna Czarnecka",
+        "timeAgo": "21 godz. temu",
+        "pageName": "Cienie Spadku",
+        "title": "Koperta po dwunastu miesiącach",
+        "highlights": [
+          "Stary człowiek lubił teatr",
+          "Przez dwanaście miesięcy",
+          "zapieczętowana koperta"
+        ],
+        "cta": "Czytaj dalej w komentarzach 👇",
+        "caption": "Pilnowałam domu przez rok. Wujek pilnował, żebyśmy nie zajrzeli do jednej teczki… 👇 #cieniespadku #testament #sekret",
+        "comment1": "CZĘŚĆ 2:\n\nKolejny dokument nie był nowym testamentem, który nagle pojawił się po dwunastu miesiącach i zmieniał wszystkich właścicieli. Był aktualnym odpisem księgi. Notariuszka poprosiła, żebyśmy wysłuchali listu, a potem spokojnie sprawdzili dane dotyczące obciążenia nieruchomości, którego nazwę wujek właśnie próbował zagadać kolejną prośbą o kawę.\n\nNazywam się Anna. Mam trzydzieści dwa lata i jestem konserwatorką mebli w Tarnowie. Dziadek zostawił stary drewniany dom poza miastem, pękającą szafę i zapach jabłek w spiżarni. W dzieciństwie byłam przekonana, że te jabłka nigdy się nie kończą, bo co tydzień wkładał do mojej torby następne.\n\nPo pogrzebie rodzina zaczęła rozmawiać o sprzedaży. Dziadek prosił jednak w osobnym liście, żeby przez rok nie podejmować pochopnych decyzji. To była prośba o czas i wspólną rozmowę, nie magiczny warunek powodujący utratę spadku przez każdego, kto zadzwoni do pośrednika albo zapyta o cenę domu.\n\nSpraw spadkowych nie odłożyliśmy na rok tylko dlatego, że zostawił drugą kopertę. Odpowiednie dokumenty trafiły do właściwych osób i urzędów. List na rocznicę miał charakter osobisty. Wujek doskonale to wiedział, ale opowiadał krewnym, że za dwanaście miesięcy dostaniemy jeszcze jakieś specjalne, dodatkowe pieniądze za posłuszeństwo.\n\nPrzez ten czas zajmowałam się domem. Zostawiałam rachunki za dach i ogrzewanie, przesyłałam rodzinie zdjęcia usterek. Wujek odpowiadał krótkim: zrobimy rozliczenie przy sprzedaży. Potem przestał odpisywać. Sąsiad powiedział mi, że widział go pod domem z mężczyzną, który długo fotografował fundamenty i dojazd do działki.\n\nNie uznałam tego od razu za dowód przestępstwa. Współwłaściciele i spadkobiercy mają różne prawa, a ja nie znałam treści żadnej ich rozmowy. Zaczęłam jednak sprawdzać dokumenty częściej. Kiedy wujek poprosił o oryginał dawnego aktu, zgodziłam się udostępnić kopię, ale zatrzymałam potwierdzenie przekazania i datę jego prośby.\n\nNa spotkanie rocznicowe przyjechałam z teczką rachunków i zdjęciem ostatniej naprawy schodów. Wujek od razu zapytał o cenę domu. Notariuszka otworzyła list dziadka. Pisał w nim, komu powierzył porządkowanie dokumentów i dlaczego prosił wszystkich o sprawdzanie aktualnych wpisów, zamiast ufania wyłącznie rodzinnym zapewnieniom o pustej księdze.\n\nNie zostawił automatycznej kary odbierającej komukolwiek cały udział po jednym złamanym zakazie. Zostawił opis wcześniejszej pożyczki i osobny wykaz dokumentów. Ich skutki wymagały oceny. Wujek nagle stwierdził, że list starego człowieka nie powinien psuć rodzinnych relacji, które przecież utrzymywaliśmy od tylu lat mimo wszystkich drobnych nieporozumień.\n\nW aktualnym odpisie ujawniono wpis dotyczący jego udziału. Nie oznaczało to, że bez naszej zgody skutecznie obciążył całą cudzą własność. Oznaczało natomiast, że opowieść o braku własnych zobowiązań wymagała wyjaśnienia. Poprosiliśmy o dokumenty, zamiast godzić się na natychmiastowy pośpiech i sprzedaż domu po znacznie zaniżonej cenie.\n\nWujek wyjął telefon, mówiąc, że musi zadzwonić do swojego wierzyciela. Notariuszka zatrzymała go jednym pytaniem o pełnomocnictwo dołączone do wniosku. Na kopii był także mój podpis. Tyle że w dniu, w którym rzekomo go złożyłam, naprawiałam meble w muzeum na drugim końcu kraju. Miałam zdjęcia, bilety i listę obecności.\n\nNapisz « DRUGA KOPERTA » w komentarzu, a opublikuję CZĘŚĆ 3 poniżej 👇\n👉 Przeczytaj całe zakończenie tutaj: https://thestory.danhngon.pro",
+        "id": "story_1792904224300_19",
+        "index": 20,
+        "selected": true,
+        "templateId": "anh-kinh-trang",
+        "paletteIndex": 0,
+        "avatarId": "av_1792740292071_1116",
+        "isOverridden": false,
+        "locale": "pl",
+        "avatarUrl": "/assets/avatars/pages/page_1792904020605/upload_65acb517-df53-48f2-9a92-652620d27a18.png",
+        "renderConfig": {
+          "fps": 30,
+          "volume": 0.8,
+          "muted": false,
+          "overrides": {
+            "the-vet-la-cay:xanh-la": {
+              "_colors": {
+                "c1": "#f5dbdb",
+                "c2": "#b48888",
+                "c3": "#e6e6e6",
+                "cta": "#c24705",
+                "hl": "#c3b309"
+              }
+            },
+            "the-vet-la-cay": {
+              "avatar": {
+                "fg": "#c79e9e"
+              }
+            }
+          },
+          "rendererVersion": 2,
+          "pageDisplayName": "Cienie Spadku",
+          "trackPath": "/assets/audio/scott_buckley/nhe-nhang/1858_sb_borealis.mp3"
+        }
+      }
+    }
+  ]
+}

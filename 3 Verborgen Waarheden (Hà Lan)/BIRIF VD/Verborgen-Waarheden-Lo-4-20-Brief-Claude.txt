@@ -1,0 +1,297 @@
+VERBORGEN WAARHEDEN — LÔ 4 — 20 BRIEF VIDEO
+Ngày: 27/10/2026 | Ngôn ngữ xuất bản: nl
+Page ID: 61595028012235
+
+Ưu tiên viết thử: VW01, VW02, VW03, VW04, VW05. Các brief còn lại mở rộng mô-típ và chống lặp.
+
+PROMPT GIAO CLAUDE / NGƯỜI VIẾT KỊCH BẢN — LÔ 4
+
+Đây là 20 BRIEF độc lập của một page. Viết theo đúng ID được chọn; nếu chưa chọn thì viết 5 ID đầu. Không nhập tất cả thành một truyện, không đổi thành “phần tiếp theo đã xảy ra thật” của video cũ. Đây là sáng tác hư cấu mới phát triển từ các mô-típ có hiệu suất tốt, không phải bản dịch video nguồn.
+
+Trao đổi tiếng Việt; thẻ, caption, bình luận và đoạn kết dùng ngôn ngữ của page. Nhân vật trong từng brief đã khóa tên, tuổi, nghề và quan hệ; không thêm một tỷ phú hay người thừa kế để giải cứu ở phút cuối. Hook và câu dừng là bản nháp sáng tác; được biên tập tự nhiên hơn nhưng phải giữ sự kiện và bằng chứng. Không lặp tên các nhân vật nguồn.
+
+Mỗi ID xuất:
+A. Khóa truyện bằng tiếng Việt (nhân vật, quyền đối với tiền/tài sản, thứ tự ngày tháng, nguồn vật chứng, động cơ người đối lập).
+B. 3 hook khác cách mở, chọn 1 phù hợp nhất. Sau đó THẺ REEL ngôi thứ nhất đúng 5 dòng, mỗi dòng 14–20 từ: 1 bối cảnh/hành động lạ; 2 lời xem thường hoặc yêu sách cụ thể; 3 công sức có cái giá thật; 4 hành động chủ động thu chứng cứ; 5 sự kiện ở L1, dừng trước lời giải và kết bằng ... Không nhồi cả điều luật vào thẻ.
+C. Highlights đúng 3 cụm trích nguyên văn từ thẻ: lời yêu sách, sự hy sinh, vật chứng/bước ngoặt. Cụm phải khớp chữ để tool tô màu được.
+D. Nút CTA: FR “Continuer la lecture dans les commentaires”; NL “Lees verder in de reacties”. Chỉ dùng nếu đã chuẩn bị phần tiếp.
+E. Caption dưới 150 ký tự, tính cả 3 hashtag; hashtag page là #closeddoors hoặc #verborgenwaarheden. Không hứa chuyện thật; không ép bình luận/chia sẻ để được đọc kết.
+F. COMMENT 1 bắt đầu PARTIE 2: (FR) / DEEL 2: (NL), 380–500 từ, 10–14 đoạn. Tiếp nối đúng L1; trả một câu hỏi, thêm bằng chứng, kết ở L2. Không giấu luôn mọi câu trả lời. Không dùng lặp “một phong bì thứ hai” cho cả lô.
+G. KẾT L3 nội bộ 180–250 từ bằng ngôn ngữ page, giải đầy đủ ai làm gì, tiền đi đâu, hậu quả và lựa chọn của người kể. Phần này giúp kiểm tra trước khi viết web; không có nghĩa truyện đã được đăng.
+H. Một prompt hình dọc 9:16: cảnh cụ thể, người kể, vật chứng; không minh họa đáp án cuối. Không giả huy hiệu xác minh, bài đăng người thật hoặc dấu công chứng như chứng từ xác thực.
+I. Tự kiểm logic, ngôn ngữ, mốc thời gian và độ khác với nguồn/các ID còn lại. Chưa có người bản ngữ duyệt thì phải nói rõ.
+
+DÙNG NGUỒN:
+C01–C10/V01–V10 là các video của chính page được tóm tắt trong báo cáo. E01–E03 là thảo luận web bổ sung, chỉ lấy xung đột chung, không dùng như câu chuyện đã kiểm chứng. G = hướng biên tập từ file Gemini, không phải dữ kiện về lượt xem. “Ưu tiên” là thứ tự thử nội dung, không phải lời hứa view.
+
+DÙNG PHÁP LÝ:
+Giữ quyền sở hữu, quyền ở, quyền dùng tài sản và quyền nhận tiền là bốn việc khác nhau. Vật chứng có nguồn gốc (hóa đơn do người kể giữ, email do bên nhận chuyển tiếp, hồ sơ yêu cầu đúng tư cách). Công chứng viên kiểm tra văn bản, không tuyên án/thu nhà theo yêu cầu một bên. Không mặc định một mâu thuẫn gia đình đủ hủy tặng cho. Không tự khóa thẻ người khác hay hủy hợp đồng thuê tức thì để trả thù. Tình tiết chưa được kiểm chứng phải viết theo hướng “yêu cầu rà soát/được tư vấn/đang làm thủ tục”, không nêu điều luật hay tỷ lệ phạt cụ thể.
+
+Không chẩn đoán giả bệnh từ việc đứng dậy/đi lại trên camera; không coi khó khăn nhận thức là trò lừa. Không bắt người kể ký văn bản không đọc để gài người khác. Nếu cần thời gian giải quyết, cho câu chuyện diễn ra trong nhiều tuần/tháng.
+
+KẾT NỐI WEB:
+Dùng {WEB_URL} làm chỗ giữ; chỉ gắn link thật sau khi bài có đủ lời giải. Không tự lấy link gốc nguồn gắn vào truyện mới. Không mặc định đổi sang domain cũ của skill; các video khảo sát đang dùng thestory.danhngon.pro. Từ khóa cuối brief là nhãn biên tập để quản lý, không phải lệnh buộc khán giả gõ bình luận.
+
+Đây là tài liệu brief, CHƯA phải file parser của Story Video Studio. Khi đã viết thành kịch bản, xuất đúng cấu trúc import của tool rồi mới chạy validator và render thử một video.
+
+20 BRIEF
+
+========================================================================
+L4-VW01 — De wijziging die ik nooit tekende
+NGUỒN / ƯU TIÊN: V01; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Marijke Smit, 61, nhân viên quầy tiếp nhận ở Zwolle; ex Erik muốn sửa quyền lợi cũ mà không nói với vợ.
+HOOK NHÁP (NL): Mijn ex zei dat onze afspraken niets meer waard waren. Het pensioenfonds vroeg juist naar mijn ontbrekende handtekening.
+KHUNG 5 NHỊP: 1 thư hỏi xác nhận đến địa chỉ cũ → 2 ex bảo chuyện đã xong → 3 cô từng làm bán thời gian nuôi con → 4 lấy thỏa thuận ly hôn hỏi đúng đơn vị → 5 có yêu cầu sửa chưa đủ chữ ký.
+L1 — CÂU DỪNG THẺ (NL): De aanvraag was drie maanden oud. Bij mijn naam stond een e-mailadres dat ik niet kende...
+L2 — COMMENT MỞ TIẾP: Ai nộp yêu cầu, tại sao thư phản hồi chuyển sang địa chỉ người khác?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Erik muốn cô không biết yêu cầu thay đổi đã bị treo. Cô cập nhật liên hệ trực tiếp, nhờ kiểm tra quyền theo hồ sơ và yêu cầu mọi điều chỉnh có sự đồng ý cần thiết. Không thêm người vợ thứ ba để lặp nguồn.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không hứa mọi ex đều nhận tiền suốt đời; loại quyền, điều kiện và thời điểm được kiểm tra theo quy chế thực. Không cơ quan tiết lộ thông tin riêng của người khác cho nhân vật.
+HÌNH CHỦ ĐẠO: Thư yêu cầu bổ sung và trang có ô ký trống.
+TỪ KHÓA BIÊN TẬP: MIJN HANDTEKENING
+
+========================================================================
+L4-VW02 — De rekening voor ons kind
+NGUỒN / ƯU TIÊN: V02 + G uitsluitingsclausule; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Suzanne Bakker, 41, kỹ thuật viên nha khoa ở Arnhem; chồng Niels muốn dùng di sản vợ trả nợ cửa hàng.
+HOOK NHÁP (NL): Mijn man noemde de erfenis gezinsgeld. Op zijn planning stond geen enkele uitgave voor ons gezin.
+KHUNG 5 NHỊP: 1 chồng trình bảng dùng tiền di sản → 2 bảo vợ không có quyền giữ riêng → 3 cô từng trả chi sinh hoạt → 4 đối chiếu điều khoản, tài khoản và các khoản vay → 5 tên người nhận lạ xuất hiện.
+L1 — CÂU DỪNG THẺ (NL): Onder « studiegeld » stond een rekening die niet van onze dochter was...
+L2 — COMMENT MỞ TIẾP: Vì sao khoản được gọi tiền học lại trả về chủ nợ kinh doanh của chồng?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Niels đổi nhãn chi tiêu để vợ đồng ý. Người kể kiểm tra nguồn tiền và điều khoản loại trừ áp dụng cho mình, không ký chuyển; chồng phải khai rõ nghĩa vụ. Kết là ranh giới tài chính và lựa chọn hôn nhân, không “lấy lại hết bằng một câu”.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không lặp căn hộ Nijmegen, số tiền hay cùng câu thoại người chồng trong nguồn. Điều khoản bảo vệ di sản không xóa các nghĩa vụ khác và cần hồ sơ.
+HÌNH CHỦ ĐẠO: Bảng dự chi gia đình và tên tài khoản khoanh đỏ.
+TỪ KHÓA BIÊN TẬP: HET STUDIEGELD
+
+========================================================================
+L4-VW03 — De dubbele zorgfactuur
+NGUỒN / ƯU TIÊN: V03 + G kiểm tra dòng tiền; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Ilona de Groot, 47, quản lý siêu thị ở Apeldoorn; anh Pieter giữ quyền thanh toán giúp cha.
+HOOK NHÁP (NL): Mijn broer zei dat vaders zorg duurder werd. De zorgorganisatie kende de extra facturen niet.
+KHUNG 5 NHỊP: 1 anh đề nghị mỗi người góp thêm → 2 coi em không hiểu việc chăm sóc → 3 em đã đi lại cuối tuần → 4 xin đối soát với cha và bên dịch vụ → 5 hai hóa đơn cùng số khác tài khoản.
+L1 — CÂU DỪNG THẺ (NL): De facturen hadden hetzelfde nummer. Alleen het rekeningnummer op de kopie van mijn broer was anders...
+L2 — COMMENT MỞ TIẾP: Ai sửa bản scan và khoản chênh đi đâu?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Pieter chuyển tiền “dịch vụ bổ sung” cho công ty đang trả nợ của mình. Cha còn khả năng tự quyết và đồng ý kiểm tra; việc ủy quyền được rà lại, yêu cầu giải trình/hoàn trả bằng hồ sơ. Người kể không tự truy cập ngân hàng trái quyền.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không chờ cha mất mới điều tra như nguồn; không dùng ủy quyền = tiền thuộc người đại diện. Số hóa đơn là mầm báo trước.
+HÌNH CHỦ ĐẠO: Hai hóa đơn đặt cạnh kính của cha.
+TỪ KHÓA BIÊN TẬP: HET FACTUURNUMMER
+
+========================================================================
+L4-VW04 — De bijlage bij de brief
+NGUỒN / ƯU TIÊN: V04; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Roos Willems, 36, thợ bánh ở Deventer; mẹ kế Ada muốn người con ký chấp nhận một “thỏa thuận của cha”.
+HOOK NHÁP (NL): Mijn stiefmoeder liet alleen de eerste bladzijde zien. Op de achterkant stond het woord « bijlage ».
+KHUNG 5 NHỊP: 1 mẹ kế đưa bản sao thư → 2 nói chữ cha là đủ → 3 Roos đã trả tiền dọn nhà khi cha nằm viện → 4 xin toàn bộ bản gốc → 5 trang sau dẫn tới một phụ lục.
+L1 — CÂU DỪNG THẺ (NL): De brief verwees naar een bijlage. Mijn stiefmoeder zei dat die nooit had bestaan...
+L2 — COMMENT MỞ TIẾP: Ai giữ phụ lục và nó nói khoản thanh toán nào chưa hoàn tất?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Đó là ghi chép mong muốn đi kèm danh mục nợ/đóng góp, không phải văn bản tự giải quyết quyền thừa kế. Ada bỏ trang để che khoản bà đã được thanh toán trước. Công chứng viên kiểm tra toàn bộ hồ sơ; hai bên phải sửa bản kê.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không khẳng định thư tay chắc chắn vô hiệu; không lặp “notaris nào” như nguồn. Chị xin hồ sơ thay vì tự lấy giấy người khác.
+HÌNH CHỦ ĐẠO: Bản sao lệch số trang và ghim giấy bị tháo.
+TỪ KHÓA BIÊN TẬP: DE BIJLAGE
+
+========================================================================
+L4-VW05 — De dozen uit de berging
+NGUỒN / ƯU TIÊN: V05; ưu tiên A
+NHÂN VẬT & ĐỘNG CƠ: Judith Meijer, 59, nhân viên thư viện ở Alkmaar; em Vera muốn bán tài liệu và vật dụng mẹ lưu giữ.
+HOOK NHÁP (NL): Mijn zus noemde het afval. De koper vroeg mij waarom er namen op alle dozen stonden.
+KHUNG 5 NHỊP: 1 dọn kho sau mẹ mất → 2 em gọi đồ không ai cần → 3 chị từng phân loại giúp mẹ → 4 bên thu mua hỏi tên trên thùng → 5 thấy nhiều món được ký gửi.
+L1 — CÂU DỪNG THẺ (NL): De namen op de dozen waren geen etiketten voor de erfenis. Het waren de namen van de eigenaars...
+L2 — COMMENT MỞ TIẾP: Đồ của ai, vì sao em tuyên bố đó là đồ mẹ để lại cho mình?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Mẹ từng sửa/giữ hộ đồ cho hàng xóm; Vera rao bán cả vật không thuộc di sản. Judith lấy sổ nhận đồ để đối soát với chủ thực, xử lý khoản bán sai. Em phải nhận trách nhiệm, không có món đồ bí mật biến chị thành triệu phú.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không lặp căn hộ / nhãn ảnh / đồng hồ nguồn. Hộp có tên chỉ là đầu mối, người gửi và phiếu nhận xác minh.
+HÌNH CHỦ ĐẠO: Các thùng carton có tên và sổ ký nhận.
+TỪ KHÓA BIÊN TẬP: DE EIGENAARS
+
+========================================================================
+L4-VW06 — De vrouw op de ledenlijst
+NGUỒN / ƯU TIÊN: V06 + G doanh nghiệp; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Petra van Dalen, 53, đồng mở tiệm xe đạp ở Dordrecht; chồng đã mất, đối tác cũ Karin có quyền lợi bị che giấu.
+HOOK NHÁP (NL): Bij de herdenking noemde een onbekende vrouw zichzelf zijn zakenpartner. In onze administratie stond iets anders.
+KHUNG 5 NHỊP: 1 khách lạ muốn phát biểu → 2 nói người vợ chỉ biết việc nhà → 3 vợ đã dùng tiền riêng hỗ trợ tiệm → 4 xem hồ sơ góp vốn với kế toán → 5 danh sách có khoản vay thay vì cổ phần.
+L1 — CÂU DỪNG THẺ (NL): De vrouw sprak over aandelen. Het ondertekende document vermeldde een lening met een heel andere bestemming...
+L2 — COMMENT MỞ TIẾP: Karin bị chồng lừa về vai trò hay đang cố đổi khoản vay thành sở hữu?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Chồng hứa với Karin cổ phần nhưng chưa hoàn thành thủ tục, đồng thời che chuyện với vợ. Hai người giữ quyền theo chứng từ thực và cùng kiểm tra dòng tiền. Petra không đổ lỗi cho con của Karin hay giả định tình nhân.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Thay “gia đình thứ hai” bằng quan hệ kinh doanh và hứa kép; không thêm ADN hoặc con bí mật. Cổ phần, lời hứa và vay được phân biệt.
+HÌNH CHỦ ĐẠO: Bảng tên khách và hợp đồng góp tiền.
+TỪ KHÓA BIÊN TẬP: DE LEDENLIJST
+
+========================================================================
+L4-VW07 — Het huurcontract van de kwekerij
+NGUỒN / ƯU TIÊN: V07 + C01; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Ellen Vos, 44, điều hành vườn ươm cây ăn quả gần Boskoop; anh Rob muốn bán cơ nghiệp.
+HOOK NHÁP (NL): Mijn broer wilde de kas verkopen. De grond waar hij mee adverteerde was niet eens van ons.
+KHUNG 5 NHỊP: 1 môi giới hỏi bàn giao nhà kính → 2 anh chê em chỉ tưới cây → 3 cô bỏ nhiều năm xây đơn hàng → 4 lấy giấy thuê đất và hồ sơ thiết bị → 5 tài sản rao bán bị gộp sai.
+L1 — CÂU DỪNG THẺ (NL): De makelaar had één koopprijs ontvangen. Mijn map bevatte drie verschillende eigenaars...
+L2 — COMMENT MỞ TIẾP: Anh đã gộp đất thuê, thiết bị thuê và tài sản chung vào lời chào bán thế nào?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Rob muốn tăng giá thương vụ để trả nợ. Ellen cùng các bên phân định phần có thể chuyển nhượng, bảo vệ đơn hàng và xem phương án tiếp tục. Anh không bị “mua trắng phần” chỉ nhờ một điều khoản giá rẻ bí mật.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không trang trại sữa / bỏ học thú y / định giá rẻ như lô trước. Giấy thuê từ đầu, không tự sở hữu mọi thứ vì làm lâu.
+HÌNH CHỦ ĐẠO: Bản đồ khu vườn và ba tập hồ sơ.
+TỪ KHÓA BIÊN TẬP: DRIE EIGENAARS
+
+========================================================================
+L4-VW08 — De rondleiding die ik niet had afgesproken
+NGUỒN / ƯU TIÊN: V08 + G vruchtgebruik; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Carla Jansen, 66, cựu thư ký ở Haarlem; con bạn đời Bas muốn bán nhà nhanh.
+HOOK NHÁP (NL): Een makelaar belde voor een rondleiding. De kinderen van mijn partner hadden gezegd dat ik al verhuisd was.
+KHUNG 5 NHỊP: 1 gọi đặt lịch xem → 2 Bas bảo bà chỉ còn khách tạm → 3 bà đã cùng bạn đời lập kế hoạch nơi ở → 4 đề nghị kiểm tra giấy xác lập quyền sử dụng → 5 lời quảng cáo “trống” không đúng hồ sơ.
+L1 — CÂU DỪNG THẺ (NL): In de verkooptekst stond « leeg op te leveren ». In het testament stond mijn naam bij het gebruiksrecht...
+L2 — COMMENT MỞ TIẾP: Ai cam kết nhà trống trước khi hỏi người có quyền sử dụng?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Quyền sử dụng hợp lệ của Carla được xác nhận trong cốt truyện. Bà không sở hữu toàn bộ nhưng yêu cầu dừng mô tả sai, cùng tìm giải pháp tuân thủ quyền ấy. Bà chịu trách nhiệm những khoản chi thực sự theo hồ sơ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không dùng sống chung mặc nhiên được thừa kế; usufruct không đồng nghĩa sở hữu. Không công chứng viên+cảnh sát xuất hiện sau30 phút.
+HÌNH CHỦ ĐẠO: Điện thoại lịch xem nhà và chậu cây chưa đóng gói.
+TỪ KHÓA BIÊN TẬP: HET GEBRUIKSRECHT
+
+========================================================================
+L4-VW09 — De terugbetaling van een cadeau
+NGUỒN / ƯU TIÊN: V09; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Daphne van Vliet, 38, giáo viên âm nhạc ở Gouda; bố chồng Leo đổi lời sau con trai ly hôn.
+HOOK NHÁP (NL): Mijn schoonvader eiste de verbouwing terug. Op zijn eigen overschrijvingen stond steeds hetzelfde ene woord.
+KHUNG 5 NHỊP: 1 thư yêu cầu hoàn chi sửa bếp → 2 gọi con dâu lợi dụng → 3 cô đã trả phần lớn tiền thuê → 4 đối chiếu tin nhắn và lệnh chuyển → 5 bố chồng gửi một giấy vay lập muộn.
+L1 — CÂU DỪNG THẺ (NL): Op het nieuwe document stond een datum van dit jaar. Het geld was vier jaar eerder overgemaakt...
+L2 — COMMENT MỞ TIẾP: Ai soạn giấy vay mới và tại sao số tiền gồm hạng mục chưa từng sửa?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Leo muốn con dâu chịu cả chi phí sửa nhà của con gái mình. Cô không chỉ dựa một từ “quà” mà tổng hợp trao đổi, mốc tiền và hợp đồng để nhờ tư vấn giải quyết; chồng phải thừa nhận phần khai sai.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không 100K / Amstelveen / hồ sơ thuế nguồn. Nội dung chuyển khoản là bằng chứng trong bối cảnh, không bản án.
+HÌNH CHỦ ĐẠO: Bản yêu cầu mới và ảnh căn bếp trước sửa.
+TỪ KHÓA BIÊN TẬP: VIER JAAR EERDER
+
+========================================================================
+L4-VW10 — De brief aan mijn oude adres
+NGUỒN / ƯU TIÊN: V01 + C09; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Anja Dekker, 58, nhân viên vận hành tàu điện ở Utrecht; ex Joris đang bán phần tài sản vẫn chưa quyết toán.
+HOOK NHÁP (NL): Mijn ex vroeg of ik een oude bankbrief wilde weggooien. De afzender bleek mijn eigen advocaat te hebben aangeschreven.
+KHUNG 5 NHỊP: 1 bưu kiện cũ bị trả → 2 ex nói khoản nhỏ vô nghĩa → 3 cô đã nhận phần thua thiệt khi chia tay → 4 luật sư kiểm tra điều kiện thanh toán còn thiếu → 5 tên khoản đầu tư trong phụ lục khác bản tóm tắt.
+L1 — CÂU DỪNG THẺ (NL): De samenvatting noemde één rekening. In de bijlage stonden er twee...
+L2 — COMMENT MỞ TIẾP: Tài khoản thứ hai từng thuộc phần cần quyết toán hay là khoản phát sinh sau chia tay?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Joris bỏ sót có chủ đích một khoản thuộc giai đoạn cần đối soát. Anja chỉ yêu cầu xem xét phần liên quan theo hồ sơ; cô không đòi mọi tài sản ex có sau ly hôn. Kết là một khoản được làm rõ, không chiến thắng vô hạn.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không một quỹ tiết lộ người thứ ba; không tự có quyền vào mọi tài khoản. Đối chiếu ngày tạo khoản đầu tư trước kết luận.
+HÌNH CHỦ ĐẠO: Phong bì trả về và phụ lục hai dòng.
+TỪ KHÓA BIÊN TẬP: TWEE REKENINGEN
+
+========================================================================
+L4-VW11 — De machtiging voor één rekening
+NGUỒN / ƯU TIÊN: V03 + G volmacht; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Maaike Peters, 42, chuyên viên hành chính ở Hilversum; anh Joost viện quyền đại diện để che khoản chi riêng.
+HOOK NHÁP (NL): Mijn broer gebruikte een machtiging voor de boodschappen om ook vaders spaarrekening te beheren.
+KHUNG 5 NHỊP: 1 cha nhận báo cáo lạ → 2 anh bảo mình được quyết hết → 3 em làm việc với cha để xem phạm vi quyền → 4 văn bản chỉ nêu một tài khoản → 5 lộ yêu cầu mở rộng chưa hoàn chỉnh.
+L1 — CÂU DỪNG THẺ (NL): De machtiging noemde één rekeningnummer. Op de aanvraag van mijn broer stonden er drie...
+L2 — COMMENT MỞ TIẾP: Ai cho phép thêm hai tài khoản, và có dấu hiệu cha thực sự đồng ý không?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Joost dùng bản sao không đầy đủ đề nghị phạm vi rộng hơn. Gia đình cùng cha xác minh với ngân hàng và người tư vấn, sửa quyền cần thiết và đối soát giao dịch. Cha tiếp tục quyết nếu có năng lực, không bị các con giành nhau làm chủ tiền.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không hướng dẫn cách khai thác ủy quyền; không giả bệnh hay chuyển cổ phần STAK chớp nhoáng. Nhân vật tiếp cận hồ sơ qua ngân hàng trong đúng phạm vi được phép.
+HÌNH CHỦ ĐẠO: Một giấy ủy quyền, ba mã tài khoản được che một phần.
+TỪ KHÓA BIÊN TẬP: EEN REKENING
+
+========================================================================
+L4-VW12 — De erfenis op de bouwrekening
+NGUỒN / ƯU TIÊN: V02 + G tài sản riêng; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Monique van Es, 50, y tá ở Leiden; chồng Frank muốn lấy vốn vợ mở kho.
+HOOK NHÁP (NL): Mijn man noemde de aanbouw een gezamenlijk project. Hij had mijn erfenis al in zijn bedrijfsbegroting gezet.
+KHUNG 5 NHỊP: 1 vợ nhận dự toán xây → 2 chồng bảo gia đình phải chung túi → 3 tiền từ di sản người cô là vốn tuổi già → 4 hỏi trực tiếp đơn vị thi công → 5 địa chỉ công trình khác.
+L1 — CÂU DỪNG THẺ (NL): De offerte was echt. Alleen het adres was niet dat van ons huis...
+L2 — COMMENT MỞ TIẾP: Vì sao dự toán “cơi nới nhà” thực ra cho kho của công ty?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Frank định tạo sự đồng ý bằng mô tả sai. Monique dừng khoản chưa chuyển, xác định tình trạng tiền và thỏa thuận hôn nhân trước mọi quyết định. Anh có thể đề nghị vay minh bạch nhưng không được gọi tiền cô là mặc nhiên của mình.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không mua căn hộ cho nhân tình. Không dùng điều khoản loại trừ mà bỏ qua cách tiền đã trộn; câu chuyện cho kiểm tra trước chuyển.
+HÌNH CHỦ ĐẠO: Bản vẽ nhà và báo giá có địa chỉ kho.
+TỪ KHÓA BIÊN TẬP: HET ANDERE ADRES
+
+========================================================================
+L4-VW13 — De bruiloft zonder eindafrekening
+NGUỒN / ƯU TIÊN: E01 + C02; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Gerda Bos, 60, quản lý bếp nghỉ hưu ở Breda; con gái Inge và vị hôn phu che khoản hủy dịch vụ.
+HOOK NHÁP (NL): Mijn dochter zei dat alle huwelijkskosten betaald waren. Twee leveranciers stuurden mij nog dezelfde herinnering.
+KHUNG 5 NHỊP: 1 mẹ đã hỗ trợ phần cưới → 2 con bảo đừng can thiệp → 3 nhận hai thông báo nợ → 4 xin bảng đối soát từng nhà cung cấp → 5 cùng số tiền bị đòi hai lần.
+L1 — CÂU DỪNG THẺ (NL): De ene leverancier had al geld teruggestort. In onze familieboekhouding stond nog steeds het volledige bedrag...
+L2 — COMMENT MỞ TIẾP: Ai nhận khoản hoàn nhưng vẫn ghi cha mẹ phải gánh toàn bộ?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Vị hôn phu giữ khoản hoàn cho việc riêng, Inge biết một phần nhưng ngại nói. Mẹ chỉ chốt nghĩa vụ thực của mình sau đối soát; đôi trẻ tự xử lý phần gian dối. Không lấy chuyện cưới làm quyền kiểm soát đời con.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không gắn ngoại tình bắt buộc nhưnguồn web; không mặc định hoàn tiền. Ngày hủy và điều kiện hợp đồng có thật trong cốt truyện.
+HÌNH CHỦ ĐẠO: Hai thư nhắc và một khoản hoàn cùng ngày.
+TỪ KHÓA BIÊN TẬP: DE EINDREKENING
+
+========================================================================
+L4-VW14 — De rekening voor het afscheid
+NGUỒN / ƯU TIÊN: E02 + V03; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Henk Mulder, 63, cựu kỹ thuật viên ở Amersfoort; các chị muốn lễ lớn trong khi ông đã gánh công chăm.
+HOOK NHÁP (NL): Mijn zussen kozen het afscheid voor moeder. Op de offerte stond alleen mijn naam als betaler.
+KHUNG 5 NHỊP: 1 bên dịch vụ gọi người trả → 2 chị nói em khá giả thì lo → 3 ông từng bỏ việc theo lịch chăm → 4 hỏi mẹ về lựa chọn khi bà còn quyết được → 5 phát hiện biểu mẫu mẹ tự viết.
+L1 — CÂU DỪNG THẺ (NL): Moeder had haar wensen opgeschreven. Het duurste onderdeel van de offerte stond daar niet tussen...
+L2 — COMMENT MỞ TIẾP: Gia đình đang tôn trọng mong muốn của mẹ hay dùng tên bà cho quyết định riêng?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Một chị chọn hạng mục đắt vì sợ họ hàng chê và không dám nói khó khăn tài chính. Henk yêu cầu mọi người nói thật; họ thống nhất lễ tôn trọng, chia việc và chi phí theo thỏa thuận. Kết giảm đối kháng nhưng không xóa trách nhiệm.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không số 45K / lăng nhà thờ; không dựa luật Mỹ. Không ép mẹ sắp mất phải làm người phân xử.
+HÌNH CHỦ ĐẠO: Báo giá và tờ mong muốn bằng chữ mẹ.
+TỪ KHÓA BIÊN TẬP: MOEDERS WENSEN
+
+========================================================================
+L4-VW15 — De spullen die al waren verkocht
+NGUỒN / ƯU TIÊN: V05 + C07; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Wim de Leeuw, 57, nhân viên đường sắt ở Hoorn; em Sander phụ trách thu dọn xưởng cha.
+HOOK NHÁP (NL): Mijn broer bood mij vaders gereedschap te koop aan. Een buurtgenoot had het vorige week al betaald.
+KHUNG 5 NHỊP: 1 anh muốn giữ vài món → 2 em nói phải mua lại → 3 anh từng cùng cha sửa đồ cho xóm → 4 người hàng xóm tới nhận → 5 biên nhận ngày trước tang lễ.
+L1 — CÂU DỪNG THẺ (NL): Op het bonnetje stond een datum waarop vader nog leefde. De handtekening was niet de zijne...
+L2 — COMMENT MỞ TIẾP: Đó là người phụ bán được cha đồng ý hay em tự nhận tiền, vì sao còn bán lần hai?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Sander tự thu tiền trước rồi che việc đó bằng “đã chia di sản”. Anh kiểm tra ý cha và giấy giao nhận, đối soát với người phụ trách di sản; không ai giành công cụ bằng bạo lực. Một phần được giữ làm lớp nghề theo thỏa thuận mới.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không xe / đồ cổ / quỹ từ thiện. Không mặc định mọi biên nhận sai là giả chữ ký cha; xác minh người ký và quyền.
+HÌNH CHỦ ĐẠO: Hộp dụng cụ đánh số và biên nhận.
+TỪ KHÓA BIÊN TẬP: TWEE KEER VERKOCHT
+
+========================================================================
+L4-VW16 — Het testament in de oude map
+NGUỒN / ƯU TIÊN: V04 + G testament; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Saskia Hendriks, 45, nhân viên kho ở Enschede; cha dượng Martin viện bản sao cũ để bỏ tên con mẹ.
+HOOK NHÁP (NL): Mijn stiefvader zei dat de blauwe map alles bewees. De notaris begon bij de datum op het voorblad.
+KHUNG 5 NHỊP: 1 cha dượng đưa bản sao → 2 nói mẹ bỏ tên con → 3 Saskia vẫn chi hỗ trợ mẹ nhiều năm → 4 hỏi hồ sơ hiện hành qua công chứng viên → 5 bản sao có trang dẫn chiếu văn bản khác.
+L1 — CÂU DỪNG THẺ (NL): Het was een echt document. Maar op de laatste bladzijde verwees het naar een latere akte...
+L2 — COMMENT MỞ TIẾP: Cha dượng chưa biết văn bản mới hay cố giữ bản có lợi cho mình?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Bản sao là thật nhưng chưa đủ để mô tả tình trạng hiện tại. Công chứng viên giải thích hồ sơ đã thay đổi trong phạm vi có quyền cung cấp; Martin phải bổ sung giao dịch đã bỏ sót. Saskia nhận quyền thực, không tự động hưởng toàn bộ vì chăm mẹ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không đồng hồ bí mật / hưởng toàn bộ; không chỉ đọc lời cuối rồi bỏ qua việc kiểm tra hồ sơ. Tư cách Saskia được kiểm tra.
+HÌNH CHỦ ĐẠO: Tập xanh có ngày ở bìa và dòng dẫn chiếu.
+TỪ KHÓA BIÊN TẬP: DE LATERE AKTE
+
+========================================================================
+L4-VW17 — Een huis voor de hele familie
+NGUỒN / ƯU TIÊN: E03 + V08; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Noor van den Berg, 32, thiết kế sản phẩm ở Delft; chồng sắp cưới Ruben chưa dám phản đối mẹ.
+HOOK NHÁP (NL): We mochten oma's huis goedkoop kopen. Daarna stuurde mijn schoonmoeder de reserveringen voor het komende jaar.
+KHUNG 5 NHỊP: 1 đề nghị mua nhà ưu đãi → 2 bảo người mua phải luôn mở cửa → 3 Noor tính tiền sửa và trả nợ → 4 xin điều kiện sử dụng rõ trước ký → 5 lịch người thân lấn cả phòng làm việc.
+L1 — CÂU DỪNG THẺ (NL): De verkoopbrochure noemde een werkkamer. De familiekalender noemde diezelfde kamer een logeerkamer voor mijn zwager...
+L2 — COMMENT MỞ TIẾP: Lời hứa giảm giá đi kèm quyền nào đã nói với bà chủ nhà, quyền nào mẹ chồng tự đặt?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Bà muốn có tiền chăm sóc và không hề yêu cầu nhà thành khách sạn gia đình. Noor và Ruben nói trực tiếp với bà, chọn thỏa thuận hợp lệ rõ quyền hoặc rút trước ký. Ruben phải công khai lập trường với mẹ.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không HOA / lâu đài; không bàmất hay quyềnthừa kế thầnkỳ. Không buộc bà tặng chỉ vì cặp đôi trẻ cần nhà.
+HÌNH CHỦ ĐẠO: Lịch đặt phòng gia đình và bản thiết kế bàn làm việc.
+TỪ KHÓA BIÊN TẬP: DE RESERVERINGEN
+
+========================================================================
+L4-VW18 — Het geld voor de kleindochter
+NGUỒN / ƯU TIÊN: G quỹ học tập + V02; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Wilma de Wit, 70, cựu kế toán ở Groningen; con gái Paula dùng tiền hỗ trợ cháu che nợ.
+HOOK NHÁP (NL): Mijn dochter vroeg om studiegeld voor mijn kleindochter. De opleiding stuurde een veel lagere factuur.
+KHUNG 5 NHỊP: 1 nhận đề nghị chuyển gấp → 2 bị gọi bàkeo kiệt nếu hỏi giấy → 3 bà đã để dành tuổi già → 4 cháu cùng bà hỏi hóa đơn trường → 5 khoản nộp dư chưa tới trường.
+L1 — CÂU DỪNG THẺ (NL): De school had haar betaling ontvangen. Het extra bedrag stond niet op één van hun facturen...
+L2 — COMMENT MỞ TIẾP: Phần chênh “bắt buộc” dùng cho học hay nợ cá nhân của mẹ?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Paula ghép tiền trả nợ vào yêu cầu đóng học. Bà hỗ trợ cháu theo hóa đơn rõ và bàn chuyện nợ riêng với con; cháu không phải gánh màn phanh phui trước lớp. Không bí mật có quỹ 150K cứu viện hay thẻ bị khóa ở sân bay.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không chép Bali / DUO / Schiphol / cú đổi tài khoản. Không truy cập dữ liệu sinh viên thiếu đồng ý; cháu trưởng thành cùng yêu cầu.
+HÌNH CHỦ ĐẠO: Thư nhập học và hai bảng số tiền.
+TỪ KHÓA BIÊN TẬP: DE SCHOOLFACTUUR
+
+========================================================================
+L4-VW19 — De schoonfamilie en de winkelruimte
+NGUỒN / ƯU TIÊN: C05 + G nhà hàng/tiền góp; ưu tiên B
+NHÂN VẬT & ĐỘNG CƠ: Lianne Vermeer, 48, điều hành tiệm sửa quần áo ở Maastricht; chồng Daan và chị chồng muốn xóa công sau mở cửa hàng.
+HOOK NHÁP (NL): Mijn schoonfamilie noemde mijn bijdrage een cadeau. De verhuurder vroeg waarom ik nog als contactpersoon stond geregistreerd.
+KHUNG 5 NHỊP: 1 cả họ tự chúc mừng khai trương → 2 nói vợ chỉ phụ việc → 3 cô góp vốn và đứng tên nghĩa vụ thuê → 4 liên hệ chủ nhà/kế toán xem trách nhiệm còn lại → 5 báo cáo gửi cho cô ghi lợi ích về người khác.
+L1 — CÂU DỪNG THẺ (NL): Mijn naam stond nog bij de verplichtingen. Bij de opbrengsten hadden ze hem verwijderd...
+L2 — COMMENT MỞ TIẾP: Ai đổi bản phân công lợi ích trong khi giữ tên cô chịu chi phí?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Daan muốn giữ Lianne làm người bảo đảm chi phí nhưng loại khỏi việc thu tiền. Cô nhờ rà hợp đồng, yêu cầu phân định trách nhiệm và ngừng cam kết mới; không phá cửa hàng hoặc hủy thuê tức thì chỉ vì bị hỗn.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Không 200K mua đứt tòa nhà như Gemini. Tên liên hệ không đồng nghĩa chủ sở hữu; nghĩa vụ phải xem hợp đồng.
+HÌNH CHỦ ĐẠO: Giấy khai trương và bảng trách nhiệm/lợi ích.
+TỪ KHÓA BIÊN TẬP: MIJN NAAM
+
+========================================================================
+L4-VW20 — Het gesprek zonder hem
+NGUỒN / ƯU TIÊN: V10 + G volmacht; ưu tiên thử C
+NHÂN VẬT & ĐỘNG CƠ: Ria van Dam, 68, cựu chủ cửa hàng ở Zutphen, tự kể; bạn trai Kees nói giúp bà quản lý nhưng muốn kiểm soát.
+HOOK NHÁP (NL): Mijn nieuwe vriend beantwoordde elke vraag voor mij. Bij de notaris moest hij voor het eerst buiten wachten.
+KHUNG 5 NHỊP: 1 bạn trai sắp lịch buổi ký → 2 bảo bà chỉ việc gật → 3 bà từng tự quản tiền nhưng cô đơn nên nhường dần → 4 tại buổi gặp riêng bà hỏi phạm vi quyền → 5 thấy yêu cầu khác điều anh nói.
+L1 — CÂU DỪNG THẺ (NL): Ik dacht dat het om mijn post ging. In de aanvraag stond ook het beheer van mijn vermogen...
+L2 — COMMENT MỞ TIẾP: Kees giải thích sai vì thiếu hiểu biết hay đang muốn rút tiền hộ bà?
+L3 — SỰ THẬT / KẾT ĐÃ KHÓA: Ria yêu cầu chưa ký, chọn hỗ trợ hạn chế và người dự phòng độc lập. Kees thừa nhận muốn dùng khoản tiền bà chưa đồng ý; bà tự kết thúc hoặc đặt giới hạn quan hệ. Các con giúp theo ý bà, không giành quyền thay ông.
+RÀNG BUỘC LOGIC / ĐIỂM KHÁC NGUỒN: Giữ người cao tuổi làm người kể chủ động. Không kết luận lừa đảo chỉ vì quen online/tuổi; không thay bà tuyên bố mất năng lực. Đây là thử mới vì nguồn V10 có lượt xem thấp hơn.
+HÌNH CHỦ ĐẠO: Cốc nước trong phòng gặp riêng và bản đề nghị có gạch chân.
+TỪ KHÓA BIÊN TẬP: MIJN EIGEN ANTWOORD
