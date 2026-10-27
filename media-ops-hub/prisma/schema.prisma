@@ -1,0 +1,61 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// 1. Quản lý Fanpage
+model Fanpage {
+  id          String   @id @default(uuid())
+  name        String   // Tên page: Masques Tombés, Verborgen Waarheden...
+  code        String   @unique // Mã định danh: fr_masques, nl_verborgen...
+  country     String   // "FR" hoặc "NL"
+  timezone    String   @default("Europe/Paris")
+  fbPageId    String?  // ID page thật trên Facebook
+  viaName     String?  // Tên Via đang cầm page
+  status      String   @default("ACTIVE") // ACTIVE, DIE, RESTRICTED
+  posts       Post[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// 2. Quản lý Bài đăng Reels
+model Post {
+  id            String    @id @default(uuid())
+  fanpageId     String
+  fanpage       Fanpage   @relation(fields: [fanpageId], references: [id], onDelete: Cascade)
+  title         String    // Tiêu đề truyện / tập video
+  videoPath     String    // Đường dẫn file video trên máy hoặc URL
+  caption       String    // Nội dung caption bài viết
+  commentLink   String?   // Link thestorypress.online để thả comment 1
+  scheduledAt   DateTime  // Thời gian hẹn đăng
+  publishedAt   DateTime? // Thời gian thực tế đăng xong
+  fbPostUrl     String?   // Link video Facebook sau khi đăng
+  status        String    @default("READY") // DRAFT, READY, SCHEDULED, PUBLISHED, FAILED
+  errorMessage  String?   // Ghi lại lỗi nếu fail
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+// 3. Kho Link Bài Viết Blog (thestorypress.online)
+model BlogArticle {
+  id          String   @id @default(uuid())
+  title       String
+  url         String   @unique
+  lang        String   // "fr", "nl", "en"
+  category    String?  // Romance, Mystery, Drama...
+  clickCount  Int      @default(0)
+  createdAt   DateTime @default(now())
+}
+
+// 4. Nhật Ký Lịch Sử & Lỗi (Audit Logs)
+model SystemLog {
+  id          String   @id @default(uuid())
+  level       String   // "INFO", "WARN", "ERROR"
+  module      String   // "TELEGRAM", "AUTOPOST", "CRON"
+  message     String
+  createdAt   DateTime @default(now())
+}

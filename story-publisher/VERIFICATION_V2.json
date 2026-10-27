@@ -1,0 +1,18 @@
+{
+  "testedAt": "2026-10-23T07:45:17.735Z",
+  "version": "Workspace V2",
+  "automatedTests": "9/9 PASS (real HTTP + mock Meta/Telegram)",
+  "assets": 20,
+  "captionCount": 20,
+  "commentCount": 20,
+  "telegramConfigured": true,
+  "pageCount": 0,
+  "liveFacebookTest": "Not performed: no Page token supplied",
+  "uiChecks": [
+    "dashboard with real counts",
+    "Farmhand search returns 1 of 20",
+    "select filtered result selects 1",
+    "France selects Europe/Paris"
+  ],
+  "sources": "RESEARCH_UX_V2.md"
+}

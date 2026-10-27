@@ -1,0 +1,91 @@
+{
+  "output": "/Users/tony/Downloads/View US/web-pagination/HUONG-DAN-SERIES-MUI-TEN-VA-GIONG-DOC.mp4",
+  "total": 123.36897899999998,
+  "voice": "macOS Linh vi_VN",
+  "chapters": [
+    {
+      "step": 1,
+      "start": 0,
+      "duration": 6.234921,
+      "narration": "Bước một. Vào mục Series bên trái. Bấm New series để tạo bộ truyện mới."
+    },
+    {
+      "step": 2,
+      "start": 6.234921,
+      "duration": 10.377959,
+      "narration": "Điền tên truyện, chọn ảnh bìa và viết mô tả ngắn. Lưu ý: mô tả của bộ truyện chỉ là giới thiệu, không dán toàn bộ các phần vào đây."
+    },
+    {
+      "step": 3,
+      "start": 16.61288,
+      "duration": 5.490113,
+      "narration": "Đây là tên và mô tả minh họa. Bạn thay bằng thông tin của truyện thật."
+    },
+    {
+      "step": 4,
+      "start": 22.102993,
+      "duration": 8.259501,
+      "narration": "Khi làm thật, bấm Save để lưu bộ truyện. Trong video, tôi hủy bản mẫu và dùng bộ truyện đã tạo sẵn."
+    },
+    {
+      "step": 5,
+      "start": 30.362494,
+      "duration": 9.758685,
+      "narration": "Tìm bộ truyện cần thêm phần. Tại cột thao tác, bấm biểu tượng danh sách. Trong cửa sổ vừa mở, bấm Create chapter để tạo chương."
+    },
+    {
+      "step": 6,
+      "start": 40.121179,
+      "duration": 11.773152,
+      "narration": "Dán nội dung vào ô Description. Đầu mỗi phần ghi chữ CHAPTER, số thứ tự, dấu gạch ngang, rồi tên phần. Tiếp theo là nội dung của phần đó."
+    },
+    {
+      "step": 7,
+      "start": 51.894330999999994,
+      "duration": 9.27873,
+      "narration": "Bật Keep chapter name để giữ tên chương. Bấm Analyze chapters. Kiểm tra xem hệ thống đã tách đúng số phần hay chưa."
+    },
+    {
+      "step": 8,
+      "start": 61.17306099999999,
+      "duration": 6.6720180000000004,
+      "narration": "Sửa tên từng phần ngay trong danh sách chương. Bạn có thể đặt tên theo ngôn ngữ của bài."
+    },
+    {
+      "step": 9,
+      "start": 67.84507899999998,
+      "duration": 8.847301999999999,
+      "narration": "Bấm Edit ở từng chương để kiểm tra nội dung. Đảm bảo mỗi chương chỉ chứa đúng phần của nó, không bị thiếu hay lặp."
+    },
+    {
+      "step": 10,
+      "start": 76.69238099999998,
+      "duration": 8.458005,
+      "narration": "Published nghĩa là xuất bản. Hai ô Show on home và Top news là tùy chọn hiển thị, bật hoặc tắt theo nhu cầu."
+    },
+    {
+      "step": 11,
+      "start": 85.15038599999998,
+      "duration": 11.176281000000001,
+      "narration": "Sau khi kiểm tra xong nội dung thật, bấm Save để tạo trang riêng cho từng chương. Riêng bản minh họa này, tôi bấm Cancel để không đăng thêm dữ liệu mẫu."
+    },
+    {
+      "step": 12,
+      "start": 96.32666699999999,
+      "duration": 8.183628,
+      "narration": "Đây là kết quả thật trên website. Cuối phần một có nút Next Chapter. Bấm nút này để sang phần hai."
+    },
+    {
+      "step": 13,
+      "start": 104.51029499999999,
+      "duration": 8.963537,
+      "narration": "Hệ thống đã chuyển sang chương hai, với nội dung và đường dẫn riêng. Đây không phải cách ẩn hiện các phần trên cùng một trang."
+    },
+    {
+      "step": 14,
+      "start": 113.47383199999999,
+      "duration": 9.895147,
+      "narration": "Kiểm tra nút phần trước, phần sau và danh sách chương ở bên phải. Cuối cùng, sao chép đường dẫn của chương một để gắn vào bài Facebook."
+    }
+  ]
+}

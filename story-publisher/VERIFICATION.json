@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-22T17:22:25.332Z",
+  "checks": {
+    "unitAndMockIntegration": "7/7 PASS",
+    "studioZipVideos": 20,
+    "withCaption": 20,
+    "withComment": 20,
+    "telegramTestSent": true,
+    "persistedAfterServiceRestart": true,
+    "facebookLivePost": "NOT TESTED: no Page Access Token",
+    "genloginProfileControl": "NOT IMPLEMENTED: launcher extension supplied"
+  },
+  "pendingPages": 0
+}

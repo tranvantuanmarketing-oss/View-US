@@ -1,0 +1,10 @@
+<p>[STORY_PARTS]</p>
+<h2>Deel 1: Tiêu đề phần 1 — thay bằng ngôn ngữ bài</h2>
+<p>Dán nội dung phần 1 vào đây. Mỗi đoạn văn dùng một cặp thẻ p.</p>
+<p>Đoạn tiếp theo của phần 1.</p>
+<!-- pagebreak -->
+<h2>Deel 2: Tiêu đề phần 2 — thay bằng ngôn ngữ bài</h2>
+<p>Dán nội dung phần 2 vào đây.</p>
+<!-- pagebreak -->
+<h2>Deel 3: Tiêu đề phần 3 — thay bằng ngôn ngữ bài</h2>
+<p>Dán nội dung phần 3 vào đây.</p>

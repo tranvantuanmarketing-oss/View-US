@@ -1,0 +1,1840 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vũ Trụ Ngọc Rồng - Đội AI Cày View US (Anime Cel-Shaded 3D)</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Montserrat:wght@400;600;700;900&display=swap');
+
+*{margin:0;padding:0;box-sizing:border-box}
+body{overflow:hidden;background:#120726;font-family:'Montserrat',sans-serif;color:#fff;user-select:none}
+canvas{display:block;width:100vw;height:100vh}
+
+/* === UI OVERLAY === */
+#ui-overlay{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:10}
+#ui-overlay *{pointer-events:auto}
+
+/* Title Area */
+#title-area{position:absolute;top:20px;left:24px;pointer-events:none}
+#title-area h1{
+  font-family:'Bangers',cursive,sans-serif;
+  font-size:36px;
+  letter-spacing:2px;
+  background:linear-gradient(180deg,#fff95b 0%,#ff9800 50%,#e64a19 100%);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  filter:drop-shadow(2px 3px 0px #000);
+}
+#title-area .sub{
+  font-size:13px;
+  font-weight:700;
+  color:#ffd54f;
+  text-shadow:1px 1px 2px #000;
+  display:flex;
+  align-items:center;
+  gap:6px;
+  margin-top:2px;
+}
+#title-area .clock{
+  font-size:12px;
+  color:#e0e0e0;
+  margin-top:4px;
+  font-family:monospace;
+  text-shadow:1px 1px 2px #000;
+}
+
+/* Top Buttons */
+#top-bar{position:absolute;top:20px;right:24px;display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.btn{
+  font-family:'Montserrat',sans-serif;
+  padding:8px 16px;
+  border:2px solid #222;
+  border-radius:12px;
+  background:#231a38;
+  color:#fff;
+  font-size:12px;
+  font-weight:700;
+  cursor:pointer;
+  box-shadow:3px 3px 0px #000;
+  transition:all .15s ease;
+  display:flex;
+  align-items:center;
+  gap:6px;
+}
+.btn:hover{
+  background:#ff9800;
+  color:#111;
+  transform:translate(-2px,-2px);
+  box-shadow:5px 5px 0px #000;
+}
+.btn:active{
+  transform:translate(1px,1px);
+  box-shadow:2px 2px 0px #000;
+}
+.btn.danger{
+  background:#e74c3c;
+  color:#fff;
+  position:relative;
+}
+.btn.danger .badge{
+  position:absolute;
+  top:-8px;
+  right:-8px;
+  background:#f1c40f;
+  color:#111;
+  font-size:11px;
+  width:20px;
+  height:20px;
+  border-radius:50%;
+  border:2px solid #000;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight:900;
+  box-shadow:1px 1px 0px #000;
+}
+
+/* Bottom Status Bar */
+#bottom-bar{
+  position:absolute;
+  bottom:0;
+  left:0;
+  width:100%;
+  display:flex;
+  overflow-x:auto;
+  background:rgba(18,7,38,0.92);
+  border-top:3px solid #ff9800;
+  backdrop-filter:blur(10px);
+}
+.dept-card{
+  flex:1;
+  min-width:160px;
+  padding:12px 14px;
+  cursor:pointer;
+  border-right:1px solid rgba(255,255,255,.08);
+  transition:all .2s;
+  position:relative;
+}
+.dept-card:hover{
+  background:rgba(255,152,0,.15);
+}
+.dept-card .name{
+  font-size:12px;
+  font-weight:800;
+  color:#ffe082;
+  margin-bottom:3px;
+  display:flex;
+  align-items:center;
+  gap:6px;
+}
+.dept-card .schedule{font-size:11px;color:#bbb;font-weight:600}
+.dept-card .status-dot{
+  width:9px;
+  height:9px;
+  border-radius:50%;
+  display:inline-block;
+  flex-shrink:0;
+  border:1.5px solid #000;
+}
+.dot-working{background:#2ecc71;box-shadow:0 0 8px #2ecc71}
+.dot-waiting{background:#f39c12;box-shadow:0 0 8px #f39c12}
+.dot-eating{background:#3498db;box-shadow:0 0 8px #3498db}
+.dot-meeting{background:#9b59b6;box-shadow:0 0 8px #9b59b6}
+
+/* MANGA SPEECH BUBBLES */
+.manga-bubble{
+  position:absolute;
+  background:#ffffff;
+  border:3px solid #111111;
+  border-radius:14px;
+  padding:10px 14px;
+  font-size:12px;
+  font-weight:800;
+  color:#111111;
+  max-width:240px;
+  line-height:1.4;
+  pointer-events:none;
+  transform:translate(-50%,-100%);
+  box-shadow:4px 4px 0px rgba(0,0,0,0.8);
+  z-index:60;
+  transition:opacity .2s ease;
+}
+.manga-bubble::after{
+  content:'';
+  position:absolute;
+  bottom:-12px;
+  left:50%;
+  transform:translateX(-50%);
+  border-left:8px solid transparent;
+  border-right:8px solid transparent;
+  border-top:12px solid #111111;
+}
+.manga-bubble::before{
+  content:'';
+  position:absolute;
+  bottom:-7px;
+  left:50%;
+  transform:translateX(-50%);
+  border-left:6px solid transparent;
+  border-right:6px solid transparent;
+  border-top:9px solid #ffffff;
+  z-index:1;
+}
+.manga-bubble .char-tag{
+  font-family:'Bangers',cursive;
+  font-size:14px;
+  letter-spacing:0.5px;
+  color:#d35400;
+  margin-bottom:2px;
+}
+
+/* POPUPS */
+.popup-overlay{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:rgba(0,0,0,.65);
+  display:none;
+  align-items:center;
+  justify-content:center;
+  z-index:100;
+  backdrop-filter:blur(6px);
+}
+.popup-overlay.active{display:flex}
+.popup{
+  background:#231a38;
+  border:3px solid #ff9800;
+  border-radius:20px;
+  padding:24px;
+  width:540px;
+  max-width:92vw;
+  max-height:82vh;
+  overflow-y:auto;
+  box-shadow:8px 8px 0px #000;
+}
+.popup h2{
+  font-family:'Bangers',cursive;
+  font-size:24px;
+  letter-spacing:1px;
+  color:#ffc107;
+  margin-bottom:16px;
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.popup .close-btn{
+  margin-left:auto;
+  background:none;
+  border:none;
+  color:#bbb;
+  font-size:22px;
+  font-weight:900;
+  cursor:pointer;
+}
+.popup .close-btn:hover{color:#ff5252}
+.queue-item{
+  background:#2d2347;
+  border:2px solid #3c305c;
+  border-radius:12px;
+  padding:14px;
+  margin-bottom:12px;
+  transition:all .2s;
+}
+.queue-item:hover{border-color:#ff9800}
+.queue-item .qi-title{font-size:14px;font-weight:700;color:#fff}
+.queue-item .qi-desc{font-size:12px;color:#bbb;margin:6px 0 10px;line-height:1.4}
+.queue-item .qi-actions{display:flex;gap:8px}
+.qi-btn{
+  padding:6px 14px;
+  border-radius:8px;
+  border:2px solid #000;
+  font-size:12px;
+  font-weight:800;
+  cursor:pointer;
+  box-shadow:2px 2px 0px #000;
+  transition:all .15s;
+}
+.qi-btn.approve{background:#f39c12;color:#111}
+.qi-btn.approve:hover{background:#ffb74d;transform:scale(1.04)}
+.qi-btn.view{background:#4a3b6d;color:#fff}
+.qi-btn.view:hover{background:#5d4b88}
+
+/* Log & DJ items */
+.log-entry{padding:8px 0;border-bottom:1px solid rgba(255,255,255,.08);font-size:12px;color:#ddd;line-height:1.4}
+.log-entry .log-time{color:#ffb74d;font-family:monospace;font-weight:700;margin-right:8px}
+.track-item{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:12px;
+  border-radius:10px;
+  background:#2d2347;
+  border:2px solid #3c305c;
+  margin-bottom:8px;
+  cursor:pointer;
+  transition:all .2s;
+}
+.track-item:hover{background:#ff9800;border-color:#000;color:#111}
+.track-item:hover .track-name, .track-item:hover .track-bpm{color:#111}
+.track-item .track-name{font-size:13px;font-weight:700;color:#fff}
+.track-item .track-bpm{font-size:12px;color:#ffd54f;font-weight:800}
+</style>
+</head>
+<body>
+
+<!-- UI OVERLAY -->
+<div id="ui-overlay">
+  <!-- Title -->
+  <div id="title-area">
+    <h1>🐉 VŨ TRỤ NGỌC RỒNG</h1>
+    <div class="sub">⚡ ĐỘI AI CÀY VIEW US 24/7 CỦA TUẤN</div>
+    <div class="clock" id="clock"></div>
+  </div>
+
+  <!-- Top Buttons -->
+  <div id="top-bar">
+    <button class="btn danger" id="btn-queue" onclick="togglePopup('queue-popup')">
+      📋 Chờ duyệt <span class="badge" id="queue-count">3</span>
+    </button>
+    <button class="btn" id="btn-meeting" onclick="triggerMeeting()">⛩ Họp Chánh Điện</button>
+    <button class="btn" onclick="togglePopup('log-popup')">📜 Nhật ký</button>
+    <button class="btn" onclick="togglePopup('dj-popup')">🎵 DJ Đại Hội</button>
+    <button class="btn" onclick="cycleTime()">⏩ Tua giờ</button>
+    <button class="btn" id="btn-bubbles" onclick="toggleBubbles()">💬 Ẩn thoại</button>
+  </div>
+
+  <!-- Bottom Status Bar -->
+  <div id="bottom-bar"></div>
+
+  <!-- Speech Bubbles Container -->
+  <div id="bubbles-container"></div>
+</div>
+
+<!-- POPUP: Approval Queue -->
+<div class="popup-overlay" id="queue-popup">
+  <div class="popup">
+    <h2>📋 HÀNG CHỜ PHÊ DUYỆT <button class="close-btn" onclick="togglePopup('queue-popup')">✕</button></h2>
+    <div id="queue-list"></div>
+  </div>
+</div>
+
+<!-- POPUP: Log -->
+<div class="popup-overlay" id="log-popup">
+  <div class="popup">
+    <h2>📜 NHẬT KÝ HOẠT ĐỘNG AI <button class="close-btn" onclick="togglePopup('log-popup')">✕</button></h2>
+    <div id="log-list"></div>
+  </div>
+</div>
+
+<!-- POPUP: DJ -->
+<div class="popup-overlay" id="dj-popup">
+  <div class="popup">
+    <h2>🎵 ĐẠI HỘI VÕ THUẬT - DJ MIX <button class="close-btn" onclick="togglePopup('dj-popup')">✕</button></h2>
+    <div id="dj-list"></div>
+  </div>
+</div>
+
+<!-- Three.js CDN -->
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+  }
+}
+</script>
+
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+// ============================================================
+// CEL-SHADING GRADIENT MAP GENERATOR
+// ============================================================
+function createCelGradientTexture() {
+  const canvas = document.createElement('canvas');
+  canvas.width = 4; canvas.height = 1;
+  const ctx = canvas.getContext('2d');
+  // 3-tone stepped shading
+  ctx.fillStyle = '#6b7280'; ctx.fillRect(0, 0, 1, 1);
+  ctx.fillStyle = '#cbd5e1'; ctx.fillRect(1, 0, 1, 1);
+  ctx.fillStyle = '#ffffff'; ctx.fillRect(2, 0, 2, 1);
+  const texture = new THREE.CanvasTexture(canvas);
+  texture.minFilter = THREE.NearestFilter;
+  texture.magFilter = THREE.NearestFilter;
+  return texture;
+}
+const celGradient = createCelGradientTexture();
+
+// Helper for Anime Toon Material
+function toonMat(color, opts = {}) {
+  return new THREE.MeshToonMaterial({
+    color: color,
+    gradientMap: celGradient,
+    ...opts
+  });
+}
+
+// ============================================================
+// CONFIGURATION
+// ============================================================
+const ISLAND_RADIUS = 54;
+const BUILDING_RING = 32;
+const STATES = { WORKING:'WORKING', MEETING:'MEETING', WAITING:'WAITING_APPROVAL', EATING:'EATING' };
+
+const DEPTS = [
+  { id:'spy',    name:'Spy Trend US',     ai:'Gemini',  char:'Goku',    schedule:'06:30', angle:0,   desc:'Quét trend Reddit, TikTok US' },
+  { id:'script', name:'Biên Kịch US',     ai:'Claude',  char:'Gohan',   schedule:'07:00', angle:60,  desc:'Viết kịch bản Drama chuẩn Mỹ' },
+  { id:'design', name:'Tạo Ảnh & TK',     ai:'ChatGPT', char:'Bulma',   schedule:'07:30', angle:120, desc:'Tạo ảnh AI, Card Tweet, Thumb' },
+  { id:'render', name:'Render & Dựng Clip',ai:'Runway', char:'Vegeta',  schedule:'08:00', angle:180, desc:'Ghép voice US, render clip' },
+  { id:'policy', name:'Pháp Chế & Policy',ai:'Piccolo', char:'Piccolo', schedule:'08:15', angle:240, desc:'Kiểm duyệt TikTok/FB/AdSense' },
+  { id:'stats',  name:'Đo Số Liệu',       ai:'Krillin', char:'Krillin', schedule:'21:30', angle:300, desc:'Đo View US, Retention, CTR' },
+];
+
+const MEETING_LINES = [
+  { dept:'spy',    line:'🔥 Phát hiện 3 chủ đề Drama gia đình trên Reddit US đang tăng +420% tương tác!' },
+  { dept:'script', line:'✍️ Đã lên xong 5 kịch bản Hook 3s đầu cực gắt và Twist sốc ở Comment 1.' },
+  { dept:'design', line:'🎨 Bộ 10 ảnh Card Tweet 9:16 đồng nhất nhân vật kiểu điện ảnh 8K đã sẵn sàng!' },
+  { dept:'render', line:'⚡ 8 clip đã render xong, voice US giọng nam trầm ấm giữ chân 75% người xem!' },
+  { dept:'policy', line:'🛡️ Phản biện: Kịch bản 2 có từ nhạy cảm dễ ăn gậy TikTok US, yêu cầu đổi sang ẩn dụ!' },
+  { dept:'stats',  line:'📊 Phản biện: Kịch bản hôm qua tụt view ở giây thứ 4, đề xuất rút ngắn câu mở đầu dưới 12 từ!' },
+];
+
+const EATING_LINES = [
+  '🍜 Xong kịch bản rồi! Làm liền 10 bát mì Ramen thôi anh em!',
+  '🍗 Đã render xong, đi chén đùi khủng long nướng đây!',
+  '💪 Ăn Đậu Thần Senzu hồi phục 100% sinh lực làm việc!',
+  '🔥 View US vượt 9000 rồi! Party quầy mì Ramen thôi!',
+  '✨ Đã vẽ xong 10 ảnh, đi ăn kem cùng Bulma đây!',
+  '🧘 Piccolo chỉ uống nước suối tinh khiết tĩnh tâm thôi...',
+];
+
+let approvalQueue = [
+  { id:1, dept:'script', title:'Phòng Biên Kịch (Claude): 5 kịch bản Drama US hôm nay', detail:'Hook: "Tôi phát hiện di chúc bí mật 2 triệu đô trong két sắt cũ của cha..." | Twist Comment 1: "Nhưng người ký lại là mẹ kế chứ không phải cha."' },
+  { id:2, dept:'design', title:'Phòng Tạo Ảnh (ChatGPT): Bộ 10 ảnh Card & Thumbnail 9:16', detail:'10 ảnh chân thực phong cách điện ảnh châu Âu: Biệt thự cổ, con dấu sáp đỏ, gương mặt dằn vặt của người thừa kế.' },
+  { id:3, dept:'spy',    title:'Phòng Spy (Gemini): Báo cáo 10 chủ đề Viral US', detail:'Top trending: #InheritanceFeud (+420%), #SecretWill (+380%), #DarkHeritage (+290%). Đề xuất tập trung kịch bản thừa kế.' },
+];
+
+let activityLog = [
+  { time:'06:30', text:'[Gemini/Goku] Bắt đầu quét radar trend Reddit & TikTok US...' },
+  { time:'06:45', text:'[Gemini/Goku] Phát hiện 3 góc drama gia đình đang tăng trưởng nóng.' },
+  { time:'07:00', text:'[Claude/Gohan] Bắt đầu sáng tác 5 kịch bản nhịp độ nhanh chuẩn Mỹ.' },
+  { time:'07:30', text:'[ChatGPT/Bulma] Khởi động động cơ tạo ảnh Card Tweet & Thumbnail 9:16.' },
+  { time:'08:00', text:'[Runway/Vegeta] Tiến hành lồng tiếng giọng AI native và ghép clip.' },
+  { time:'08:15', text:'[Piccolo] Rà soát policy: Loại bỏ 2 từ khóa nhạy cảm trên TikTok US.' },
+];
+
+const djTracks = [
+  { name:'Cha-La Head-Cha-La (Festival EDM Remix)', bpm:145 },
+  { name:'Dragon Ball Super - Ultimate Battle (Synthwave)', bpm:155 },
+  { name:'Dan Dan Kokoro Hikareteku (Anime Lo-Fi)', bpm:88 },
+  { name:'Vegeta Super Saiyan Theme (Hardstyle)', bpm:150 },
+  { name:'Makafushigi Adventure (Drum & Bass)', bpm:172 },
+];
+
+// ============================================================
+// THREE.JS SETUP
+// ============================================================
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x1a0933);
+const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.1, 800);
+camera.position.set(65, 42, 65);
+
+const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference:'high-performance' });
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.05;
+document.body.appendChild(renderer.domElement);
+
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
+controls.dampingFactor = 0.08;
+controls.maxPolarAngle = Math.PI / 2.1;
+controls.minDistance = 15;
+controls.maxDistance = 140;
+controls.target.set(0, 4, 0);
+
+// ============================================================
+// LIGHTING (Soft Warm Twilight Anime Lighting)
+// ============================================================
+const ambientLight = new THREE.AmbientLight(0xdcd6f7, 0.65);
+scene.add(ambientLight);
+
+const sunLight = new THREE.DirectionalLight(0xffecd2, 1.35);
+sunLight.position.set(45, 65, 35);
+sunLight.castShadow = true;
+sunLight.shadow.mapSize.set(2048, 2048);
+sunLight.shadow.camera.left = -60;
+sunLight.shadow.camera.right = 60;
+sunLight.shadow.camera.top = 60;
+sunLight.shadow.camera.bottom = -60;
+sunLight.shadow.bias = -0.0005;
+scene.add(sunLight);
+
+// Purple-amber cosmic rim light
+const rimLight = new THREE.DirectionalLight(0xff7043, 0.6);
+rimLight.position.set(-45, 30, -45);
+scene.add(rimLight);
+
+const hemiLight = new THREE.HemisphereLight(0xffa726, 0x3f51b5, 0.35);
+scene.add(hemiLight);
+
+// ============================================================
+// SKY DOME (Cosmic Sunset Gradient: #1a0933 -> #ff7e47)
+// ============================================================
+function createCosmicSky() {
+  const canvas = document.createElement('canvas');
+  canvas.width = 512; canvas.height = 512;
+  const ctx = canvas.getContext('2d');
+  const grad = ctx.createLinearGradient(0, 0, 0, 512);
+  grad.addColorStop(0, '#100524');    // Deep cosmic violet
+  grad.addColorStop(0.3, '#1a0933');  // Twilight purple
+  grad.addColorStop(0.55, '#4a154b'); // Magenta nebula
+  grad.addColorStop(0.75, '#c0392b'); // Crimson horizon
+  grad.addColorStop(0.9, '#e67e22');  // Golden orange
+  grad.addColorStop(1.0, '#ffaa44');  // Warm horizon light
+  ctx.fillStyle = grad;
+  ctx.fillRect(0, 0, 512, 512);
+
+  // Soft anime stars
+  for (let i = 0; i < 280; i++) {
+    const x = Math.random() * 512;
+    const y = Math.random() * 280;
+    const radius = Math.random() * 1.5;
+    ctx.fillStyle = `rgba(255, 255, 255, ${Math.random() * 0.8 + 0.2})`;
+    ctx.beginPath();
+    ctx.arc(x, y, radius, 0, Math.PI * 2);
+    ctx.fill();
+  }
+
+  const texture = new THREE.CanvasTexture(canvas);
+  const skyGeo = new THREE.SphereGeometry(300, 32, 32);
+  const skyMat = new THREE.MeshBasicMaterial({ map: texture, side: THREE.BackSide });
+  scene.add(new THREE.Mesh(skyGeo, skyMat));
+}
+createCosmicSky();
+
+// ============================================================
+// ISLAND BASE (Pastel Grass #58a356 + Sandstone Walkways)
+// ============================================================
+function createFloatingIsland() {
+  const g = new THREE.Group();
+
+  // Grass surface
+  const grass = new THREE.Mesh(
+    new THREE.CylinderGeometry(ISLAND_RADIUS, ISLAND_RADIUS - 1.5, 2.5, 48),
+    toonMat(0x58a356)
+  );
+  grass.position.y = 0;
+  grass.receiveShadow = true;
+  g.add(grass);
+
+  // Sand / Shore edge ring
+  const sandRing = new THREE.Mesh(
+    new THREE.TorusGeometry(ISLAND_RADIUS - 0.5, 1.2, 8, 48),
+    toonMat(0xf0d999)
+  );
+  sandRing.rotation.x = Math.PI / 2;
+  sandRing.position.y = 1.2;
+  g.add(sandRing);
+
+  // Floating rock underbelly
+  const rock = new THREE.Mesh(
+    new THREE.CylinderGeometry(ISLAND_RADIUS - 1.5, ISLAND_RADIUS * 0.35, 14, 32),
+    toonMat(0x6d4c41)
+  );
+  rock.position.y = -8;
+  g.add(rock);
+
+  const bottomTip = new THREE.Mesh(
+    new THREE.ConeGeometry(ISLAND_RADIUS * 0.35, 12, 16),
+    toonMat(0x4e342e)
+  );
+  bottomTip.position.y = -21;
+  bottomTip.rotation.x = Math.PI;
+  g.add(bottomTip);
+
+  // Stone walkways from center to 6 buildings (Sandstone #f5deb3)
+  for (let a = 0; a < 8; a++) {
+    const ang = (a / 8) * Math.PI * 2;
+    for (let d = 9; d < BUILDING_RING + 2; d += 2.4) {
+      const stone = new THREE.Mesh(
+        new THREE.BoxGeometry(2.0, 0.2, 1.4),
+        toonMat(0xf5deb3)
+      );
+      stone.position.set(Math.cos(ang) * d, 1.35, Math.sin(ang) * d);
+      stone.rotation.y = -ang;
+      stone.receiveShadow = true;
+      g.add(stone);
+    }
+  }
+
+  // Circular plaza around Kami's Lookout
+  const plazaRing = new THREE.Mesh(
+    new THREE.RingGeometry(8.5, 12.5, 32),
+    toonMat(0xe8d5b5)
+  );
+  plazaRing.rotation.x = -Math.PI / 2;
+  plazaRing.position.y = 1.32;
+  plazaRing.receiveShadow = true;
+  g.add(plazaRing);
+
+  scene.add(g);
+  return g;
+}
+createFloatingIsland();
+
+// ============================================================
+// FLYING NIMBUS CLOUDS (Cân Đẩu Vân - Stylized #f1c40f)
+// ============================================================
+const nimbusClouds = [];
+function createNimbusCloud(dist, height, speed, scale = 1) {
+  const g = new THREE.Group();
+  const mat = toonMat(0xf1c40f, { emissive: 0xffb300, emissiveIntensity: 0.2 });
+
+  // Main puffy body composed of intersecting smooth spheres
+  const sphereSizes = [2.2, 2.6, 2.0, 1.8, 1.5];
+  const offsets = [
+    [0, 0, 0],
+    [1.8, 0.2, 0.4],
+    [-1.6, 0.1, -0.3],
+    [2.8, -0.4, 0.8],
+    [-2.8, -0.2, 0.5]
+  ];
+  sphereSizes.forEach((r, i) => {
+    const s = new THREE.Mesh(new THREE.SphereGeometry(r, 16, 12), mat);
+    s.position.set(...offsets[i]);
+    s.scale.set(1.2, 0.75, 0.9);
+    s.castShadow = true;
+    g.add(s);
+  });
+
+  // Little swirly cloud tail
+  const tail = new THREE.Mesh(new THREE.SphereGeometry(1.0, 12, 8), mat);
+  tail.position.set(-3.8, -0.5, 0.8);
+  g.add(tail);
+
+  g.scale.setScalar(scale);
+  const angle = Math.random() * Math.PI * 2;
+  g.position.set(Math.cos(angle) * dist, height, Math.sin(angle) * dist);
+  g.userData = { angle, dist, speed, height, bobOffset: Math.random() * Math.PI };
+  scene.add(g);
+  nimbusClouds.push(g);
+  return g;
+}
+
+for (let i = 0; i < 6; i++) {
+  createNimbusCloud(42 + i * 8, 16 + Math.random() * 18, 0.08 + Math.random() * 0.08, 0.85 + Math.random() * 0.4);
+}
+
+// ============================================================
+// THẦN ĐIỆN THƯỢNG ĐẾ (KAMI'S LOOKOUT)
+// ============================================================
+function createKamiLookout() {
+  const g = new THREE.Group();
+
+  // White marble circular platform with gold rim
+  const marbleBase = new THREE.Mesh(
+    new THREE.CylinderGeometry(8.5, 9.0, 2.2, 32),
+    toonMat(0xfafafa)
+  );
+  marbleBase.position.y = 2.4;
+  marbleBase.castShadow = true;
+  marbleBase.receiveShadow = true;
+  g.add(marbleBase);
+
+  const goldRim = new THREE.Mesh(
+    new THREE.TorusGeometry(8.8, 0.35, 12, 32),
+    toonMat(0xf1c40f)
+  );
+  goldRim.rotation.x = Math.PI / 2;
+  goldRim.position.y = 3.5;
+  g.add(goldRim);
+
+  // Stepped circular entrance
+  for (let i = 0; i < 3; i++) {
+    const step = new THREE.Mesh(
+      new THREE.CylinderGeometry(10.2 + i * 0.8, 10.2 + i * 0.8, 0.35, 32),
+      toonMat(0xede7f6)
+    );
+    step.position.y = 1.3 - i * 0.35;
+    step.receiveShadow = true;
+    g.add(step);
+  }
+
+  // Ring of 8 Classic Roman White Columns
+  for (let i = 0; i < 8; i++) {
+    const a = (i / 8) * Math.PI * 2;
+    const col = new THREE.Mesh(new THREE.CylinderGeometry(0.38, 0.42, 6.2, 12), toonMat(0xffffff));
+    col.position.set(Math.cos(a) * 7.2, 6.5, Math.sin(a) * 7.2);
+    col.castShadow = true;
+    g.add(col);
+
+    // Capital & base
+    const cap = new THREE.Mesh(new THREE.BoxGeometry(1.1, 0.3, 1.1), toonMat(0xf1c40f));
+    cap.position.set(Math.cos(a) * 7.2, 9.6, Math.sin(a) * 7.2);
+    g.add(cap);
+    const base = cap.clone();
+    base.position.y = 3.6;
+    g.add(base);
+  }
+
+  // Magnificent Golden Central Dome
+  const dome = new THREE.Mesh(
+    new THREE.SphereGeometry(5.2, 24, 16, 0, Math.PI * 2, 0, Math.PI / 2),
+    toonMat(0xf39c12, { emissive: 0xd35400, emissiveIntensity: 0.15 })
+  );
+  dome.position.y = 8.8;
+  dome.castShadow = true;
+  g.add(dome);
+
+  // Golden Spire on Dome
+  const spire = new THREE.Mesh(
+    new THREE.ConeGeometry(0.65, 4.5, 8),
+    toonMat(0xf1c40f)
+  );
+  spire.position.y = 15.8;
+  spire.castShadow = true;
+  g.add(spire);
+
+  const spireGem = new THREE.Mesh(new THREE.SphereGeometry(0.55, 12, 12), toonMat(0xe74c3c, { emissive:0xff3838, emissiveIntensity:0.5 }));
+  spireGem.position.y = 18.2;
+  g.add(spireGem);
+
+  // 2 Palm Trees at front entrance
+  [-3.8, 3.8].forEach(x => {
+    const trunk = new THREE.Mesh(new THREE.CylinderGeometry(0.25, 0.35, 3.5, 8), toonMat(0x795548));
+    trunk.position.set(x, 4.8, 8.5);
+    trunk.rotation.z = (x > 0 ? -0.1 : 0.1);
+    g.add(trunk);
+
+    const pot = new THREE.Mesh(new THREE.CylinderGeometry(0.7, 0.5, 1.0, 12), toonMat(0xd35400));
+    pot.position.set(x, 3.6, 8.5);
+    g.add(pot);
+
+    for (let f = 0; f < 5; f++) {
+      const fa = (f / 5) * Math.PI * 2;
+      const frond = new THREE.Mesh(new THREE.ConeGeometry(0.6, 2.4, 4), toonMat(0x27ae60));
+      frond.position.set(x + Math.cos(fa) * 0.9, 6.6, 8.5 + Math.sin(fa) * 0.9);
+      frond.rotation.set(Math.sin(fa) * 0.9, 0, Math.cos(fa) * 0.9);
+      g.add(frond);
+    }
+  });
+
+  scene.add(g);
+  return g;
+}
+createKamiLookout();
+
+// ============================================================
+// RỒNG THẦN SHENRON (COILING TUBE BODY + 7 DRAGON BALLS)
+// ============================================================
+const dragonBalls = [];
+function createShenronAndBalls() {
+  const g = new THREE.Group();
+
+  // Create smooth spiral spine curve above temple
+  const points = [];
+  const loops = 3.2;
+  const numPoints = 80;
+  for (let i = 0; i <= numPoints; i++) {
+    const t = i / numPoints;
+    const angle = t * Math.PI * 2 * loops;
+    const r = 7.5 - t * 2.8;
+    const x = Math.cos(angle) * r;
+    const z = Math.sin(angle) * r;
+    const y = 20 + t * 14;
+    points.push(new THREE.Vector3(x, y, z));
+  }
+  const curve = new THREE.CatmullRomCurve3(points);
+
+  // Main Emerald Green Dragon Body (#235c34)
+  const tubeGeo = new THREE.TubeGeometry(curve, 90, 0.95, 12, false);
+  const dragonMat = toonMat(0x27ae60, { emissive: 0x1b5e20, emissiveIntensity: 0.25 });
+  const dragonBody = new THREE.Mesh(tubeGeo, dragonMat);
+  dragonBody.castShadow = true;
+  g.add(dragonBody);
+
+  // Yellow Belly Tube (slightly offset & scaled)
+  const bellyGeo = new THREE.TubeGeometry(curve, 90, 0.55, 8, false);
+  const bellyMat = toonMat(0xffd54f);
+  const dragonBelly = new THREE.Mesh(bellyGeo, bellyMat);
+  dragonBelly.position.y -= 0.35;
+  g.add(dragonBelly);
+
+  // Dorsal Spikes (Red fins along the back #e74c3c)
+  for (let i = 5; i < numPoints - 5; i += 3) {
+    const t = i / numPoints;
+    const pos = curve.getPointAt(t);
+    const spike = new THREE.Mesh(new THREE.ConeGeometry(0.35, 1.2, 4), toonMat(0xe74c3c));
+    spike.position.copy(pos);
+    spike.position.y += 0.9;
+    spike.rotation.y = Math.random() * Math.PI;
+    g.add(spike);
+  }
+
+  // Dragon Head
+  const headPos = curve.getPointAt(1.0);
+  const headGroup = new THREE.Group();
+  headGroup.position.copy(headPos);
+
+  const headSnout = new THREE.Mesh(new THREE.BoxGeometry(2.0, 1.4, 3.2), dragonMat);
+  headGroup.add(headSnout);
+
+  // Glowing Crimson Eyes
+  [-0.65, 0.65].forEach(x => {
+    const eye = new THREE.Mesh(
+      new THREE.SphereGeometry(0.32, 12, 12),
+      toonMat(0xff1744, { emissive: 0xff0000, emissiveIntensity: 1.0 })
+    );
+    eye.position.set(x, 0.5, 0.8);
+    headGroup.add(eye);
+  });
+
+  // Antlers / Horns (Brown #8d6e63)
+  [-0.8, 0.8].forEach(x => {
+    const horn = new THREE.Mesh(new THREE.ConeGeometry(0.3, 3.2, 6), toonMat(0x8d6e63));
+    horn.position.set(x, 1.8, -0.6);
+    horn.rotation.z = (x > 0 ? -0.4 : 0.4);
+    horn.rotation.x = -0.5;
+    headGroup.add(horn);
+  });
+
+  // Long undulating whiskers (antennas)
+  [-0.85, 0.85].forEach(x => {
+    const whiskerCurve = new THREE.QuadraticBezierCurve3(
+      new THREE.Vector3(x, -0.2, 1.5),
+      new THREE.Vector3(x * 2.2, -1.0, 3.0),
+      new THREE.Vector3(x * 1.5, -2.2, 4.5)
+    );
+    const whisker = new THREE.Mesh(new THREE.TubeGeometry(whiskerCurve, 12, 0.1, 6, false), toonMat(0x27ae60));
+    headGroup.add(whisker);
+  });
+
+  g.add(headGroup);
+  g.userData.headGroup = headGroup;
+  scene.add(g);
+
+  // 7 GLOWING DRAGON BALLS AROUND SHENRON
+  for (let i = 0; i < 7; i++) {
+    const ballGroup = new THREE.Group();
+    const a = (i / 7) * Math.PI * 2;
+    const r = 11.5;
+
+    // Golden-amber translucent glass ball
+    const ballMesh = new THREE.Mesh(
+      new THREE.SphereGeometry(1.2, 16, 16),
+      new THREE.MeshStandardMaterial({
+        color: 0xffa000,
+        emissive: 0xff6f00,
+        emissiveIntensity: 0.65,
+        roughness: 0.1,
+        metalness: 0.1,
+        transparent: true,
+        opacity: 0.88
+      })
+    );
+    ballGroup.add(ballMesh);
+
+    // Glowing point light
+    const ballLight = new THREE.PointLight(0xff9800, 0.8, 14);
+    ballGroup.add(ballLight);
+
+    // Red Stars inside (1 to 7 stars)
+    const starCount = i + 1;
+    for (let s = 0; s < starCount; s++) {
+      const sa = (s / starCount) * Math.PI * 2;
+      const sr = starCount === 1 ? 0 : 0.45;
+      const star = new THREE.Mesh(
+        new THREE.SphereGeometry(0.13, 6, 6),
+        new THREE.MeshBasicMaterial({ color: 0xd50000 })
+      );
+      star.position.set(Math.cos(sa) * sr, Math.sin(sa) * sr * 0.5, 0.6);
+      ballGroup.add(star);
+    }
+
+    ballGroup.position.set(Math.cos(a) * r, 24 + (i % 3) * 3, Math.sin(a) * r);
+    ballGroup.userData = { angle: a, radius: r, baseY: ballGroup.position.y, speed: 0.4 + i * 0.05 };
+    scene.add(ballGroup);
+    dragonBalls.push(ballGroup);
+  }
+
+  return g;
+}
+const shenron = createShenronAndBalls();
+
+// ============================================================
+// CANVASES & BILLBOARDS FOR BUILDINGS
+// ============================================================
+function drawSafeRoundedRect(ctx, x, y, width, height, radius) {
+  if (typeof ctx.roundRect === 'function') {
+    ctx.roundRect(x, y, width, height, radius);
+  } else {
+    ctx.beginPath();
+    ctx.moveTo(x + radius, y);
+    ctx.lineTo(x + width - radius, y);
+    ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
+    ctx.lineTo(x + width, y + height - radius);
+    ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+    ctx.lineTo(x + radius, y + height);
+    ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
+    ctx.lineTo(x, y + radius);
+    ctx.quadraticCurveTo(x, y, x + radius, y);
+    ctx.closePath();
+  }
+}
+
+function createBillboardText(text, sub = '', bgColor = '#231a38', textColor = '#ffd54f') {
+  const c = document.createElement('canvas');
+  c.width = 512; c.height = 128;
+  const ctx = c.getContext('2d');
+
+  // Badge background
+  ctx.fillStyle = bgColor;
+  drawSafeRoundedRect(ctx, 8, 8, 496, 112, 16);
+  ctx.fill();
+  ctx.lineWidth = 6;
+  ctx.strokeStyle = '#000000';
+  ctx.stroke();
+
+  // Text
+  ctx.fillStyle = textColor;
+  ctx.font = 'bold 36px Arial';
+  ctx.textAlign = 'center';
+  ctx.fillText(text, 256, 58);
+
+  if (sub) {
+    ctx.fillStyle = '#ffffff';
+    ctx.font = 'bold 22px Arial';
+    ctx.fillText(sub, 256, 96);
+  }
+
+  const texture = new THREE.CanvasTexture(c);
+  const mat = new THREE.SpriteMaterial({ map: texture, transparent: true });
+  const sprite = new THREE.Sprite(mat);
+  sprite.scale.set(7.5, 1.88, 1);
+  return sprite;
+}
+
+// ============================================================
+// 6 PHÒNG BAN CHUẨN THIẾT KẾ DRAGON BALL
+// ============================================================
+
+// 1. KAME HOUSE (Spy Trend US)
+function buildKameHouse(pos) {
+  const g = new THREE.Group();
+
+  // Pastel Pink Wooden Walls (#ff9ff3)
+  const walls = new THREE.Mesh(new THREE.BoxGeometry(7.2, 4.2, 6.5), toonMat(0xf8a5c2));
+  walls.position.y = 3.4;
+  walls.castShadow = true;
+  g.add(walls);
+
+  // Red Sloped Roof (#e74c3c)
+  const roof = new THREE.Mesh(new THREE.ConeGeometry(6.2, 3.6, 4), toonMat(0xe74c3c));
+  roof.position.y = 7.0;
+  roof.rotation.y = Math.PI / 4;
+  roof.castShadow = true;
+  g.add(roof);
+
+  // Chimney
+  const chimney = new THREE.Mesh(new THREE.BoxGeometry(0.8, 2.2, 0.8), toonMat(0xbdc3c7));
+  chimney.position.set(-2.0, 7.5, -1.2);
+  g.add(chimney);
+
+  // Porch & Door
+  const door = new THREE.Mesh(new THREE.BoxGeometry(1.6, 2.6, 0.2), toonMat(0x795548));
+  door.position.set(0, 2.6, 3.35);
+  g.add(door);
+
+  // Round Port Windows
+  [-2.2, 2.2].forEach(x => {
+    const win = new THREE.Mesh(new THREE.CylinderGeometry(0.7, 0.7, 0.15, 16), toonMat(0x81d4fa));
+    win.rotation.x = Math.PI / 2;
+    win.position.set(x, 3.8, 3.32);
+    g.add(win);
+  });
+
+  // "KAME HOUSE" Front Sign
+  const sign = createBillboardText('KAME HOUSE', 'Phòng Spy Trend US (Gemini)', '#e74c3c', '#ffffff');
+  sign.position.set(0, 9.8, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 2. HYPERBOLIC TIME CHAMBER (Phòng Tinh Thần & Thời Gian - Biên Kịch)
+function buildTimeChamber(pos) {
+  const g = new THREE.Group();
+
+  // White base building with curved steps
+  const base = new THREE.Mesh(new THREE.BoxGeometry(7.0, 5.0, 7.0), toonMat(0xfafafa));
+  base.position.y = 3.8;
+  base.castShadow = true;
+  g.add(base);
+
+  // 2 Iconic Golden Soaring Curved Spires
+  [-2.2, 2.2].forEach(x => {
+    const spire = new THREE.Mesh(new THREE.ConeGeometry(1.2, 4.5, 8), toonMat(0xf1c40f));
+    spire.position.set(x, 8.2, 2.4);
+    spire.castShadow = true;
+    g.add(spire);
+  });
+
+  // Giant Glowing Hourglass Floating on Top
+  const hourglassGroup = new THREE.Group();
+  hourglassGroup.position.set(0, 8.8, -0.5);
+
+  const topBulb = new THREE.Mesh(new THREE.ConeGeometry(1.5, 2.2, 8), toonMat(0xffd54f, { emissive:0xff9800, emissiveIntensity:0.5 }));
+  topBulb.rotation.x = Math.PI;
+  topBulb.position.y = 1.6;
+  hourglassGroup.add(topBulb);
+
+  const botBulb = new THREE.Mesh(new THREE.ConeGeometry(1.5, 2.2, 8), toonMat(0xffd54f, { emissive:0xff9800, emissiveIntensity:0.5 }));
+  botBulb.position.y = -0.5;
+  hourglassGroup.add(botBulb);
+
+  const hourRing = new THREE.Mesh(new THREE.TorusGeometry(1.6, 0.2, 8, 16), toonMat(0xd4ac0d));
+  hourRing.rotation.x = Math.PI / 2;
+  hourRing.position.y = 0.55;
+  hourglassGroup.add(hourRing);
+
+  g.add(hourglassGroup);
+
+  const sign = createBillboardText('PHÒNG THỜI GIAN', 'Phòng Biên Kịch US (Claude)', '#3f51b5', '#ffd54f');
+  sign.position.set(0, 12.8, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 3. CAPSULE CORP (Tạo Ảnh & Thiết Kế)
+function buildCapsuleCorp(pos) {
+  const g = new THREE.Group();
+
+  // Silver-white High-Tech Dome
+  const dome = new THREE.Mesh(
+    new THREE.SphereGeometry(5.2, 24, 16, 0, Math.PI * 2, 0, Math.PI / 2),
+    toonMat(0xecf0f1)
+  );
+  dome.position.y = 2.2;
+  dome.castShadow = true;
+  g.add(dome);
+
+  // Modern blue arch entrance
+  const arch = new THREE.Mesh(new THREE.CylinderGeometry(5.4, 5.4, 2.2, 24), toonMat(0xbdc3c7));
+  arch.position.y = 1.1;
+  g.add(arch);
+
+  const blueDoor = new THREE.Mesh(new THREE.BoxGeometry(2.8, 3.2, 0.5), toonMat(0x29b6f6));
+  blueDoor.position.set(0, 1.8, 5.1);
+  g.add(blueDoor);
+
+  // Front Circular "CAPSULE CORP" Logo
+  const sign = createBillboardText('CAPSULE CORP', 'Phòng Tạo Ảnh & Design (ChatGPT)', '#0288d1', '#ffffff');
+  sign.position.set(0, 8.8, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 4. GRAVITY ROOM (Phòng Trọng Lực - Render Clip)
+function buildGravityRoom(pos) {
+  const g = new THREE.Group();
+
+  // Futuristic Heavy Metal Spherical / Polygonal Pod
+  const pod = new THREE.Mesh(
+    new THREE.DodecahedronGeometry(4.6),
+    toonMat(0x455a64)
+  );
+  pod.position.y = 4.2;
+  pod.castShadow = true;
+  g.add(pod);
+
+  // Red Gravity Dial Window
+  const redRing = new THREE.Mesh(new THREE.TorusGeometry(1.6, 0.25, 8, 16), toonMat(0xf44336));
+  redRing.position.set(0, 4.2, 4.3);
+  g.add(redRing);
+
+  // High-gain broadcast antenna
+  const antenna = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.18, 4.5, 8), toonMat(0xb0bec5));
+  antenna.position.set(0, 9.2, 0);
+  g.add(antenna);
+
+  const beacon = new THREE.Mesh(new THREE.SphereGeometry(0.45, 12, 12), toonMat(0xff1744, { emissive:0xff0000, emissiveIntensity:0.9 }));
+  beacon.position.y = 11.5;
+  g.add(beacon);
+
+  const sign = createBillboardText('PHÒNG TRỌNG LỰC', 'Phòng Render & Dựng Clip (Runway)', '#c0392b', '#ffffff');
+  sign.position.set(0, 12.8, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 5. KING KAI'S PLANET (Hành Tinh Kaio - Pháp Chế & Policy)
+function buildKaioPlanet(pos) {
+  const g = new THREE.Group();
+
+  // Green Planet Sphere (#2ecc71)
+  const planet = new THREE.Mesh(new THREE.SphereGeometry(4.8, 24, 16), toonMat(0x43a047));
+  planet.position.y = 4.8;
+  planet.castShadow = true;
+  g.add(planet);
+
+  // Cute Little Kaio House on Top
+  const house = new THREE.Mesh(new THREE.BoxGeometry(2.4, 1.8, 2.2), toonMat(0xffecb3));
+  house.position.y = 10.4;
+  g.add(house);
+
+  const roof = new THREE.Mesh(new THREE.ConeGeometry(2.2, 1.4, 4), toonMat(0xd32f2f));
+  roof.position.y = 11.9;
+  roof.rotation.y = Math.PI / 4;
+  g.add(roof);
+
+  // Kaio's Little Tree
+  const trunk = new THREE.Mesh(new THREE.CylinderGeometry(0.2, 0.3, 1.8, 6), toonMat(0x795548));
+  trunk.position.set(2.2, 10.2, 0);
+  g.add(trunk);
+  const foliage = new THREE.Mesh(new THREE.SphereGeometry(1.2, 8, 8), toonMat(0x1b5e20));
+  foliage.position.set(2.2, 11.6, 0);
+  g.add(foliage);
+
+  const sign = createBillboardText('HÀNH TINH KAIO', 'Phòng Pháp Chế & Policy (Piccolo)', '#2e7d32', '#fff');
+  sign.position.set(0, 13.8, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 6. SCOUTER STATION (Trạm Đo Số Liệu & Traffic US)
+function buildScouterStation(pos) {
+  const g = new THREE.Group();
+
+  // Satellite Base Tower
+  const base = new THREE.Mesh(new THREE.CylinderGeometry(2.8, 3.4, 1.8, 12), toonMat(0x37474f));
+  base.position.y = 2.2;
+  g.add(base);
+
+  const tower = new THREE.Mesh(new THREE.CylinderGeometry(0.45, 0.55, 7.5, 8), toonMat(0x78909c));
+  tower.position.y = 6.2;
+  g.add(tower);
+
+  // Huge Radar Dish
+  const dish = new THREE.Mesh(
+    new THREE.SphereGeometry(3.0, 16, 12, 0, Math.PI * 2, 0, Math.PI / 3),
+    toonMat(0x00e5ff, { emissive: 0x00b0ff, emissiveIntensity: 0.35, side: THREE.DoubleSide })
+  );
+  dish.position.y = 10.5;
+  dish.rotation.x = -0.55;
+  g.add(dish);
+
+  const sign = createBillboardText('TRẠM SCOUTER', 'Phòng Đo Số Liệu US (Krillin)', '#0097a7', '#fff');
+  sign.position.set(0, 13.6, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 7. SÂN KHẤU ĐẠI HỘI VÕ THUẬT (Tenkaichi Budokai - DJ Stage)
+function buildTournamentStage(pos) {
+  const g = new THREE.Group();
+
+  // Square Grey Stone Arena with steps
+  const stage = new THREE.Mesh(new THREE.BoxGeometry(10.5, 1.4, 10.5), toonMat(0xdcdde1));
+  stage.position.y = 2.0;
+  stage.receiveShadow = true;
+  g.add(stage);
+
+  const redMat = new THREE.Mesh(new THREE.BoxGeometry(8.0, 0.2, 8.0), toonMat(0xe74c3c));
+  redMat.position.y = 2.8;
+  g.add(redMat);
+
+  // 4 Corner Dragon-carved Stone Pillars
+  [[-4.6, -4.6], [-4.6, 4.6], [4.6, -4.6], [4.6, 4.6]].forEach(([x, z]) => {
+    const pillar = new THREE.Mesh(new THREE.BoxGeometry(0.8, 3.2, 0.8), toonMat(0x718093));
+    pillar.position.set(x, 3.2, z);
+    g.add(pillar);
+
+    const orb = new THREE.Mesh(new THREE.SphereGeometry(0.5, 8, 8), toonMat(0xf1c40f));
+    orb.position.set(x, 5.0, z);
+    g.add(orb);
+  });
+
+  // DJ Console
+  const djTable = new THREE.Mesh(new THREE.BoxGeometry(3.2, 1.6, 1.4), toonMat(0x2f3640));
+  djTable.position.set(0, 3.4, 0);
+  g.add(djTable);
+
+  const sign = createBillboardText('ĐẠI HỘI VÕ THUẬT', 'Khu Vực DJ & Party', '#e67e22', '#fff');
+  sign.position.set(0, 7.8, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// 8. QUÁN MÌ RAMEN & ĐẬU THẦN (Khu Ẩm Thực)
+function buildRamenShop(pos) {
+  const g = new THREE.Group();
+
+  // Wooden Counter & Stools
+  const counter = new THREE.Mesh(new THREE.BoxGeometry(8.0, 1.8, 3.2), toonMat(0x795548));
+  counter.position.y = 2.2;
+  g.add(counter);
+
+  // Black-trimmed Red Tile Roof
+  const roof = new THREE.Mesh(new THREE.BoxGeometry(9.6, 0.45, 5.0), toonMat(0xc0392b));
+  roof.position.y = 5.6;
+  g.add(roof);
+
+  // Pillars
+  [-3.8, 3.8].forEach(x => {
+    const post = new THREE.Mesh(new THREE.CylinderGeometry(0.25, 0.25, 4.2, 8), toonMat(0x5d4037));
+    post.position.set(x, 3.7, 2.0);
+    g.add(post);
+  });
+
+  // Glowing Red Lanterns ("RAMEN" / "ĐẬU THẦN")
+  [-2.6, 2.6].forEach(x => {
+    const lantern = new THREE.Mesh(
+      new THREE.SphereGeometry(0.65, 12, 12),
+      toonMat(0xff3d00, { emissive: 0xff1744, emissiveIntensity: 0.85 })
+    );
+    lantern.position.set(x, 4.6, 2.4);
+    g.add(lantern);
+  });
+
+  // Steaming Ramen Bowls on Table
+  [-2.0, 0, 2.0].forEach(x => {
+    const bowl = new THREE.Mesh(new THREE.CylinderGeometry(0.55, 0.35, 0.45, 12), toonMat(0xfff9c4));
+    bowl.position.set(x, 3.3, 0.2);
+    g.add(bowl);
+
+    // Steam particles
+    for (let s = 0; s < 3; s++) {
+      const steam = new THREE.Mesh(new THREE.SphereGeometry(0.12, 6, 6), toonMat(0xffffff, { transparent:true, opacity:0.6 }));
+      steam.position.set(x + (Math.random()-0.5)*0.25, 3.8 + s * 0.35, 0.2);
+      g.add(steam);
+    }
+  });
+
+  const sign = createBillboardText('QUÁN MÌ & ĐẬU THẦN', 'Khu Nạp Năng Lượng AI', '#d35400', '#fff');
+  sign.position.set(0, 8.2, 0);
+  g.add(sign);
+
+  g.position.copy(pos);
+  scene.add(g);
+  return g;
+}
+
+// Build all structures
+const buildings = {};
+const builders = [buildKameHouse, buildTimeChamber, buildCapsuleCorp, buildGravityRoom, buildKaioPlanet, buildScouterStation];
+DEPTS.forEach((d, i) => {
+  const ang = (d.angle * Math.PI) / 180;
+  const p = new THREE.Vector3(Math.cos(ang) * BUILDING_RING, 0, Math.sin(ang) * BUILDING_RING);
+  buildings[d.id] = builders[i](p);
+});
+
+const ramenAngle = (270 * Math.PI) / 180;
+const ramenPos = new THREE.Vector3(Math.cos(ramenAngle) * BUILDING_RING, 0, Math.sin(ramenAngle) * BUILDING_RING);
+const ramenShop = buildRamenShop(ramenPos);
+
+const tourAngle = (315 * Math.PI) / 180;
+const tourPos = new THREE.Vector3(Math.cos(tourAngle) * BUILDING_RING, 0, Math.sin(tourAngle) * BUILDING_RING);
+const tourStage = buildTournamentStage(tourPos);
+
+// ============================================================
+// CHIBI ANIME DRAGON BALL CHARACTERS (100% DISTINCTIVE)
+// ============================================================
+function createAnimeCharacter(dept) {
+  const g = new THREE.Group();
+  const id = dept.id;
+
+  const skinTone = id === 'policy' ? 0x27ae60 : 0xffcc99; // Piccolo green, others peach
+
+  // 1. Shoes / Boots
+  const bootColor = id === 'render' ? 0xffffff : id === 'policy' ? 0x9b59b6 : 0x2c3e50;
+  [-0.32, 0.32].forEach(x => {
+    const boot = new THREE.Mesh(new THREE.BoxGeometry(0.48, 0.45, 0.7), toonMat(bootColor));
+    boot.position.set(x, 0.25, 0.1);
+    boot.castShadow = true;
+    g.add(boot);
+  });
+
+  // 2. Legs / Pants
+  const pantsColor = id === 'policy' ? 0x9b59b6 : id === 'script' ? 0x8e44ad : id === 'render' ? 0x1a237e : 0xf39c12;
+  const legHeight = id === 'stats' ? 0.9 : 1.3; // Krillin is shorter!
+  [-0.32, 0.32].forEach(x => {
+    const leg = new THREE.Mesh(new THREE.CylinderGeometry(0.28, 0.26, legHeight, 8), toonMat(pantsColor));
+    leg.position.set(x, 0.35 + legHeight / 2, 0);
+    leg.castShadow = true;
+    g.add(leg);
+  });
+
+  // 3. Torso
+  const torsoY = 0.4 + legHeight;
+  let torsoMat;
+  if (id === 'render') {
+    // Vegeta Saiyan Armor: White chestplate with yellow stomach ribs
+    torsoMat = toonMat(0xffffff);
+  } else if (id === 'design') {
+    // Bulma cute pink shirt
+    torsoMat = toonMat(0xf06292);
+  } else if (id === 'script') {
+    // Gohan purple gi
+    torsoMat = toonMat(0x8e44ad);
+  } else if (id === 'policy') {
+    // Piccolo purple gi + white cape
+    torsoMat = toonMat(0x9b59b6);
+  } else {
+    // Goku & Krillin Orange Turtle Gi
+    torsoMat = toonMat(0xf39c12);
+  }
+
+  const torso = new THREE.Mesh(new THREE.BoxGeometry(1.2, 1.4, 0.8), torsoMat);
+  torso.position.y = torsoY + 0.7;
+  torso.castShadow = true;
+  g.add(torso);
+
+  // Vegeta's yellow armor ribs
+  if (id === 'render') {
+    const ribs = new THREE.Mesh(new THREE.BoxGeometry(0.9, 0.6, 0.15), toonMat(0xf1c40f));
+    ribs.position.set(0, torsoY + 0.5, 0.42);
+    g.add(ribs);
+  }
+
+  // Goku/Gohan Obi Belt
+  const beltColor = id === 'script' ? 0xe74c3c : 0x1a237e;
+  const belt = new THREE.Mesh(new THREE.BoxGeometry(1.28, 0.25, 0.88), toonMat(beltColor));
+  belt.position.y = torsoY + 0.15;
+  g.add(belt);
+
+  // Piccolo's Wide White Cape
+  if (id === 'policy') {
+    const cape = new THREE.Mesh(new THREE.BoxGeometry(1.9, 1.8, 0.25), toonMat(0xffffff));
+    cape.position.set(0, torsoY + 0.9, -0.45);
+    g.add(cape);
+    const shoulderL = new THREE.Mesh(new THREE.BoxGeometry(0.7, 0.35, 0.8), toonMat(0xffffff));
+    shoulderL.position.set(-0.85, torsoY + 1.4, 0);
+    g.add(shoulderL);
+    const shoulderR = shoulderL.clone();
+    shoulderR.position.x = 0.85;
+    g.add(shoulderR);
+  }
+
+  // 4. Arms & Hands
+  [-0.78, 0.78].forEach(x => {
+    const arm = new THREE.Mesh(new THREE.CylinderGeometry(0.22, 0.2, 1.1, 8), toonMat(skinTone));
+    arm.position.set(x, torsoY + 0.7, 0);
+    g.add(arm);
+    // Blue wristbands for Goku & Krillin
+    if (id === 'spy' || id === 'stats') {
+      const wrist = new THREE.Mesh(new THREE.CylinderGeometry(0.24, 0.24, 0.3, 8), toonMat(0x1a237e));
+      wrist.position.set(x, torsoY + 0.35, 0);
+      g.add(wrist);
+    }
+  });
+
+  // 5. Head
+  const headY = torsoY + 1.8;
+  const head = new THREE.Mesh(new THREE.SphereGeometry(0.65, 16, 16), toonMat(skinTone));
+  head.position.y = headY;
+  head.castShadow = true;
+  g.add(head);
+
+  // Anime Eyes
+  [-0.22, 0.22].forEach(x => {
+    const eye = new THREE.Mesh(new THREE.BoxGeometry(0.14, 0.18, 0.05), new THREE.MeshBasicMaterial({ color: 0x111111 }));
+    eye.position.set(x, headY + 0.08, 0.58);
+    g.add(eye);
+  });
+
+  // 6. DISTINCTIVE HAIR & HEADPIECES
+  if (id === 'spy') {
+    // GOKU ICONIC MULTI-ANGLED BLACK SPIKES
+    const hairMat = toonMat(0x1a1a1a);
+    const spikeConfigs = [
+      [0, 0.8, -0.2, 0.3, 1.2, 0, 0, 0],
+      [-0.45, 0.6, 0.1, 0.26, 1.1, 0, 0, 0.5],
+      [0.45, 0.6, 0.1, 0.26, 1.1, 0, 0, -0.5],
+      [-0.7, 0.2, 0.2, 0.24, 0.95, 0, 0, 0.9],
+      [0.7, 0.2, 0.2, 0.24, 0.95, 0, 0, -0.9],
+      [0, 0.5, 0.45, 0.22, 0.8, 0.6, 0, 0]
+    ];
+    spikeConfigs.forEach(([px, py, pz, r, h, rx, ry, rz]) => {
+      const sp = new THREE.Mesh(new THREE.ConeGeometry(r, h, 4), hairMat);
+      sp.position.set(px, headY + py, pz);
+      sp.rotation.set(rx, ry, rz);
+      g.add(sp);
+    });
+  } else if (id === 'render') {
+    // VEGETA FLAME HAIR POINTING STRAIGHT UP
+    const hairMat = toonMat(0x111111);
+    for (let i = 0; i < 9; i++) {
+      const h = 1.3 + Math.random() * 0.5;
+      const sp = new THREE.Mesh(new THREE.ConeGeometry(0.22, h, 4), hairMat);
+      const a = (i / 9) * Math.PI * 2;
+      const rad = 0.3;
+      sp.position.set(Math.cos(a) * rad, headY + 0.85 + (i < 4 ? 0.3 : 0), Math.sin(a) * rad * 0.7);
+      sp.rotation.x = -0.2;
+      g.add(sp);
+    }
+  } else if (id === 'policy') {
+    // PICCOLO WHITE TURBAN WITH PURPLE TOP
+    const turban = new THREE.Mesh(new THREE.CylinderGeometry(0.72, 0.68, 0.55, 12), toonMat(0xffffff));
+    turban.position.y = headY + 0.55;
+    g.add(turban);
+
+    const turbanGem = new THREE.Mesh(new THREE.SphereGeometry(0.42, 8, 8), toonMat(0x8e44ad));
+    turbanGem.position.y = headY + 0.92;
+    g.add(turbanGem);
+
+    // Antennae
+    [-0.18, 0.18].forEach(x => {
+      const ant = new THREE.Mesh(new THREE.CylinderGeometry(0.04, 0.02, 0.65, 4), toonMat(0x27ae60));
+      ant.position.set(x, headY + 1.15, 0.25);
+      ant.rotation.z = (x > 0 ? -0.25 : 0.25);
+      g.add(ant);
+    });
+  } else if (id === 'script') {
+    // GOHAN FORWARD SPIKY HAIR
+    const hairMat = toonMat(0x1a1a1a);
+    for (let i = 0; i < 6; i++) {
+      const sp = new THREE.Mesh(new THREE.ConeGeometry(0.24, 0.9, 4), hairMat);
+      sp.position.set((i - 2.5) * 0.22, headY + 0.65, 0.15);
+      sp.rotation.x = 0.45;
+      g.add(sp);
+    }
+  } else if (id === 'design') {
+    // BULMA TEAL/TURQUOISE BOB HAIR
+    const hairMat = toonMat(0x1abc9c);
+    const bob = new THREE.Mesh(new THREE.SphereGeometry(0.72, 12, 12), hairMat);
+    bob.position.set(0, headY + 0.15, -0.1);
+    bob.scale.set(1.05, 0.95, 0.95);
+    g.add(bob);
+
+    const bangs = new THREE.Mesh(new THREE.BoxGeometry(0.95, 0.35, 0.25), hairMat);
+    bangs.position.set(0, headY + 0.45, 0.52);
+    g.add(bangs);
+  } else if (id === 'stats') {
+    // KRILLIN BALD HEAD WITH 6 INCENSE DOTS
+    for (let r = 0; r < 2; r++) {
+      for (let c = 0; c < 3; c++) {
+        const dot = new THREE.Mesh(new THREE.SphereGeometry(0.038, 4, 4), new THREE.MeshBasicMaterial({ color: 0x222222 }));
+        dot.position.set(-0.16 + c * 0.16, headY + 0.28 - r * 0.14, 0.6);
+        g.add(dot);
+      }
+    }
+  }
+
+  // 7. KI AURA (Ring of Super Saiyan Energy under feet)
+  const auraMat = new THREE.MeshBasicMaterial({ color: 0xffeb3b, transparent: true, opacity: 0 });
+  const aura = new THREE.Mesh(new THREE.RingGeometry(0.8, 1.8, 16), auraMat);
+  aura.rotation.x = -Math.PI / 2;
+  aura.position.y = 0.05;
+  g.add(aura);
+  g.userData.aura = aura;
+
+  // 8. Capsule (Held item during waiting state)
+  const capsule = new THREE.Mesh(new THREE.CapsuleGeometry(0.2, 0.4, 4, 8), toonMat(0xf1c40f, { emissive: 0xff9800, emissiveIntensity: 0.6 }));
+  capsule.position.set(0.8, torsoY + 0.6, 0.35);
+  capsule.visible = false;
+  g.add(capsule);
+  g.userData.capsule = capsule;
+
+  scene.add(g);
+  return g;
+}
+
+// Instantiate Characters
+const characters = {};
+DEPTS.forEach(dept => {
+  const b = buildings[dept.id];
+  const char = createAnimeCharacter(dept);
+  char.position.set(b.position.x + 3.2, 1.4, b.position.z + 3.2);
+  char.userData.dept = dept;
+  char.userData.state = STATES.WORKING;
+  char.userData.homePos = char.position.clone();
+  char.userData.targetPos = null;
+  char.userData.bobPhase = Math.random() * Math.PI * 2;
+  characters[dept.id] = char;
+});
+
+// ============================================================
+// STATE MACHINE & TRANSITIONS
+// ============================================================
+let bubblesVisible = true;
+let currentTimePhase = 'work';
+
+function setState(deptId, newState) {
+  const char = characters[deptId];
+  if (!char) return;
+  char.userData.state = newState;
+  const aura = char.userData.aura;
+  const capsule = char.userData.capsule;
+
+  switch (newState) {
+    case STATES.WORKING:
+      char.userData.targetPos = char.userData.homePos.clone();
+      aura.material.opacity = 0;
+      capsule.visible = false;
+      break;
+
+    case STATES.MEETING: {
+      const idx = DEPTS.findIndex(d => d.id === deptId);
+      const angle = (idx / 6) * Math.PI * 2;
+      char.userData.targetPos = new THREE.Vector3(Math.cos(angle) * 7.5, 1.4, Math.sin(angle) * 7.5);
+      aura.material.opacity = 0.4;
+      capsule.visible = false;
+      break;
+    }
+
+    case STATES.WAITING: {
+      const idx = DEPTS.findIndex(d => d.id === deptId);
+      char.userData.targetPos = new THREE.Vector3(-3.5 + idx * 1.4, 1.4, 11.5);
+      capsule.visible = true;
+      aura.material.opacity = 0;
+      break;
+    }
+
+    case STATES.EATING:
+      char.userData.targetPos = new THREE.Vector3(
+        ramenPos.x + (Math.random() - 0.5) * 4.5,
+        1.4,
+        ramenPos.z + 2.5 + Math.random() * 2.0
+      );
+      aura.material.opacity = 0.85; // SUPER SAIYAN GLOW!
+      capsule.visible = false;
+      addLog(`[${char.userData.dept.char}] ${EATING_LINES[Math.floor(Math.random() * EATING_LINES.length)]}`);
+      break;
+  }
+  updateBottomBar();
+}
+
+function moveChar(char, delta) {
+  if (!char.userData.targetPos) return;
+  const target = char.userData.targetPos;
+  const pos = char.position;
+  const dx = target.x - pos.x;
+  const dz = target.z - pos.z;
+  const dist = Math.sqrt(dx * dx + dz * dz);
+  if (dist > 0.15) {
+    const speed = char.userData.state === STATES.EATING ? 14 : 7;
+    const step = Math.min(speed * delta, dist);
+    pos.x += (dx / dist) * step;
+    pos.z += (dz / dist) * step;
+    char.rotation.y = Math.atan2(dx, dz);
+  }
+}
+
+// ============================================================
+// UI LOGIC & MANGA BUBBLES
+// ============================================================
+function addLog(text) {
+  const now = new Date();
+  const timeStr = now.toLocaleTimeString('vi-VN', { hour:'2-digit', minute:'2-digit' });
+  activityLog.unshift({ time: timeStr, text });
+  if (activityLog.length > 50) activityLog.pop();
+}
+
+window.togglePopup = function(id) {
+  const el = document.getElementById(id);
+  el.classList.toggle('active');
+  if (id === 'queue-popup' && el.classList.contains('active')) renderQueue();
+  if (id === 'log-popup' && el.classList.contains('active')) renderLog();
+  if (id === 'dj-popup' && el.classList.contains('active')) renderDJ();
+};
+
+window.triggerMeeting = function() {
+  addLog('⛩ [HỌP CHÁNH ĐIỆN] Rồng Thần Shenron chứng giám cuộc tranh luận AI!');
+  currentTimePhase = 'meeting';
+  DEPTS.forEach(d => setState(d.id, STATES.MEETING));
+  setTimeout(() => { showMangaMeetingDialogues(); }, 2000);
+  smoothCameraTo(new THREE.Vector3(22, 22, 22), new THREE.Vector3(0, 5, 0));
+};
+
+window.triggerRealWebhook = function(taskId, taskData) {
+  console.log('⚡ Webhook triggered:', { taskId, taskData });
+  return { status:'success', taskId, timestamp: Date.now() };
+};
+
+window.approveTask = function(taskId) {
+  const idx = approvalQueue.findIndex(q => q.id === taskId);
+  if (idx === -1) return;
+  const task = approvalQueue[idx];
+  approvalQueue.splice(idx, 1);
+  triggerRealWebhook(taskId, task);
+
+  setState(task.dept, STATES.EATING);
+  addLog(`✅ [PHÊ DUYỆT] ${task.title} → Đã duyệt! Nhân vật hoá Super Saiyan phi ra Quán Mì!`);
+  updateQueueCount();
+  renderQueue();
+};
+
+window.viewTask = function(taskId) {
+  const task = approvalQueue.find(q => q.id === taskId);
+  if (!task) return;
+  alert(`📋 NỘI DUNG CHI TIẾT:\n\n${task.title}\n\n${task.detail}`);
+};
+
+window.cycleTime = function() {
+  const phases = ['work', 'meeting', 'eating'];
+  const idx = phases.indexOf(currentTimePhase);
+  currentTimePhase = phases[(idx + 1) % phases.length];
+  if (currentTimePhase === 'work') {
+    DEPTS.forEach(d => setState(d.id, STATES.WORKING));
+    addLog('⏩ [TUA GIỜ] Chuyển ca: Đang tập trung làm việc.');
+  } else if (currentTimePhase === 'meeting') {
+    triggerMeeting();
+  } else {
+    DEPTS.forEach(d => setState(d.id, STATES.EATING));
+    addLog('⏩ [TUA GIỜ] Chuyển ca: Cả đội nghỉ ngơi ăn mì & đậu thần!');
+  }
+};
+
+window.toggleBubbles = function() {
+  bubblesVisible = !bubblesVisible;
+  document.getElementById('btn-bubbles').textContent = bubblesVisible ? '💬 Ẩn thoại' : '💬 Hiện thoại';
+  document.getElementById('bubbles-container').style.display = bubblesVisible ? 'block' : 'none';
+};
+
+function updateQueueCount() {
+  document.getElementById('queue-count').textContent = approvalQueue.length;
+}
+
+function renderQueue() {
+  const list = document.getElementById('queue-list');
+  if (approvalQueue.length === 0) {
+    list.innerHTML = '<p style="color:#bbb;text-align:center;padding:24px;font-weight:700">🎉 Đã phê duyệt hết mọi nhiệm vụ!</p>';
+    return;
+  }
+  list.innerHTML = approvalQueue.map(q => `
+    <div class="queue-item">
+      <div class="qi-title">${q.title}</div>
+      <div class="qi-desc">${q.detail}</div>
+      <div class="qi-actions">
+        <button class="qi-btn approve" onclick="approveTask(${q.id})">⚡ Duyệt Ngay</button>
+        <button class="qi-btn view" onclick="viewTask(${q.id})">👁 Chi tiết</button>
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderLog() {
+  document.getElementById('log-list').innerHTML = activityLog.map(l =>
+    `<div class="log-entry"><span class="log-time">${l.time}</span>${l.text}</div>`
+  ).join('');
+}
+
+function renderDJ() {
+  document.getElementById('dj-list').innerHTML = djTracks.map((t, i) =>
+    `<div class="track-item" onclick="alert('🎵 Đang phát: ${t.name}')">
+      <span class="track-name">${i + 1}. ${t.name}</span>
+      <span class="track-bpm">${t.bpm} BPM</span>
+    </div>`
+  ).join('');
+}
+
+function updateBottomBar() {
+  const bar = document.getElementById('bottom-bar');
+  bar.innerHTML = DEPTS.map(dept => {
+    const char = characters[dept.id];
+    const state = char ? char.userData.state : STATES.WORKING;
+    let dotClass = 'dot-working', statusText = '🟢 Đang làm';
+    if (state === STATES.WAITING) { dotClass = 'dot-waiting'; statusText = '🟠 Chờ duyệt'; }
+    if (state === STATES.EATING) { dotClass = 'dot-eating'; statusText = '🔵 Đang ăn'; }
+    if (state === STATES.MEETING) { dotClass = 'dot-meeting'; statusText = '🟣 Đang họp'; }
+    return `
+      <div class="dept-card" onclick="panToCharacter('${dept.id}')">
+        <div class="name"><span class="status-dot ${dotClass}"></span>${dept.char} (${dept.ai})</div>
+        <div class="schedule">${dept.name} · ${dept.schedule}</div>
+        <div class="schedule" style="margin-top:3px;font-weight:700">${statusText}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+window.panToCharacter = function(deptId) {
+  const char = characters[deptId];
+  if (!char) return;
+  const p = char.position;
+  smoothCameraTo(new THREE.Vector3(p.x + 10, 10, p.z + 10), new THREE.Vector3(p.x, 3, p.z));
+};
+
+// Smooth Camera Transition
+let cameraAnimating = false;
+let camStartPos, camEndPos, camStartTar, camEndTar, camProgress = 0;
+function smoothCameraTo(pos, tar) {
+  camStartPos = camera.position.clone();
+  camEndPos = pos.clone();
+  camStartTar = controls.target.clone();
+  camEndTar = tar.clone();
+  camProgress = 0;
+  cameraAnimating = true;
+}
+
+// ============================================================
+// MANGA SPEECH BUBBLES
+// ============================================================
+const activeBubbles = [];
+
+function showMangaMeetingDialogues() {
+  activeBubbles.length = 0;
+  MEETING_LINES.forEach((m, i) => {
+    setTimeout(() => {
+      if (characters[m.dept]?.userData.state !== STATES.MEETING) return;
+      const dept = DEPTS.find(d => d.id === m.dept);
+      activeBubbles.push({
+        deptId: m.dept,
+        charTag: `${dept.char.toUpperCase()} (${dept.ai})`,
+        text: m.line,
+        duration: 9000,
+        createdAt: Date.now()
+      });
+    }, i * 1800);
+  });
+}
+
+function updateBubblesOverlay() {
+  if (!bubblesVisible) return;
+  const container = document.getElementById('bubbles-container');
+  const now = Date.now();
+
+  for (let i = activeBubbles.length - 1; i >= 0; i--) {
+    if (now - activeBubbles[i].createdAt > activeBubbles[i].duration) {
+      activeBubbles.splice(i, 1);
+    }
+  }
+
+  let html = '';
+  activeBubbles.forEach(b => {
+    const char = characters[b.deptId];
+    if (!char) return;
+    const p = char.position.clone();
+    p.y += 4.5;
+    const screen = p.project(camera);
+    if (screen.z > 1) return;
+    const x = (screen.x * 0.5 + 0.5) * window.innerWidth;
+    const y = (-screen.y * 0.5 + 0.5) * window.innerHeight;
+
+    html += `
+      <div class="manga-bubble" style="left:${x}px;top:${y}px">
+        <div class="char-tag">${b.charTag}</div>
+        <div>${b.text}</div>
+      </div>
+    `;
+  });
+  container.innerHTML = html;
+}
+
+function updateClock() {
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    `⏰ ${now.toLocaleTimeString('vi-VN')} · ${now.toLocaleDateString('vi-VN', { weekday:'long', day:'numeric', month:'long' })}`;
+}
+
+// ============================================================
+// ANIMATION LOOP
+// ============================================================
+const clock = new THREE.Clock();
+
+function animate() {
+  requestAnimationFrame(animate);
+  const delta = clock.getDelta();
+  const elapsed = clock.getElapsedTime();
+
+  // 1. Dragon Balls orbit around Shenron
+  dragonBalls.forEach(db => {
+    const ud = db.userData;
+    ud.angle += ud.speed * delta;
+    db.position.x = Math.cos(ud.angle) * ud.radius;
+    db.position.z = Math.sin(ud.angle) * ud.radius;
+    db.position.y = ud.baseY + Math.sin(elapsed * 2.5 + ud.angle) * 1.6;
+    db.rotation.y += delta * 1.2;
+  });
+
+  // 2. Flying Nimbus clouds drift
+  nimbusClouds.forEach(cl => {
+    cl.userData.angle += cl.userData.speed * delta;
+    cl.position.x = Math.cos(cl.userData.angle) * cl.userData.dist;
+    cl.position.z = Math.sin(cl.userData.angle) * cl.userData.dist;
+    cl.position.y = cl.userData.height + Math.sin(elapsed * 1.5 + cl.userData.bobOffset) * 0.8;
+  });
+
+  // 3. Characters locomotion & animations
+  Object.values(characters).forEach(char => {
+    moveChar(char, delta);
+
+    char.userData.bobPhase += delta * 3.5;
+    if (char.userData.state === STATES.WORKING) {
+      char.position.y = 1.4 + Math.abs(Math.sin(char.userData.bobPhase)) * 0.25;
+    }
+
+    // Ki aura pulsation
+    const aura = char.userData.aura;
+    if (aura.material.opacity > 0) {
+      aura.rotation.z += delta * 4;
+      aura.scale.setScalar(1 + Math.sin(elapsed * 6) * 0.2);
+    }
+  });
+
+  // 4. Camera transition smoothing
+  if (cameraAnimating) {
+    camProgress += delta * 1.6;
+    if (camProgress >= 1) { camProgress = 1; cameraAnimating = false; }
+    const t = camProgress * camProgress * (3 - 2 * camProgress);
+    camera.position.lerpVectors(camStartPos, camEndPos, t);
+    controls.target.lerpVectors(camStartTar, camEndTar, t);
+  }
+
+  controls.update();
+  updateBubblesOverlay();
+  renderer.render(scene, camera);
+}
+
+// Initial state
+updateBottomBar();
+updateQueueCount();
+updateClock();
+setInterval(updateClock, 1000);
+
+// Demo: 3 characters waiting for approval
+setTimeout(() => {
+  setState('script', STATES.WAITING);
+  setState('design', STATES.WAITING);
+  setState('spy', STATES.WAITING);
+  addLog('📬 3 phòng ban đã hoàn tất công việc, đang cầm Capsule đứng xếp hàng chờ duyệt!');
+}, 1800);
+
+window.addEventListener('resize', () => {
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+animate();
+console.log('🐉 Vũ Trụ Ngọc Rồng - Cel-Shaded Anime Office đã sẵn sàng!');
+</script>
+</body>
+</html>

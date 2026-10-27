@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"The Story Publisher","version":"1.0.0","description":"Mở công cụ chọn Page, lên lịch và đăng Reels của bạn trên máy này.","action":{"default_title":"Mở The Story Publisher"},"background":{"service_worker":"background.js"}}

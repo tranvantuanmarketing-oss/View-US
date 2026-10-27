@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:04,110
+1. Posts → New post. Tạo bài mới; giữ chế độ Normal.
+
+2
+00:00:04,110 --> 00:00:07,514
+2. Nhập Title và Slug. Slug là phần cuối đường link bài viết.
+
+3
+00:00:07,514 --> 00:00:11,937
+3. Trong trình soạn thảo: bấm Tools rồi Source code.
+
+4
+00:00:11,937 --> 00:00:15,314
+4. Dán mẫu HTML. Giữ [STORY_PARTS]; mỗi tiêu đề phần dùng thẻ H2.
+
+5
+00:00:15,314 --> 00:00:19,063
+5. Đánh số phần liên tục: 1, 2, 3… Không để phần chỉ có tiêu đề trống.
+
+6
+00:00:19,063 --> 00:00:22,988
+6. Bấm Save trong Source Code để áp dụng nội dung vào trình soạn thảo.
+
+7
+00:00:22,988 --> 00:00:28,002
+7. Bài thật: bật Published rồi Save bài. Bài mẫu này chỉ minh họa, KHÔNG lưu.
+
+8
+00:00:28,002 --> 00:00:32,310
+8. Sau khi lưu bài thật: mở View post và kiểm tra dãy nút chia part.
+
+9
+00:00:32,310 --> 00:00:35,872
+9. Bấm Partie suivante: chuyển sang phần 2, không cần tạo bài riêng.
+
+10
+00:00:35,872 --> 00:00:40,257
+10. Bấm Partie 5 để nhảy trực tiếp đến phần cuối.
+
+11
+00:00:40,257 --> 00:00:46,388
+11. Cuối truyện không có nút Tiếp. Có thể chọn lại Partie 1.
+
+12
+00:00:46,388 --> 00:00:48,589
+12. Gắn Facebook bằng URL gốc /blog/slug. Không cần đuôi ?part=2.

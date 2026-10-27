@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,338
+Bước 1: Vào Series → New series để tạo bộ truyện.
+
+2
+00:00:03,338 --> 00:00:07,054
+Tạo Series: đặt tên truyện, ảnh bìa và mô tả ngắn. Không dán toàn bộ các phần ở đây.
+
+3
+00:00:07,054 --> 00:00:10,460
+Bước 2: Nhập tên Series. Video minh họa không lưu dữ liệu mẫu.
+
+4
+00:00:10,460 --> 00:00:14,083
+Khi làm thật: chọn ảnh bìa rồi Save Series. Ở đây Cancel và dùng Series đã có.
+
+5
+00:00:14,083 --> 00:00:21,207
+Bước 3: Tìm Series cần thêm chương. Bấm biểu tượng danh sách ở cột Actions.
+
+6
+00:00:21,207 --> 00:00:27,367
+Bước 4: Create chapter. Dán nội dung có dòng CHAPTER 1 - Tên phần, CHAPTER 2 - Tên phần…
+
+7
+00:00:27,367 --> 00:00:31,791
+Bước 5: Bật Keep chapter name → Analyze chapters. Kiểm tra số phần được tách.
+
+8
+00:00:31,791 --> 00:00:38,058
+Bước 6: Sửa tiêu đề từng chương. Có thể dùng Deel, Partie hoặc Część theo ngôn ngữ.
+
+9
+00:00:38,058 --> 00:00:41,810
+Bước 7: Bấm Edit để kiểm tra nội dung từng phần trước khi xuất bản.
+
+10
+00:00:41,810 --> 00:00:44,878
+Bước 8: Published để xuất bản. Show on home / Top news tùy nhu cầu; kiểm tra trước khi Save.
+
+11
+00:00:44,878 --> 00:00:51,946
+Làm bài thật: Save tạo trang riêng cho từng chương. Bản quay này Cancel để không lưu ví dụ.
+
+12
+00:00:51,946 --> 00:00:55,345
+Kết quả thật: mỗi phần có trang riêng. Bấm Next Chapter để đọc phần tiếp theo.
+
+13
+00:00:55,345 --> 00:00:58,705
+Đã sang Deel 2: URL và nội dung đổi sang chương 2, không phải ẩn/hiện bằng JavaScript.
+
+14
+00:00:58,705 --> 00:01:02,432
+Kiểm tra Previous / Next và danh sách 10 chương. Gắn link chương 1 vào bài Facebook.

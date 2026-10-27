@@ -1,0 +1,23 @@
+[
+  {
+    "skill": "content-tools",
+    "archive": "Content tools-v2.zip",
+    "archive_sha256": "7150be9049f24a8b34b538a99f142a9c0b2f7a8143a432b043adcd993c33ba6c",
+    "stored_path": "/Users/tony/Downloads/View US/skill/installed-packages-2026-10-25/content-tools/skills/content-tools",
+    "files": 3
+  },
+  {
+    "skill": "drama-post",
+    "archive": "Drama post-v11.zip",
+    "archive_sha256": "23e6b0b8cba40004a7cc238d503ea7cb2bfcf1f71aa66b6fb41484800910f2da",
+    "stored_path": "/Users/tony/Downloads/View US/skill/installed-packages-2026-10-25/drama-post/skills/drama-post",
+    "files": 1
+  },
+  {
+    "skill": "new-story",
+    "archive": "New story-v5.zip",
+    "archive_sha256": "9cdf0d4dd939b53a8a907fdf1f726ce9a751ca39d62fd809d4135bd010f6312c",
+    "stored_path": "/Users/tony/Downloads/View US/skill/installed-packages-2026-10-25/new-story/skills/new-story",
+    "files": 65
+  }
+]

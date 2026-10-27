@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "observedOn": "2026-10-25",
+  "businessId": "2435158500223165",
+  "businessName": "The Story 01",
+  "status": "five_pages_connected_pending_live_publish_test",
+  "metaAppId": "3450364798466847",
+  "loginConfigurationId": "1940586756925880",
+  "loginConfigurationName": "Pilot 5 Pages",
+  "requestedScopes": ["pages_manage_posts", "pages_show_list", "pages_read_engagement", "pages_manage_engagement", "pages_read_user_content", "business_management"],
+  "oauthStatus": "Business management consent granted after explicit user approval, limited to The Story 01 (2435158500223165). Page grants limited to five current Pages. New token discovery returned all five. Publisher verified each Page token identity and saved encrypted Page tokens with tasks and scope evidence. All five show CREATE_CONTENT and pages_manage_engagement. No actual post/comment published. Token lifetime/renewal is not yet verified.",
+  "postingStrategy": "Local worker waits for each Page's configured slot and then publishes immediately with video_state=PUBLISHED. Do not send scheduled_publish_time or create scheduled posts on Meta. Comment 1 follows confirmed publication. This is API publishing, not browser-click automation.",
+  "mode": "draft_only",
+  "autoPublishEnabled": false,
+  "manualStudioUnchanged": true,
+  "targetVideosPerPagePerDay": 5,
+  "timezone": "Asia/Ho_Chi_Minh",
+  "timeSlots": ["09:00", "12:00", "15:00", "18:00", "21:00"],
+  "note": "Progress manifest only; no credentials in this file. Five live connections saved through Publisher UI. Vietnamese timezone and five starter slots are editable defaults, not performance recommendations. Zero jobs scheduled; zero posts published. Manual Studio untouched. Need approved test video/caption/Page and token lifetime audit before unattended production.",
+  "pages": [
+    {"id": "107489462228044", "name": "Nghiện IELTS-Tài liệu IELTS giá rẻ", "apiVerified": true, "livePublished": false},
+    {"id": "783405241533648", "name": "Tủ Phim - Xem rồi nghiện phim", "apiVerified": true, "livePublished": false},
+    {"id": "862640380267439", "name": "Tủ Phim - Trà Sữa Nghe Ngược", "apiVerified": true, "livePublished": false},
+    {"id": "664859260049031", "name": "Hà xinh gái", "apiVerified": true, "livePublished": false},
+    {"id": "104625669131300", "name": "VanTuan Agency", "apiVerified": true, "livePublished": false, "accessReviewNotice": "Cần xem lại những người có quyền truy cập vào Trang Facebook"}
+  ]
+}
