@@ -1,0 +1,65 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Git backups of nested repos
+**/.git_backup/
+.git_backup/
+
+# Node dependencies
+node_modules/
+**/node_modules/
+/.pnp
+.pnp.js
+**/.pnp
+**/.pnp.js
+
+# Build outputs and caches
+.next/
+**/.next/
+**/.next-*/
+build/
+**/build/
+dist/
+**/dist/
+out/
+**/out/
+.turbo/
+**/.turbo/
+.vercel/
+**/.vercel/
+*.tsbuildinfo
+**/*.tsbuildinfo
+
+# Render cache & temporary media
+reels-studio-v2/public/renders/
+**/public/renders/
+.tempmediaStorage/
+**/.tempmediaStorage/
+test-results/
+**/test-results/
+
+# Files > 100MB (exceeds GitHub 100MB hard limit)
+*.mov
+Tài nguyên/*.mov
+Tài nguyên/*.mov
+
+# Local environment secrets
+.env.local
+.env.*.local
+**/.env.local
+**/.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/.pnpm-debug.log*
