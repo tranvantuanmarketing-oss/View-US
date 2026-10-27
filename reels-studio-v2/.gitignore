@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+/.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Environment files
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Playwright & Helper local renders
+test-results/
+helper/dist/
+~/Reels/
+
+# Local workspace data and verification media
+data/
+public/renders/
+.tempmediaStorage/
+.next-production/
+tsconfig.tsbuildinfo
+
+# Managed production runtime (separate from build output)
+.next-runtime/
+.next-runtime-*/
