@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story Video Studio - Tự Động Gen Video & File Kèm Link Hàng Loạt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- TOP BAR -->
+    <header class="top-bar">
+      <div class="brand">
+        <div class="logo-badge">🎬</div>
+        <div>
+          <h1>Story Video Studio <span class="tag">Auto Batch Pro</span></h1>
+          <p class="subtitle">Tự động kết xuất Video thẻ chữ 9:16 chuẩn Reels + File TXT ghim link hàng loạt</p>
+        </div>
+      </div>
+      <div class="quick-stats">
+        <div class="stat-pill"><span class="stat-num" id="statStoryCount">3</span> Kịch bản sẵn sàng</div>
+        <div class="stat-pill"><span class="stat-num" id="statAvatarCount">22</span> Avatar trong kho</div>
+        <div class="stat-pill"><span class="stat-num">3</span> Themes đối thủ</div>
+      </div>
+    </header>
+
+    <!-- MAIN WORKSPACE -->
+    <main class="main-layout">
+      <!-- LEFT: CONTROLS & BATCH INPUT -->
+      <section class="left-panel">
+        
+        <!-- SECTION 1: CÀI ĐẶT CHUNG & THEME -->
+        <div class="card-panel">
+          <div class="panel-header">
+            <h3>⚙️ 1. Cấu Hình Theme & Fanpage</h3>
+          </div>
+          
+          <div class="form-grid">
+            <div class="form-group">
+              <label>Giao Diện Thẻ (Theme chuẩn đối thủ):</label>
+              <select id="selectTheme">
+                <option value="the-trang-hong" selected>🌸 Thẻ Trắng Nền Hồng (the-trang-hong)</option>
+                <option value="the-trang-serif">📜 Thẻ Trắng Font Serif (the-trang-serif)</option>
+                <option value="the-trang-vang">☀️ Thẻ Trắng Nền Vàng (the-trang-vang)</option>
+              </select>
+            </div>
+            
+            <div class="form-group">
+              <label>Thời lượng Video (Giữ chân người xem):</label>
+              <select id="selectDuration">
+                <option value="5">⚡ 5 Giây (Test nhanh siêu tốc - Khuyên dùng khi ren 30 video)</option>
+                <option value="15">15 Giây (Chuẩn Retention tối ưu)</option>
+                <option value="20" selected>20 Giây (Bản gốc đối thủ - Khuyên dùng khi đăng)</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-group" style="margin-top: 10px;">
+            <label>Âm thanh & Nhạc nền (Acoustic Piano không bản quyền):</label>
+            <select id="selectAudio">
+              <option value="assets/audio/music_1.mp4" selected>🎵 Nhạc 1: Piano thư thái (Bản gốc đối thủ #1)</option>
+              <option value="assets/audio/music_2.mp4">🎵 Nhạc 2: Acoustic sâu lắng (Bản gốc đối thủ #2)</option>
+              <option value="assets/audio/music_3.mp4">🎵 Nhạc 3: Piano kịch tính (Bản gốc đối thủ #3)</option>
+              <option value="random">🔀 Tự động ngẫu nhiên hóa giữa các bản nhạc</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- SECTION 2: KHO AVATAR POOL (TIẾT KIỆM TOKEN) -->
+        <div class="card-panel">
+          <div class="panel-header">
+            <h3>👤 2. Kho Avatar Pool (Tiết Kiệm 100% Token)</h3>
+            <span class="badge-hint">Tự động xoay vòng ảnh vuông</span>
+          </div>
+          <p class="panel-desc">Hệ thống tích hợp sẵn kho ảnh chân dung đa dạng. Bạn có thể chọn cố định hoặc để chế độ ngẫu nhiên tự động.</p>
+          
+          <div class="avatar-controls">
+            <label class="radio-label">
+              <input type="radio" name="avatarMode" value="random" checked>
+              <span>🔀 Tự động bốc ngẫu nhiên từ kho 22+ Avatar</span>
+            </label>
+            <label class="radio-label">
+              <input type="radio" name="avatarMode" value="pick">
+              <span>🎯 Chọn 1 avatar cố định</span>
+            </label>
+          </div>
+
+          <div class="avatar-carousel" id="avatarList">
+            <!-- Populated via JS -->
+          </div>
+        </div>
+
+        <!-- SECTION 3: BATCH INPUT KỊCH BẢN -->
+        <div class="card-panel">
+          <div class="panel-header">
+            <h3>📝 3. Danh Sách Kịch Bản Hàng Loạt (Batch Input)</h3>
+            <div class="header-actions">
+              <button class="btn-sm btn-accent" id="btnLoadSample30" style="background: linear-gradient(135deg, #ec4899, #8b5cf6); color: white; border: none; font-weight: bold;">🔥 NẠP TRỌN BỘ 30 TRUYỆN TEST</button>
+              <button class="btn-sm btn-outline" id="btnLoadSampleFR">Pháp (15) 🇫🇷</button>
+              <button class="btn-sm btn-outline" id="btnLoadSampleNL">Hà Lan (10) 🇳🇱</button>
+              <button class="btn-sm btn-outline" id="btnLoadSampleDE">Đức (5) 🇩🇪</button>
+            </div>
+          </div>
+          
+          <p class="panel-desc">Mỗi câu chuyện ngăn cách bằng <code>=== STORY ===</code>. Bạn có thể paste hàng chục câu chuyện một lúc vào đây.</p>
+
+          <textarea id="batchTextarea" rows="14" placeholder="Nhập kịch bản tại đây..."></textarea>
+
+          <div style="margin-top: 10px; display: flex; align-items: center; gap: 8px;">
+            <input type="checkbox" id="chkZipPackage" checked style="width: 18px; height: 18px; cursor: pointer;">
+            <label for="chkZipPackage" style="font-size: 13px; color: #34d399; font-weight: 600; cursor: pointer;">
+              📦 Đóng gói tất cả thành 1 file .ZIP duy nhất (Tải trọn bộ 30 Video + 30 File TXT không bị chặn popup)
+            </label>
+          </div>
+
+          <div class="action-bar">
+            <button class="btn btn-secondary" id="btnUpdatePreview">🔄 Cập Nhật Xem Trước</button>
+            <button class="btn btn-primary" id="btnRenderBatch">
+              <span class="btn-icon">⚡</span> RENDER TOÀN BỘ VIDEO & FILE TXT
+            </button>
+          </div>
+
+          <!-- PROGRESS BAR -->
+          <div class="progress-box" id="progressBox" style="display: none;">
+            <div class="progress-header">
+              <span id="progressText">Đang khởi tạo render...</span>
+              <span id="progressPercent">0%</span>
+            </div>
+            <div class="progress-track">
+              <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-detail" id="progressDetail">Vui lòng không tắt tab trong khi đang ghi video...</div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- RIGHT: LIVE PREVIEW & RENDER CANVAS -->
+      <section class="right-panel">
+        <div class="card-panel preview-wrapper">
+          <div class="panel-header">
+            <h3>📱 Xem Trước Thời Gian Thực (1080 x 1920)</h3>
+            <div class="story-nav">
+              <button class="btn-sm" id="btnPrevStory">◀ Trước</button>
+              <span id="currentStoryIndex">Bài 1 / 3</span>
+              <button class="btn-sm" id="btnNextStory">Sau ▶</button>
+            </div>
+          </div>
+
+          <!-- PHONE MOCKUP -->
+          <div class="phone-frame">
+            <div class="phone-screen">
+              <canvas id="previewCanvas" width="1080" height="1920"></canvas>
+            </div>
+          </div>
+
+          <div class="preview-actions" style="display: flex; flex-direction: column; gap: 10px; width: 100%;">
+            <button class="btn btn-success" id="btnDownloadSingle">
+              ⬇️ Tải Ngay Video Này (.mp4 + .txt)
+            </button>
+            <button class="btn btn-primary" id="btnDownloadAllRight" style="background: linear-gradient(135deg, #ec4899, #8b5cf6); font-size: 14px; font-weight: 700; box-shadow: 0 4px 15px rgba(236, 72, 153, 0.4);">
+              🚀 TẢI TOÀN BỘ VỀ (Gói .ZIP 30 Video + 30 TXT)
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- HIDDEN AUDIO PLAYER FOR RECORDING -->
+  <video id="audioPlayer" playsinline crossorigin="anonymous" style="display: none;"></video>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "name": "story-video-generator",
+  "version": "1.6.0",
+  "description": "Kho mẫu reel v1.6 - Đầy đủ 76 mẫu video Reels / TikTok kèm kịch bản chạy trên local (Port 8088)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "reels",
+    "video-generator",
+    "story-video-studio",
+    "templates"
+  ],
+  "author": "The Story Studio",
+  "license": "ISC"
+}

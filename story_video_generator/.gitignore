@@ -1,0 +1,13 @@
+# Scratch Chrome profiles
+scratch_chrome/
+scratch_chrome_test/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
