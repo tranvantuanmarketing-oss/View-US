@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giờ Hẹn Fanpage Pro - US Military</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    body {
+      width: 420px;
+      padding: 14px;
+      background: #18191a;
+      color: #e4e6eb;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #3a3b3c;
+    }
+    .header h2 {
+      font-size: 15px;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .badge-pink {
+      background: rgba(233, 30, 99, 0.2);
+      color: #ff4081;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 12px;
+      border: 1px solid rgba(255, 64, 129, 0.3);
+    }
+    .card {
+      background: #242526;
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 10px;
+      border: 1px solid #3a3b3c;
+    }
+    .alert-pink {
+      background: #2c1b26;
+      border: 1px solid #631f45;
+      border-radius: 8px;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    label {
+      display: block;
+      font-size: 11px;
+      font-weight: 700;
+      color: #b0b3b8;
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+    select, input[type="text"], textarea {
+      width: 100%;
+      padding: 7px 10px;
+      background: #18191a;
+      border: 1px solid #3a3b3c;
+      border-radius: 6px;
+      font-size: 12px;
+      color: #e4e6eb;
+      outline: none;
+    }
+    select:focus, input:focus, textarea:focus {
+      border-color: #ff4081;
+    }
+    .matrix-grid {
+      display: flex;
+      gap: 4px;
+      margin-top: 6px;
+    }
+    .slot-pill {
+      flex: 1;
+      padding: 5px 2px;
+      text-align: center;
+      background: #2b1b22;
+      border: 1px solid #4a2228;
+      border-radius: 5px;
+      font-size: 11px;
+      color: #ff5252;
+      cursor: pointer;
+    }
+    .slot-pill.active {
+      background: #4a154b;
+      border-color: #ff4081;
+      color: #ff80ab;
+      box-shadow: 0 0 6px rgba(255, 64, 129, 0.4);
+    }
+    .slot-pill b {
+      display: block;
+      font-size: 10.5px;
+    }
+    .slot-pill span {
+      display: block;
+      font-size: 9px;
+      opacity: 0.8;
+    }
+    .btn-action {
+      width: 100%;
+      padding: 10px;
+      background: #e91e63;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: background 0.2s;
+    }
+    .btn-action:hover {
+      background: #d81b60;
+    }
+    .btn-secondary {
+      background: #3a3b3c;
+      color: #e4e6eb;
+      margin-top: 6px;
+    }
+    .btn-secondary:hover {
+      background: #4e4f50;
+    }
+    .status-box {
+      margin-top: 8px;
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-size: 11px;
+      display: none;
+    }
+    .status-success { background: rgba(46, 125, 50, 0.2); color: #81c784; border: 1px solid #2e7d32; }
+    .status-error { background: rgba(198, 40, 40, 0.2); color: #ef5350; border: 1px solid #c62828; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h2><span style="color: #ff4081;">🕒</span> Giờ Hẹn Fanpage Pro</h2>
+    <span class="badge-pink">US Military v4.0</span>
+  </div>
+
+  <!-- Top Alert -->
+  <div class="alert-pink">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="color: #ff80ab; font-weight: 700; font-size: 12px;" id="lblNextSlot">
+        Trống tiếp: 08:00 AM (Chicago)
+      </span>
+      <span style="background: #e91e63; color: white; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: bold;">
+        Tự nhận
+      </span>
+    </div>
+    <div style="color: #b0b3b8; font-size: 10.5px; margin-top: 4px;" id="lblPageDesc">
+      Chênh 12 tiếng: Giờ Chicago và Giờ VN cùng số, chỉ khác AM/PM!
+    </div>
+  </div>
+
+  <!-- 1. Chọn Thị Trường & Page -->
+  <div class="card">
+    <label>1. Chọn Page đang lên bài:</label>
+    <select id="marketSelect">
+      <optgroup label="🇺🇸 MẶC ĐỊNH - Page Quân Đội Mỹ (Chicago GMT-5)">
+        <option value="Fateful Turns" selected>Fateful Turns (Mỹ - 08:00 AM)</option>
+        <option value="Closed Doors">Closed Doors (Mỹ - 08:15 AM)</option>
+      </optgroup>
+      <optgroup label="🇪🇺 Page Châu Âu (Hà Lan & Pháp)">
+        <option value="Stille Schaduwen">Stille Schaduwen (Hà Lan)</option>
+        <option value="Pacte Brisé">Pacte Brisé (Pháp)</option>
+        <option value="Verhalen van Ons">Verhalen van Ons (Hà Lan)</option>
+      </optgroup>
+    </select>
+  </div>
+
+  <!-- 2. Ma trận 5 Khung Giờ Chuẩn Hôm Nay -->
+  <div class="card">
+    <label>2. Năm Khung Giờ Vàng (Bấm chọn để điền):</label>
+    <div class="matrix-grid" id="todaySlotsGrid"></div>
+  </div>
+
+  <!-- 3. Soạn nhanh Caption & Bình luận 1 -->
+  <div class="card">
+    <label>3. Nội dung Video & Link ghim bình luận:</label>
+    <textarea id="txtCaption" style="height: 52px; margin-bottom: 6px;" placeholder="Dán Caption video quân đội vào đây..."></textarea>
+    <textarea id="txtComment" style="height: 48px;" placeholder="Dán link bài viết hoặc Comment 1 vào đây..."></textarea>
+  </div>
+
+  <!-- Nút Hành Động -->
+  <button class="btn-action" id="btnInjectNow">
+    ⚡ ĐIỀN GIỜ & NỘI DUNG VÀO FACEBOOK
+  </button>
+  <button class="btn-action btn-secondary" id="btnFocusMetaTab">
+    🌐 Mở / Chuyển tới Meta Business Suite
+  </button>
+
+  <div class="status-box" id="statusBox"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
